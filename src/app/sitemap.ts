@@ -1,15 +1,18 @@
 import { MetadataRoute } from "next";
+import { getAllSlugs, getArticle } from "@/lib/articles";
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://walking-pad-site.vercel.app";
-
-  const articles = [
-    "best-walking-pads-2026",
-    "walking-pad-vs-treadmill",
-    "best-walking-pad-under-200",
-    "are-walking-pads-worth-it",
-    "walking-pad-while-working",
-  ];
+  const articleSlugs = getAllSlugs();
+  const articleEntries = await Promise.all(
+    articleSlugs.map(async (slug) => {
+      const article = await getArticle(slug);
+      return {
+        slug,
+        dateModified: article?.dateModified ?? article?.date ?? "2026-03-01",
+      };
+    })
+  );
 
   const staticPages = [
     "",
@@ -26,9 +29,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       changeFrequency: "monthly" as const,
       priority: page === "" ? 1 : 0.5,
     })),
-    ...articles.map((slug) => ({
-      url: `${baseUrl}/${slug}`,
-      lastModified: new Date("2026-03-01"),
+    ...articleEntries.map((entry) => ({
+      url: `${baseUrl}/${entry.slug}`,
+      lastModified: new Date(entry.dateModified),
       changeFrequency: "monthly" as const,
       priority: 0.8,
     })),

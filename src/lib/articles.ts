@@ -11,6 +11,7 @@ export interface Article {
   content: string;
   htmlContent: string;
   date: string;
+  dateModified: string;
   category: string;
 }
 
@@ -18,7 +19,13 @@ const CONTENT_DIR = path.join(process.cwd(), "content");
 
 const articleMeta: Record<
   string,
-  { title: string; description: string; category: string; date: string }
+  {
+    title: string;
+    description: string;
+    category: string;
+    date: string;
+    dateModified: string;
+  }
 > = {
   "best-walking-pads-2026": {
     title: "Best Walking Pads of 2026: Ultimate Buyer's Guide",
@@ -26,13 +33,15 @@ const articleMeta: Record<
       "Discover the best walking pads of 2026. We reviewed 20+ models across every budget to find the top under-desk treadmills for home offices and standing desks.",
     category: "Buyer's Guide",
     date: "2026-03-01",
+    dateModified: "2026-03-01",
   },
   "walking-pad-vs-treadmill": {
-    title: "Walking Pad vs Treadmill: Key Differences (2026)",
+    title: "Walking Pad vs Treadmill: Which Is Better? (2026)",
     description:
-      "Walking pad vs treadmill: which is better in 2026? We compare size, speed, noise, price, and durability side by side to help you choose the right one.",
+      "Walking pad vs treadmill — which fits your desk setup? Compare size, speed, noise, price & durability side by side. Find your best match for 2026.",
     category: "Comparison",
     date: "2026-02-20",
+    dateModified: "2026-03-08",
   },
   "best-walking-pad-under-200": {
     title: "Best Walking Pad Under $200: Budget Picks That Actually Work",
@@ -40,6 +49,7 @@ const articleMeta: Record<
       "The best walking pads under $200 reviewed. Budget-friendly under-desk treadmills with quiet motors, decent belt sizes, and real value for desk workers.",
     category: "Budget Guide",
     date: "2026-02-15",
+    dateModified: "2026-02-15",
   },
   "are-walking-pads-worth-it": {
     title: "Are Walking Pads Worth It? An Honest Assessment",
@@ -47,6 +57,7 @@ const articleMeta: Record<
       "Are walking pads worth the investment? We break down the real pros, cons, health benefits, cost-per-use, and who should (and shouldn't) buy one.",
     category: "Analysis",
     date: "2026-02-10",
+    dateModified: "2026-02-10",
   },
   "walking-pad-while-working": {
     title:
@@ -55,6 +66,7 @@ const articleMeta: Record<
       "Learn how to use a walking pad while working without losing productivity. Desk setup, speed recommendations, ergonomic tips, and a sample daily schedule.",
     category: "Guide",
     date: "2026-02-05",
+    dateModified: "2026-02-05",
   },
 };
 
@@ -122,6 +134,10 @@ export async function getArticle(slug: string): Promise<Article | null> {
     "Detailed Breakdown: Walking Pad vs Under-Desk Treadmill": "detailed-breakdown",
     "Pros and Cons: Walking Pad": "pros-cons-walking-pad",
     "Pros and Cons: Under-Desk Treadmill": "pros-cons-treadmill",
+    "Size and Portability Comparison": "size-portability-comparison",
+    "Noise Level: Walking Pad dB vs Treadmill dB": "noise-level-db-comparison",
+    "Price Range Breakdown": "price-range-breakdown",
+    "Sources & Methodology": "sources-methodology",
     "Who Should Buy a Walking Pad?": "who-should-buy-walking-pad",
     "Who Should Buy an Under-Desk Treadmill?": "who-should-buy-treadmill",
     'The "Hybrid" Category: Walking Pads With Handles': "hybrid-category",
@@ -154,6 +170,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
     content: processed,
     htmlContent,
     date: meta.date,
+    dateModified: meta.dateModified,
     category: meta.category,
   };
 }

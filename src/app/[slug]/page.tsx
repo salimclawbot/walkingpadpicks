@@ -1,6 +1,7 @@
 import { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Image from "next/image";
+import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 
@@ -17,9 +18,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!article) return {};
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
+  const articleImages = [
+    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
+    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
+    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
+    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
+  ];
 
   return {
-    title: article.title,
+    title: isVsTreadmill ? { absolute: article.title } : article.title,
     description: article.description,
     alternates: {
       canonical: `https://walking-pad-site.vercel.app/${article.slug}`,
@@ -28,17 +35,20 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       title: article.title,
       description: article.description,
       url: `https://walking-pad-site.vercel.app/${article.slug}`,
+      siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
       ...(isVsTreadmill && {
-        images: [
-          {
-            url: "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
-            width: 1200,
-            height: 630,
-            alt: "Side-by-side comparison of a slim walking pad and a larger under-desk treadmill in a modern home office with a standing desk",
-          },
-        ],
+        images: articleImages.map((url) => ({ url })),
+      }),
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: article.title,
+      description: article.description,
+      site: "@walkingpadpicks",
+      ...(isVsTreadmill && {
+        images: articleImages,
       }),
     },
   };
@@ -221,8 +231,8 @@ export default async function ArticlePage({ params }: PageProps) {
     "@type": "Article",
     headline: article.title,
     description: article.description,
-    datePublished: isVsTreadmill ? "2026-02-20" : article.date,
-    dateModified: isVsTreadmill ? "2026-03-08" : article.date,
+    datePublished: article.date,
+    dateModified: article.dateModified,
     author: {
       "@type": "Organization",
       name: "WalkingPadPicks",
@@ -232,13 +242,27 @@ export default async function ArticlePage({ params }: PageProps) {
       "@type": "Organization",
       name: "WalkingPadPicks",
       url: "https://walking-pad-site.vercel.app",
+      logo: {
+        "@type": "ImageObject",
+        url: "https://walking-pad-site.vercel.app/icon.svg",
+      },
+      sameAs: [
+        "https://x.com/walkingpadpicks",
+        "https://www.facebook.com/walkingpadpicks",
+        "https://www.linkedin.com/company/walkingpadpicks",
+      ],
     },
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `https://walking-pad-site.vercel.app/${article.slug}`,
     },
     ...(isVsTreadmill && {
-      image: "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
+      image: [
+        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
+        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
+        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
+        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
+      ],
     }),
   };
 
@@ -269,7 +293,10 @@ export default async function ArticlePage({ params }: PageProps) {
     const [, afterTable] = splitHtmlAt(afterIntro, '<h2 id="detailed-breakdown">Detailed Breakdown');
 
     // Split detailed breakdown at "Noise Level" heading to insert size comparison image
-    const [detailPart1, detailPart2] = splitHtmlAt(afterTable, "<h3>Noise Level</h3>");
+    const [detailPart1, detailPart2] = splitHtmlAt(
+      afterTable,
+      "<h3 id=\"noise-level-db-comparison\">Noise Level: Walking Pad dB vs Treadmill dB</h3>"
+    );
 
     // Split at "The Bottom Line" for lifestyle image
     const [middlePart, bottomLine] = splitHtmlAt(detailPart2, '<h2 id="bottom-line">The Bottom Line');
@@ -283,7 +310,7 @@ export default async function ArticlePage({ params }: PageProps) {
   }
 
   const h1 = isVsTreadmill
-    ? "Walking Pad vs Treadmill: What Are the Key Differences?"
+    ? "Walking Pad vs Treadmill: Which Is Better for You?"
     : article.title;
 
   return (
@@ -324,17 +351,19 @@ export default async function ArticlePage({ params }: PageProps) {
         </h1>
 
         {isVsTreadmill && (
-          <>
-            {/* Featured snippet paragraph */}
-            <p className="text-base text-gray-800 leading-relaxed mb-8">
-              <strong>
-                The main difference between a walking pad and a treadmill is size, speed, and
-                purpose. Walking pads are ultra-slim portable devices limited to roughly 4 mph
-                walking speeds. Treadmills including under-desk models offer higher speeds, larger
-                belts, and more features but cost more and take up more space.
-              </strong>
+          <div className="text-sm text-gray-600 mb-8">
+            <p>
+              By the{" "}
+              <Link href="/about" className="text-teal-700 hover:text-teal-900 hover:underline">
+                WalkingPadPicks Editorial Team
+              </Link>
             </p>
+            <p className="mt-1">Last updated: March 8, 2026</p>
+          </div>
+        )}
 
+        {isVsTreadmill && (
+          <>
             {/* Table of Contents */}
             <TableOfContents items={vsTreadmillToc} />
 
@@ -354,6 +383,9 @@ export default async function ArticlePage({ params }: PageProps) {
                 className="rounded-lg w-full h-auto"
                 priority
               />
+              <figcaption className="text-sm text-gray-600 mt-2">
+                Walking pad (left) vs under-desk treadmill (right) in a home office setup.
+              </figcaption>
             </figure>
 
             {/* Comparison table heading area - replace with custom table */}
@@ -372,6 +404,9 @@ export default async function ArticlePage({ params }: PageProps) {
                 height={600}
                 className="rounded-lg w-full h-auto"
               />
+              <figcaption className="text-sm text-gray-600 mt-2">
+                Key specs compared across 7 categories.
+              </figcaption>
             </figure>
 
             {/* Detailed breakdown first half */}
