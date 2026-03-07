@@ -28,9 +28,9 @@ const articleMeta: Record<
     date: "2026-03-01",
   },
   "walking-pad-vs-treadmill": {
-    title: "Walking Pad vs Under-Desk Treadmill: What's the Difference?",
+    title: "Walking Pad vs Treadmill: Key Differences (2026)",
     description:
-      "Walking pad vs under-desk treadmill: size, speed, noise, price, and features compared side by side. Find out which is right for your workspace.",
+      "Walking pad vs treadmill: which is better in 2026? We compare size, speed, noise, price, and durability side by side to help you choose the right one.",
     category: "Comparison",
     date: "2026-02-20",
   },
@@ -112,7 +112,33 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const processed = processContent(raw);
 
   const result = await remark().use(html, { sanitize: false }).process(processed);
-  const htmlContent = result.toString();
+  let htmlContent = result.toString();
+
+  // Add IDs to headings for anchor links
+  const headingIdMap: Record<string, string> = {
+    "What Is a Walking Pad?": "what-is-a-walking-pad",
+    "What Is an Under-Desk Treadmill?": "what-is-an-under-desk-treadmill",
+    "Walking Pad vs Treadmill: Side-by-Side Comparison Table": "side-by-side-comparison",
+    "Detailed Breakdown: Walking Pad vs Under-Desk Treadmill": "detailed-breakdown",
+    "Pros and Cons: Walking Pad": "pros-cons-walking-pad",
+    "Pros and Cons: Under-Desk Treadmill": "pros-cons-treadmill",
+    "Who Should Buy a Walking Pad?": "who-should-buy-walking-pad",
+    "Who Should Buy an Under-Desk Treadmill?": "who-should-buy-treadmill",
+    'The "Hybrid" Category: Walking Pads With Handles': "hybrid-category",
+    "The &#x22;Hybrid&#x22; Category: Walking Pads With Handles": "hybrid-category",
+    "Key Factors to Consider Before Buying": "key-factors",
+    "Frequently Asked Questions": "faq",
+    "The Bottom Line: Walking Pad vs Under-Desk Treadmill": "bottom-line",
+  };
+
+  htmlContent = htmlContent.replace(
+    /<(h[23])>(.*?)<\/\1>/g,
+    (match, tag, text) => {
+      const id = headingIdMap[text];
+      if (id) return `<${tag} id="${id}">${text}</${tag}>`;
+      return match;
+    }
+  );
 
   // Extract first paragraph as excerpt
   const excerptMatch = raw.match(/\*\*(.*?)\*\*/);
