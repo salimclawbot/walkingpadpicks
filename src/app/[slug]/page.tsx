@@ -424,6 +424,7 @@ export default async function ArticlePage({ params }: PageProps) {
                 height={450}
                 className="rounded-lg w-full h-auto"
               />
+              <figcaption className="text-sm text-gray-600 mt-2">Top-down size comparison: walking pad (left) vs under-desk treadmill (right).</figcaption>
             </figure>
 
             {/* Middle content */}
@@ -445,6 +446,7 @@ export default async function ArticlePage({ params }: PageProps) {
                   height={450}
                   className="rounded-lg w-full h-auto"
                 />
+                <figcaption className="text-sm text-gray-600 mt-2">Walking while working in a compact home office setup.</figcaption>
               </figure>
             </div>
           </>
