@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://walkingpadpicks.vercel.app";
+  const baseUrl = "https://walking-pad-site.vercel.app";
 
   const articles = [
     "best-walking-pads-2026",
@@ -15,7 +15,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "",
     "about",
     "contact",
-    "privacy-policy",
+    "privacy",
     "affiliate-disclosure",
   ];
 

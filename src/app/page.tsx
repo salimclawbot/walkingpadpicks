@@ -6,12 +6,12 @@ export const metadata: Metadata = {
   title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides 2026",
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads in 2026.",
-  alternates: { canonical: "https://walkingpadpicks.vercel.app" },
+  alternates: { canonical: "https://walking-pad-site.vercel.app" },
   openGraph: {
     title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides",
     description:
       "Find the best walking pad for your home office. Independent reviews and buyer's guides for under-desk treadmills.",
-    url: "https://walkingpadpicks.vercel.app",
+    url: "https://walking-pad-site.vercel.app",
     type: "website",
   },
 };

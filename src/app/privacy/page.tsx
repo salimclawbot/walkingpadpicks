@@ -6,13 +6,13 @@ export const metadata: Metadata = {
   description:
     "WalkingPadPicks privacy policy. Learn how we collect, use, and protect your information.",
   alternates: {
-    canonical: "https://walkingpadpicks.vercel.app/privacy-policy",
+    canonical: "https://walking-pad-site.vercel.app/privacy",
   },
 };
 
 export default function PrivacyPolicyPage() {
   const schema = breadcrumbSchema([
-    { name: "Privacy Policy", url: "/privacy-policy" },
+    { name: "Privacy Policy", url: "/privacy" },
   ]);
 
   return (

@@ -19,12 +19,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: article.title,
     description: article.description,
     alternates: {
-      canonical: `https://walkingpadpicks.vercel.app/${article.slug}`,
+      canonical: `https://walking-pad-site.vercel.app/${article.slug}`,
     },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://walkingpadpicks.vercel.app/${article.slug}`,
+      url: `https://walking-pad-site.vercel.app/${article.slug}`,
       type: "article",
       publishedTime: article.date,
     },
@@ -49,16 +49,16 @@ export default async function ArticlePage({ params }: PageProps) {
     author: {
       "@type": "Organization",
       name: "WalkingPadPicks",
-      url: "https://walkingpadpicks.vercel.app",
+      url: "https://walking-pad-site.vercel.app",
     },
     publisher: {
       "@type": "Organization",
       name: "WalkingPadPicks",
-      url: "https://walkingpadpicks.vercel.app",
+      url: "https://walking-pad-site.vercel.app",
     },
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://walkingpadpicks.vercel.app/${article.slug}`,
+      "@id": `https://walking-pad-site.vercel.app/${article.slug}`,
     },
   };
 

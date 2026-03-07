@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "WalkingPadPicks affiliate disclosure. How we earn revenue and maintain editorial independence.",
   alternates: {
-    canonical: "https://walkingpadpicks.vercel.app/affiliate-disclosure",
+    canonical: "https://walking-pad-site.vercel.app/affiliate-disclosure",
   },
 };
 

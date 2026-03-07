@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Contact Us",
   description:
     "Get in touch with the WalkingPadPicks team. Questions, suggestions, corrections, and partnership inquiries welcome.",
-  alternates: { canonical: "https://walkingpadpicks.vercel.app/contact" },
+  alternates: { canonical: "https://walking-pad-site.vercel.app/contact" },
 };
 
 export default function ContactPage() {

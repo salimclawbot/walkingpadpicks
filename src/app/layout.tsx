@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   },
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
-  metadataBase: new URL("https://walkingpadpicks.vercel.app"),
+  metadataBase: new URL("https://walking-pad-site.vercel.app"),
   openGraph: {
     siteName: "WalkingPadPicks",
     type: "website",
