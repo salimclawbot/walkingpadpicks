@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
+import ComparisonVideo from "@/components/ComparisonVideo";
 
 interface PageProps {
   params: { slug: string };
@@ -106,24 +107,78 @@ interface ProductRow {
   weight: string;
   price: string;
   amazonQuery: string;
+  imageSrc: string;
+  imageAlt: string;
 }
 
 const comparisonProducts: ProductRow[] = [
-  { name: "WalkingPad C2", type: "Walking Pad", maxSpeed: "3.7 mph", beltSize: "16\" x 40\"", weight: "33 lbs", price: "$249", amazonQuery: "WalkingPad+C2+walking+pad" },
-  { name: "Sperax Walking Pad", type: "Walking Pad", maxSpeed: "4 mph", beltSize: "17\" x 42\"", weight: "44 lbs", price: "$199", amazonQuery: "Sperax+walking+pad" },
-  { name: "UREVO 2-in-1", type: "Walking Pad", maxSpeed: "4 mph", beltSize: "16.5\" x 43\"", weight: "55 lbs", price: "$229", amazonQuery: "UREVO+2+in+1+walking+pad" },
-  { name: "Goplus 2-in-1", type: "Under-Desk Treadmill", maxSpeed: "6 mph", beltSize: "17\" x 45\"", weight: "60 lbs", price: "$329", amazonQuery: "Goplus+2+in+1+under+desk+treadmill" },
-  { name: "UMAY Under Desk", type: "Under-Desk Treadmill", maxSpeed: "6 mph", beltSize: "18\" x 47\"", weight: "66 lbs", price: "$379", amazonQuery: "UMAY+under+desk+treadmill" },
-  { name: "WalkingPad R2", type: "Under-Desk Treadmill", maxSpeed: "7.5 mph", beltSize: "18\" x 48\"", weight: "72 lbs", price: "$599", amazonQuery: "WalkingPad+R2+treadmill" },
+  {
+    name: "WalkingPad C2",
+    type: "Walking Pad",
+    maxSpeed: "3.7 mph",
+    beltSize: "16\" x 40\"",
+    weight: "33 lbs",
+    price: "$249",
+    amazonQuery: "WalkingPad+C2+walking+pad",
+    imageSrc: "/images/products/walkingpad-c2.svg",
+    imageAlt: "WalkingPad C2 walking pad product image",
+  },
+  {
+    name: "Sperax Walking Pad",
+    type: "Walking Pad",
+    maxSpeed: "4 mph",
+    beltSize: "17\" x 42\"",
+    weight: "44 lbs",
+    price: "$199",
+    amazonQuery: "Sperax+walking+pad",
+    imageSrc: "/images/products/sperax.svg",
+    imageAlt: "Sperax walking pad product image",
+  },
+  {
+    name: "UREVO 2-in-1",
+    type: "Walking Pad",
+    maxSpeed: "4 mph",
+    beltSize: "16.5\" x 43\"",
+    weight: "55 lbs",
+    price: "$229",
+    amazonQuery: "UREVO+2+in+1+walking+pad",
+    imageSrc: "/images/products/urevo-2in1.svg",
+    imageAlt: "UREVO 2-in-1 walking pad product image",
+  },
+  {
+    name: "Goplus 2-in-1",
+    type: "Under-Desk Treadmill",
+    maxSpeed: "6 mph",
+    beltSize: "17\" x 45\"",
+    weight: "60 lbs",
+    price: "$329",
+    amazonQuery: "Goplus+2+in+1+under+desk+treadmill",
+    imageSrc: "/images/products/goplus-2in1.svg",
+    imageAlt: "Goplus 2-in-1 under-desk treadmill product image",
+  },
+  {
+    name: "UMAY Under Desk",
+    type: "Under-Desk Treadmill",
+    maxSpeed: "6 mph",
+    beltSize: "18\" x 47\"",
+    weight: "66 lbs",
+    price: "$379",
+    amazonQuery: "UMAY+under+desk+treadmill",
+    imageSrc: "/images/products/umay.svg",
+    imageAlt: "UMAY under-desk treadmill product image",
+  },
+  {
+    name: "WalkingPad R2",
+    type: "Under-Desk Treadmill",
+    maxSpeed: "7.5 mph",
+    beltSize: "18\" x 48\"",
+    weight: "72 lbs",
+    price: "$599",
+    amazonQuery: "WalkingPad+R2+treadmill",
+    imageSrc: "/images/products/walkingpad-r2.svg",
+    imageAlt: "WalkingPad R2 treadmill product image",
+  },
 ];
-
-function ProductImageCard({ name }: { name: string }) {
-  return (
-    <div className="w-[150px] h-[150px] bg-teal-50 border-2 border-teal-200 rounded-lg flex items-center justify-center p-3 mx-auto">
-      <span className="text-teal-700 font-bold text-center text-sm leading-tight">{name}</span>
-    </div>
-  );
-}
 
 function ComparisonTableWithProducts() {
   return (
@@ -144,7 +199,13 @@ function ComparisonTableWithProducts() {
           {comparisonProducts.map((p, i) => (
             <tr key={p.name} className={i % 2 === 0 ? "bg-white" : "bg-gray-50"}>
               <td className="p-3">
-                <ProductImageCard name={p.name} />
+                <Image
+                  src={p.imageSrc}
+                  alt={p.imageAlt}
+                  width={150}
+                  height={150}
+                  className="rounded-lg mx-auto border border-gray-200"
+                />
               </td>
               <td className="p-3 font-medium">{p.type}</td>
               <td className="p-3 text-center">{p.maxSpeed}</td>
@@ -212,6 +273,14 @@ function splitHtmlAt(html: string, marker: string): [string, string] {
   const idx = html.indexOf(marker);
   if (idx === -1) return [html, ""];
   return [html.slice(0, idx), html.slice(idx)];
+}
+
+function splitHtmlAtAny(html: string, markers: string[]): [string, string] {
+  for (const marker of markers) {
+    const idx = html.indexOf(marker);
+    if (idx !== -1) return [html.slice(0, idx), html.slice(idx)];
+  }
+  return [html, ""];
 }
 
 /* ---------- Main Page ---------- */
@@ -309,6 +378,27 @@ export default async function ArticlePage({ params }: PageProps) {
     ];
   }
 
+  const introHtml = contentSections[0]?.html ?? "";
+  const [featuredSnippetHtml, introAfterSnippetHtml] = splitHtmlAtAny(introHtml, [
+    "<p>If you're exploring desk walking",
+    "<p>If you&#x27;re exploring desk walking",
+    "<p>If you&#39;re exploring desk walking",
+  ]);
+
+  const detailHtml = contentSections[1]?.html ?? "";
+  const sizeHeadingMarker = '<h3 id="size-portability-comparison">Size and Portability Comparison</h3>';
+  const [detailBeforeSizeHeading, detailFromSizeHeading] = splitHtmlAt(detailHtml, sizeHeadingMarker);
+  const detailAfterSizeHeading = detailFromSizeHeading.startsWith(sizeHeadingMarker)
+    ? detailFromSizeHeading.slice(sizeHeadingMarker.length)
+    : detailFromSizeHeading;
+  const [sizeSectionRest, detailAfterSizeSection] = splitHtmlAt(detailAfterSizeHeading, "<h3>Speed and Exercise Intensity</h3>");
+
+  const deskHeadingMarker = "<h3>Desk Compatibility</h3>";
+  const [detailBeforeDeskHeading, detailFromDeskHeading] = splitHtmlAt(detailAfterSizeSection, deskHeadingMarker);
+  const detailAfterDeskHeading = detailFromDeskHeading.startsWith(deskHeadingMarker)
+    ? detailFromDeskHeading.slice(deskHeadingMarker.length)
+    : detailFromDeskHeading;
+
   const h1 = isVsTreadmill
     ? "Walking Pad vs Treadmill: Which Is Better for You?"
     : article.title;
@@ -364,14 +454,19 @@ export default async function ArticlePage({ params }: PageProps) {
 
         {isVsTreadmill && (
           <>
+            {/* Intro featured snippet */}
+            <div className="prose" dangerouslySetInnerHTML={{ __html: featuredSnippetHtml }} />
+
+            {/* 30-second comparison video */}
+            <ComparisonVideo />
+
             {/* Table of Contents */}
             <TableOfContents items={vsTreadmillToc} />
 
-            {/* Intro section */}
-            <div
-              className="prose"
-              dangerouslySetInnerHTML={{ __html: contentSections[0].html }}
-            />
+            {/* Intro section remainder */}
+            {introAfterSnippetHtml && (
+              <div className="prose" dangerouslySetInnerHTML={{ __html: introAfterSnippetHtml }} />
+            )}
 
             {/* Hero image */}
             <figure className="my-8">
@@ -410,10 +505,40 @@ export default async function ArticlePage({ params }: PageProps) {
             </figure>
 
             {/* Detailed breakdown first half */}
-            <div
-              className="prose"
-              dangerouslySetInnerHTML={{ __html: contentSections[1].html }}
-            />
+            <div className="prose" dangerouslySetInnerHTML={{ __html: detailBeforeSizeHeading }} />
+            <div className="prose" dangerouslySetInnerHTML={{ __html: sizeHeadingMarker }} />
+            <div className="prose" dangerouslySetInnerHTML={{ __html: sizeSectionRest }} />
+
+            <figure className="my-8">
+              <Image
+                src="/images/walking-pad-storage-folded.png"
+                alt="Folded walking pad being stored under a sofa showing compact portable design"
+                width={800}
+                height={450}
+                className="rounded-lg w-full h-auto"
+              />
+              <figcaption className="text-sm text-gray-600 mt-2">
+                Walking pads fold flat for easy storage under furniture.
+              </figcaption>
+            </figure>
+
+            <div className="prose" dangerouslySetInnerHTML={{ __html: detailBeforeDeskHeading }} />
+            <div className="prose" dangerouslySetInnerHTML={{ __html: deskHeadingMarker }} />
+
+            <figure className="my-8">
+              <Image
+                src="/images/walking-pad-ergonomic-setup.png"
+                alt="Ergonomic standing desk setup with a walking pad showing proper monitor and keyboard height"
+                width={800}
+                height={450}
+                className="rounded-lg w-full h-auto"
+              />
+              <figcaption className="text-sm text-gray-600 mt-2">
+                Proper ergonomic setup: monitor at eye level, keyboard at elbow height, walking pad underneath.
+              </figcaption>
+            </figure>
+
+            <div className="prose" dangerouslySetInnerHTML={{ __html: detailAfterDeskHeading }} />
 
             {/* Size comparison image */}
             <figure className="my-8">
