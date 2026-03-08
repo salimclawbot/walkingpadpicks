@@ -120,7 +120,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "33 lbs",
     price: "$249",
     amazonQuery: "WalkingPad+C2+walking+pad",
-    imageSrc: "https://m.media-amazon.com/images/I/61Yt0-yXURL._AC_SL1500_.jpg",
+    imageSrc: "/images/products/walkingpad-c2.png",
     imageAlt: "WalkingPad C2 walking pad product image",
   },
   {
@@ -131,7 +131,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "44 lbs",
     price: "$199",
     amazonQuery: "Sperax+walking+pad",
-    imageSrc: "https://m.media-amazon.com/images/I/71qMx5XHXOL._AC_SL1500_.jpg",
+    imageSrc: "/images/products/sperax.png",
     imageAlt: "Sperax walking pad product image",
   },
   {
@@ -142,7 +142,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "55 lbs",
     price: "$229",
     amazonQuery: "UREVO+2+in+1+walking+pad",
-    imageSrc: "https://m.media-amazon.com/images/I/61oLhMLa2BL._AC_SL1500_.jpg",
+    imageSrc: "/images/products/urevo-2in1.png",
     imageAlt: "UREVO 2-in-1 walking pad product image",
   },
   {
@@ -153,7 +153,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "60 lbs",
     price: "$329",
     amazonQuery: "Goplus+2+in+1+under+desk+treadmill",
-    imageSrc: "https://m.media-amazon.com/images/I/61yLqaRSvNL._AC_SL1500_.jpg",
+    imageSrc: "/images/products/goplus-2in1.png",
     imageAlt: "Goplus 2-in-1 under-desk treadmill product image",
   },
   {
@@ -164,7 +164,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "66 lbs",
     price: "$379",
     amazonQuery: "UMAY+under+desk+treadmill",
-    imageSrc: "https://m.media-amazon.com/images/I/61snGz0TmML._AC_SL1500_.jpg",
+    imageSrc: "/images/products/umay.png",
     imageAlt: "UMAY under-desk treadmill product image",
   },
   {
@@ -175,7 +175,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "72 lbs",
     price: "$599",
     amazonQuery: "WalkingPad+R2+treadmill",
-    imageSrc: "https://m.media-amazon.com/images/I/61rvPkbFURL._AC_SL1500_.jpg",
+    imageSrc: "/images/products/walkingpad-r2.png",
     imageAlt: "WalkingPad R2 treadmill product image",
   },
 ];
