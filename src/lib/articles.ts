@@ -36,7 +36,7 @@ const articleMeta: Record<
     dateModified: "2026-03-01",
   },
   "walking-pad-vs-treadmill": {
-    title: "Walking Pad vs Treadmill: Which Is Better? (2026)",
+    title: "Walking Pad vs Treadmill: Key Differences (2026)",
     description:
       "Walking pad vs treadmill: compare size, speed, noise, price & durability side by side. See our top 2026 picks and find the ideal model for your desk!",
     category: "Comparison",
