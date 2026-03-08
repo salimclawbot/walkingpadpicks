@@ -1,9 +1,11 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   images: {
-    localPatterns: [
+    remotePatterns: [
       {
-        pathname: "/images/products/**",
+        protocol: "https",
+        hostname: "m.media-amazon.com",
+        pathname: "/images/**",
       },
     ],
   },

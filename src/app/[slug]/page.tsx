@@ -120,7 +120,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "33 lbs",
     price: "$249",
     amazonQuery: "WalkingPad+C2+walking+pad",
-    imageSrc: "/images/products/walkingpad-c2.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/61Yt0-yXURL._AC_SL1500_.jpg",
     imageAlt: "WalkingPad C2 walking pad product image",
   },
   {
@@ -131,7 +131,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "44 lbs",
     price: "$199",
     amazonQuery: "Sperax+walking+pad",
-    imageSrc: "/images/products/sperax.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/71qMx5XHXOL._AC_SL1500_.jpg",
     imageAlt: "Sperax walking pad product image",
   },
   {
@@ -142,7 +142,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "55 lbs",
     price: "$229",
     amazonQuery: "UREVO+2+in+1+walking+pad",
-    imageSrc: "/images/products/urevo-2in1.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/61oLhMLa2BL._AC_SL1500_.jpg",
     imageAlt: "UREVO 2-in-1 walking pad product image",
   },
   {
@@ -153,7 +153,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "60 lbs",
     price: "$329",
     amazonQuery: "Goplus+2+in+1+under+desk+treadmill",
-    imageSrc: "/images/products/goplus-2in1.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/61yLqaRSvNL._AC_SL1500_.jpg",
     imageAlt: "Goplus 2-in-1 under-desk treadmill product image",
   },
   {
@@ -164,7 +164,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "66 lbs",
     price: "$379",
     amazonQuery: "UMAY+under+desk+treadmill",
-    imageSrc: "/images/products/umay.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/61snGz0TmML._AC_SL1500_.jpg",
     imageAlt: "UMAY under-desk treadmill product image",
   },
   {
@@ -175,7 +175,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "72 lbs",
     price: "$599",
     amazonQuery: "WalkingPad+R2+treadmill",
-    imageSrc: "/images/products/walkingpad-r2.svg",
+    imageSrc: "https://m.media-amazon.com/images/I/61rvPkbFURL._AC_SL1500_.jpg",
     imageAlt: "WalkingPad R2 treadmill product image",
   },
 ];
@@ -199,12 +199,15 @@ function ComparisonTableWithProducts() {
           {comparisonProducts.map((p, i) => (
             <tr key={p.name} className={i % 2 === 0 ? "bg-white" : "bg-gray-50"}>
               <td className="p-3">
-                <Image
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
                   src={p.imageSrc}
                   alt={p.imageAlt}
                   width={150}
                   height={150}
-                  className="rounded-lg mx-auto border border-gray-200"
+                  loading="lazy"
+                  referrerPolicy="no-referrer"
+                  className="rounded-lg mx-auto border border-gray-200 object-cover"
                 />
               </td>
               <td className="p-3 font-medium">{p.type}</td>
@@ -473,8 +476,8 @@ export default async function ArticlePage({ params }: PageProps) {
               <Image
                 src="/images/walking-pad-vs-treadmill-hero.png"
                 alt="Side-by-side comparison of a slim walking pad and a larger under-desk treadmill in a modern home office with a standing desk"
-                width={800}
-                height={450}
+                width={1408}
+                height={768}
                 className="rounded-lg w-full h-auto"
                 priority
               />
@@ -495,8 +498,8 @@ export default async function ArticlePage({ params }: PageProps) {
               <Image
                 src="/images/walking-pad-vs-treadmill-infographic.png"
                 alt="Infographic comparing walking pads and under-desk treadmills across seven categories"
-                width={800}
-                height={600}
+                width={2816}
+                height={1536}
                 className="rounded-lg w-full h-auto"
               />
               <figcaption className="text-sm text-gray-600 mt-2">
@@ -513,8 +516,8 @@ export default async function ArticlePage({ params }: PageProps) {
               <Image
                 src="/images/walking-pad-storage-folded.png"
                 alt="Folded walking pad being stored under a sofa showing compact portable design"
-                width={800}
-                height={450}
+                width={1408}
+                height={768}
                 className="rounded-lg w-full h-auto"
               />
               <figcaption className="text-sm text-gray-600 mt-2">
@@ -529,8 +532,8 @@ export default async function ArticlePage({ params }: PageProps) {
               <Image
                 src="/images/walking-pad-ergonomic-setup.png"
                 alt="Ergonomic standing desk setup with a walking pad showing proper monitor and keyboard height"
-                width={800}
-                height={450}
+                width={1408}
+                height={768}
                 className="rounded-lg w-full h-auto"
               />
               <figcaption className="text-sm text-gray-600 mt-2">
@@ -545,8 +548,8 @@ export default async function ArticlePage({ params }: PageProps) {
               <Image
                 src="/images/walking-pad-vs-treadmill-size-comparison.png"
                 alt="Top-down view showing the size difference between a compact walking pad and a larger under-desk treadmill"
-                width={800}
-                height={450}
+                width={1408}
+                height={768}
                 className="rounded-lg w-full h-auto"
               />
               <figcaption className="text-sm text-gray-600 mt-2">Top-down size comparison: walking pad (left) vs under-desk treadmill (right).</figcaption>
@@ -567,8 +570,8 @@ export default async function ArticlePage({ params }: PageProps) {
                 <Image
                   src="/images/walking-pad-vs-treadmill-lifestyle.png"
                   alt="Person walking on a slim walking pad under a standing desk in a small apartment"
-                  width={800}
-                  height={450}
+                  width={1408}
+                  height={768}
                   className="rounded-lg w-full h-auto"
                 />
                 <figcaption className="text-sm text-gray-600 mt-2">Walking while working in a compact home office setup.</figcaption>
