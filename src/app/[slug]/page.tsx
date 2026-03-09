@@ -342,6 +342,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Are walking pads quieter than treadmills?", answer: "Usually yes, especially in low-speed desk-walking ranges." },
     { question: "Does a mat reduce walking pad noise?", answer: "Yes, especially floor-transmitted vibration noise, often by a meaningful margin." },
   ],
+  "walking-pad-safety-tips": [
+    { question: "Are walking pads generally safe?", answer: "Yes when used at appropriate speeds with proper footwear and stable setup." },
+    { question: "What speed is safe for desk work?", answer: "Usually around 1.0–2.5 mph for safe walking while typing and focusing." },
+    { question: "Do I need special shoes?", answer: "Closed-toe shoes with grippy, cushioned soles are strongly recommended." },
+    { question: "How long can I walk safely per session?", answer: "Most users do well with 60–90 minute sessions separated by short breaks." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

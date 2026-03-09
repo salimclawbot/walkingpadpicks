@@ -139,6 +139,14 @@ const articleMeta: Record<
     date: "2026-03-17",
     dateModified: "2026-03-17",
   },
+  "walking-pad-safety-tips": {
+    title: "Walking Pad Safety Tips: Complete Guide (2026)",
+    description:
+      "Walking pad safety tips for 2026: emergency stop setup, safe speeds while working, proper footwear, surface grip, hydration and posture rules. Full guide →",
+    category: "Safety Guide",
+    date: "2026-03-18",
+    dateModified: "2026-03-18",
+  },
 };
 
 function processContent(raw: string): string {
