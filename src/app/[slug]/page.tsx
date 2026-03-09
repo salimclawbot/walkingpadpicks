@@ -366,6 +366,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Can I lose weight using only a walking pad?", answer: "Yes with consistent use and supportive nutrition habits, though progress is usually gradual." },
     { question: "Is incline the main treadmill advantage?", answer: "Yes, incline substantially increases intensity and calorie burn compared with flat walking pads." },
   ],
+  "walking-pad-under-standing-desk": [
+    { question: "Will a walking pad fit under my standing desk?", answer: "Usually yes, but measure desk-leg clearance, floor depth, and required desk height adjustment first." },
+    { question: "How much should I raise desk height with a walking pad?", answer: "Typically by the walking pad thickness, usually around 4–5 inches." },
+    { question: "Can walking cause monitor shake on standing desks?", answer: "Yes; a floor mat, stable desk frame, and monitor arm can reduce wobble." },
+    { question: "Do I need cable management for this setup?", answer: "Yes, route power cables away from foot paths to avoid tripping and snag risks." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

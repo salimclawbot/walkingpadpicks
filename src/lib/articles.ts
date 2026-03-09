@@ -171,6 +171,14 @@ const articleMeta: Record<
     date: "2026-03-21",
     dateModified: "2026-03-21",
   },
+  "walking-pad-under-standing-desk": {
+    title: "Walking Pad Under a Standing Desk Setup Guide (2026)",
+    description:
+      "How to use a walking pad under a standing desk: height settings, cable management, monitor stability, best pads that fit, and ergonomic setup tips for 2026.",
+    category: "Setup Guide",
+    date: "2026-03-22",
+    dateModified: "2026-03-22",
+  },
 };
 
 function processContent(raw: string): string {
