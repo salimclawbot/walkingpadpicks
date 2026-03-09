@@ -30,7 +30,7 @@ const articleMeta: Record<
   "best-walking-pads-2026": {
     title: "Best Walking Pads 2026: Top Picks Ranked",
     description:
-      "Discover the best walking pads of 2026. We reviewed 20+ models across every budget to find top under-desk treadmill picks for home offices.",
+      "Discover the best walking pads of 2026. We reviewed 20+ models across every budget to find the top under-desk treadmill picks for your home office →",
     category: "Buyer's Guide",
     date: "2026-03-01",
     dateModified: "2026-03-01",
