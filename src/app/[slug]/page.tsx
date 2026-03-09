@@ -390,6 +390,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "How do I know belt tension is wrong?", answer: "Slipping indicates too loose; excess motor strain/noise can indicate too tight." },
     { question: "When should I call for service?", answer: "Persistent motor noise, burning smell, repeated belt slip, or hardware error codes warrant professional service." },
   ],
+  "reduce-walking-pad-noise": [
+    { question: "How loud are walking pads?", answer: "Most walking pads run around 40–55 dB at normal speeds depending on model quality and setup." },
+    { question: "Does a mat reduce walking pad noise?", answer: "Yes, a dense anti-vibration mat is usually the most effective single fix for transmitted floor noise." },
+    { question: "Can I use a walking pad in an apartment quietly?", answer: "Yes with a proper mat, moderate speed, cushioned shoes, and sensible usage hours." },
+    { question: "Does lubrication help reduce noise?", answer: "Yes, lubrication reduces belt friction and motor load, often cutting squeak and hum significantly." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

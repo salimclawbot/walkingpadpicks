@@ -203,6 +203,14 @@ const articleMeta: Record<
     date: "2026-03-25",
     dateModified: "2026-03-25",
   },
+  "reduce-walking-pad-noise": {
+    title: "How to Reduce Walking Pad Noise (Quiet Tips 2026)",
+    description:
+      "How to reduce walking pad noise in 2026: anti-vibration mats, belt lubrication, tension fixes, surface tips and apartment-friendly quiet walking techniques →",
+    category: "Noise Guide",
+    date: "2026-03-26",
+    dateModified: "2026-03-26",
+  },
 };
 
 function processContent(raw: string): string {
