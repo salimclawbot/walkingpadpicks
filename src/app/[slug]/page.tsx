@@ -80,13 +80,7 @@ const vsTreadmillToc: TocItem[] = [
 
 function TableOfContents({ items }: { items: TocItem[] }) {
   return (
-          {faqSchema && (
-        <Script id="faq-schema" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
-      )}
-      {articleSchema && (
-        <Script id="article-schema" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
-      )}
-<nav className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-8">
+    <nav className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-8">
       <p className="font-bold text-gray-900 mb-3 text-sm uppercase tracking-wide">Table of Contents</p>
       <ol className="list-decimal list-inside space-y-1.5">
         {items.map((item) => (
@@ -447,6 +441,20 @@ export default async function ArticlePage({ params }: PageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs) }}
       />
+      {faqSchema && (
+        <script
+          id="faq-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
+      {articleSchema && (
+        <script
+          id="article-schema"
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        />
+      )}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
