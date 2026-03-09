@@ -3,12 +3,12 @@ import { Metadata } from "next";
 import { breadcrumbSchema } from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides 2026",
+  title: { absolute: "Walking Pad Guide: Best Picks (2026)" },
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads in 2026.",
   alternates: { canonical: "https://walking-pad-site.vercel.app" },
   openGraph: {
-    title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides",
+    title: "Walking Pad Guide: Best Picks (2026)",
     description:
       "Find the best walking pad for your home office. Independent reviews and buyer's guides for under-desk treadmills.",
     url: "https://walking-pad-site.vercel.app",

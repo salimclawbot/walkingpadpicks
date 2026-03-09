@@ -28,9 +28,9 @@ const articleMeta: Record<
   }
 > = {
   "best-walking-pads-2026": {
-    title: "Best Walking Pads of 2026: Ultimate Buyer's Guide",
+    title: "Best Walking Pads 2026: Top Picks Ranked",
     description:
-      "Discover the best walking pads of 2026. We reviewed 20+ models across every budget to find the top under-desk treadmills for home offices and standing desks.",
+      "Discover the best walking pads of 2026. We reviewed 20+ models across every budget to find top under-desk treadmill picks for home offices.",
     category: "Buyer's Guide",
     date: "2026-03-01",
     dateModified: "2026-03-01",
@@ -44,7 +44,7 @@ const articleMeta: Record<
     dateModified: "2026-03-08",
   },
   "best-walking-pad-under-200": {
-    title: "Best Walking Pad Under $200: Budget Picks That Actually Work",
+    title: "Best Walking Pad Under $200 (2026)",
     description:
       "The best walking pads under $200 reviewed. Budget-friendly under-desk treadmills with quiet motors, decent belt sizes, and real value for desk workers.",
     category: "Budget Guide",
@@ -52,7 +52,7 @@ const articleMeta: Record<
     dateModified: "2026-02-15",
   },
   "are-walking-pads-worth-it": {
-    title: "Are Walking Pads Worth It? An Honest Assessment",
+    title: "Are Walking Pads Worth It? (2026)",
     description:
       "Are walking pads worth the investment? We break down the real pros, cons, health benefits, cost-per-use, and who should (and shouldn't) buy one.",
     category: "Analysis",
@@ -60,8 +60,7 @@ const articleMeta: Record<
     dateModified: "2026-02-10",
   },
   "walking-pad-while-working": {
-    title:
-      "How to Use a Walking Pad While Working: The Complete Productivity Guide",
+    title: "Walking Pad While Working Guide (2026)",
     description:
       "Learn how to use a walking pad while working without losing productivity. Desk setup, speed recommendations, ergonomic tips, and a sample daily schedule.",
     category: "Guide",
@@ -71,7 +70,7 @@ const articleMeta: Record<
   "walking-pad-weight-limit": {
     title: "Walking Pad Weight Limit Guide (2026)",
     description:
-      "Walking pad weight limit guide (2026): compare popular models from 220–275 lbs capacity and apply the 20% safety margin rule.",
+      "Walking pad weight limit guide (2026): compare 220–275 lb models, apply the 20% safety margin, and choose safer options for long-term desk walking reliability.",
     category: "Safety Guide",
     date: "2026-03-09",
     dateModified: "2026-03-09",

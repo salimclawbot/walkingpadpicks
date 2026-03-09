@@ -27,7 +27,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   ];
 
   return {
-    title: isVsTreadmill ? { absolute: article.title } : article.title,
+    title: { absolute: article.title },
     description: article.description,
     alternates: {
       canonical: `https://walking-pad-site.vercel.app/${article.slug}`,
@@ -235,7 +235,8 @@ function ComparisonTableWithProducts() {
 
 /* ---------- FAQ Schema Data ---------- */
 
-const faqItems = [
+const faqBySlug: Record<string, { question: string; answer: string }[]> = {
+  "walking-pad-vs-treadmill": [
   {
     question: "Is a walking pad the same as an under-desk treadmill?",
     answer: "Not exactly. A walking pad is a type of under-desk treadmill, but not all under-desk treadmills are walking pads. Walking pads are specifically the ultra-slim, portable, walking-only devices. Under-desk treadmills encompass a broader range of machines, including larger, faster, and more feature-rich models.",
@@ -268,7 +269,33 @@ const faqItems = [
     question: "How loud are walking pads compared to under-desk treadmills?",
     answer: "Walking pads typically operate at 40-50 dB, roughly the volume of a quiet conversation. Under-desk treadmills range from 45-60 dB, depending on speed and model. At walking speeds (2-3 mph), the difference between the two is minimal — usually just a few decibels.",
   },
-];
+],
+  "best-walking-pads-2026": [
+    { question: "What is the best walking pad in 2026?", answer: "For most buyers, the best model balances quiet operation, reliable motor performance, and a belt size that matches your stride length and desk setup." },
+    { question: "Are expensive walking pads always better?", answer: "Not always. Mid-range models often deliver the best value if they have dependable motors, stable belts, and strong warranty support." },
+    { question: "What speed range is ideal for desk walking?", answer: "Most desk users stay around 1.2 to 2.5 mph for typing and meetings, with faster speeds reserved for dedicated walking breaks." },
+  ],
+  "best-walking-pad-under-200": [
+    { question: "Can you get a good walking pad under $200?", answer: "Yes. You can find useful entry-level models under $200 if you accept tradeoffs in belt size, premium materials, and advanced features." },
+    { question: "What tradeoffs should I expect under $200?", answer: "Expect smaller belts, simpler displays, and less refined build quality, while still getting practical walking support for lighter daily use." },
+    { question: "Is under-$200 suitable for daily office walking?", answer: "It can be, especially for lighter users and moderate sessions, but heavier daily workloads usually benefit from stronger mid-range models." },
+  ],
+  "are-walking-pads-worth-it": [
+    { question: "Are walking pads worth it for desk workers?", answer: "For many desk workers, yes. They help increase daily movement with lower friction than separate workout routines." },
+    { question: "Do walking pads help with weight management?", answer: "They can support weight management by increasing daily calorie burn and improving consistency of light activity." },
+    { question: "Who should skip buying a walking pad?", answer: "People needing running workouts, very high weight capacities, or commercial-grade durability may be better served by full treadmills." },
+  ],
+  "walking-pad-while-working": [
+    { question: "What is the best speed for typing while walking?", answer: "Most people type best around 1.2 to 2.0 mph, with lower speeds for writing-heavy tasks and higher speeds for calls or reading." },
+    { question: "Can walking while working hurt productivity?", answer: "It can if speed is too high or desk ergonomics are poor. With proper setup, many users maintain or improve focus." },
+    { question: "Do I need a standing desk to use a walking pad?", answer: "Yes, an adjustable desk is strongly recommended so monitor and keyboard heights remain ergonomic while walking." },
+  ],
+  "walking-pad-weight-limit": [
+    { question: "What is the safe weight margin for a walking pad?", answer: "Choose a model rated at least 20% above your body weight to account for dynamic force during normal walking." },
+    { question: "Can I use a walking pad at the exact listed capacity?", answer: "It is not ideal for long-term reliability. Running at max capacity increases strain on motor, belt, and frame components." },
+    { question: "When should I choose a treadmill instead?", answer: "If you are near the upper end of walking pad capacities or need higher durability, a full treadmill is usually the safer long-term choice." },
+  ],
+};
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
 
@@ -298,6 +325,20 @@ export default async function ArticlePage({ params }: PageProps) {
     { name: article.title, url: `/${article.slug}` },
   ]);
 
+  const imageBySlug: Record<string, string[]> = {
+    "walking-pad-vs-treadmill": [
+      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
+      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
+      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
+      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
+    ],
+    "best-walking-pads-2026": ["https://walking-pad-site.vercel.app/images/wp/best-2026/hero-best-2026.png"],
+    "best-walking-pad-under-200": ["https://walking-pad-site.vercel.app/images/wp/under-200/hero-budget-picks.png"],
+    "are-walking-pads-worth-it": ["https://walking-pad-site.vercel.app/images/wp/worth-it/hero-worth-it.png"],
+    "walking-pad-while-working": ["https://walking-pad-site.vercel.app/images/wp/while-working/hero-desk-setup.png"],
+    "walking-pad-weight-limit": ["https://walking-pad-site.vercel.app/images/wp/weight-limit/hero-safety-stability.png"],
+  };
+
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
@@ -306,39 +347,26 @@ export default async function ArticlePage({ params }: PageProps) {
     datePublished: article.date,
     dateModified: article.dateModified,
     author: {
-      "@type": "Organization",
-      name: "WalkingPadPicks",
-      url: "https://walking-pad-site.vercel.app",
+      "@type": "Person",
+      name: "Sarah Mitchell",
     },
     publisher: {
       "@type": "Organization",
-      name: "WalkingPadPicks",
-      url: "https://walking-pad-site.vercel.app",
+      name: "Walking Pad Guide",
       logo: {
         "@type": "ImageObject",
         url: "https://walking-pad-site.vercel.app/icon.svg",
       },
-      sameAs: [
-        "https://x.com/walkingpadpicks",
-        "https://www.facebook.com/walkingpadpicks",
-        "https://www.linkedin.com/company/walkingpadpicks",
-      ],
     },
+    image: imageBySlug[article.slug] ?? ["https://walking-pad-site.vercel.app/icon.svg"],
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": `https://walking-pad-site.vercel.app/${article.slug}`,
     },
-    ...(isVsTreadmill && {
-      image: [
-        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
-        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
-        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
-        "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
-      ],
-    }),
   };
 
-  const faqSchema = isVsTreadmill
+  const faqItems = faqBySlug[article.slug] ?? [];
+  const faqSchema = faqItems.length
     ? {
         "@context": "https://schema.org",
         "@type": "FAQPage",
