@@ -354,6 +354,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Does a walking pad burn more than standing?", answer: "Yes, generally meaningfully more than standing still at a desk." },
     { question: "Are walking pad calorie displays accurate?", answer: "Often not; many overestimate. MET-based calculations are usually more consistent." },
   ],
+  "best-walking-pad-seniors": [
+    { question: "Are walking pads safe for seniors?", answer: "Yes when used at low speeds with proper safety features like handrails and emergency stop systems." },
+    { question: "Do seniors need handrails on walking pads?", answer: "For most seniors, yes. Handrails provide confidence and balance support." },
+    { question: "What speed is suitable for older adults?", answer: "Many seniors start around 0.5–1.0 mph and gradually progress based on comfort and stability." },
+    { question: "How long should seniors walk per session?", answer: "Beginners can start with short sessions (10–15 minutes) and build gradually over weeks." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

@@ -155,6 +155,14 @@ const articleMeta: Record<
     date: "2026-03-19",
     dateModified: "2026-03-19",
   },
+  "best-walking-pad-seniors": {
+    title: "Best Walking Pad for Seniors (Low Speed, Easy Use)",
+    description:
+      "Best walking pad for seniors in 2026: 5 models with sturdy handrails, low-speed control, easy displays and emergency stop. Safety-focused picks inside →",
+    category: "Senior Guide",
+    date: "2026-03-20",
+    dateModified: "2026-03-20",
+  },
 };
 
 function processContent(raw: string): string {
