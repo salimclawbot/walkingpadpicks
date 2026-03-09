@@ -360,6 +360,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "What speed is suitable for older adults?", answer: "Many seniors start around 0.5–1.0 mph and gradually progress based on comfort and stability." },
     { question: "How long should seniors walk per session?", answer: "Beginners can start with short sessions (10–15 minutes) and build gradually over weeks." },
   ],
+  "walking-pad-vs-treadmill-weight-loss": [
+    { question: "Which is better for weight loss, walking pad or treadmill?", answer: "Treadmills win on per-hour intensity; walking pads often win on weekly consistency for home workers." },
+    { question: "Does treadmill burn more calories than a walking pad?", answer: "Per hour yes, especially with running or incline. Total weekly burn can favor walking pads if used longer." },
+    { question: "Can I lose weight using only a walking pad?", answer: "Yes with consistent use and supportive nutrition habits, though progress is usually gradual." },
+    { question: "Is incline the main treadmill advantage?", answer: "Yes, incline substantially increases intensity and calorie burn compared with flat walking pads." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

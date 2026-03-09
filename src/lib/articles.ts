@@ -163,6 +163,14 @@ const articleMeta: Record<
     date: "2026-03-20",
     dateModified: "2026-03-20",
   },
+  "walking-pad-vs-treadmill-weight-loss": {
+    title: "Walking Pad vs Treadmill for Weight Loss (2026)",
+    description:
+      "Walking pad vs treadmill for weight loss: calorie burn, incline, HIIT, consistency and cost compared. Which burns more fat for home workers? Full guide →",
+    category: "Comparison",
+    date: "2026-03-21",
+    dateModified: "2026-03-21",
+  },
 };
 
 function processContent(raw: string): string {
