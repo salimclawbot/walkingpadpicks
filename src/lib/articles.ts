@@ -91,6 +91,14 @@ const articleMeta: Record<
     date: "2026-03-11",
     dateModified: "2026-03-11",
   },
+  "walking-pad-desk-ergonomics": {
+    title: "Walking Pad Desk Setup: Complete Ergonomics Guide",
+    description:
+      "Walking pad desk ergonomics guide: screen height, keyboard position, ideal walking speed for typing, posture fixes and must-have accessories. Set up right →",
+    category: "Ergonomics Guide",
+    date: "2026-03-12",
+    dateModified: "2026-03-12",
+  },
 };
 
 function processContent(raw: string): string {

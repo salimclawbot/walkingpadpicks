@@ -306,6 +306,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Is a walking pad or exercise bike better for bad knees?", answer: "Exercise bikes are usually better for painful knees because cycling is non-weight-bearing." },
     { question: "How loud is a walking pad compared to an exercise bike?", answer: "Walking pads are typically quieter overall, especially compared with chain-drive or fan-resistance bikes." },
   ],
+  "walking-pad-desk-ergonomics": [
+    { question: "What is the correct desk height for a walking pad setup?", answer: "Set desk height at elbow level while standing on the pad with walking shoes, typically 4–6 inches higher than normal standing height." },
+    { question: "What speed should I walk at while working?", answer: "Most users do best between 1.5 and 2.5 mph for typing and general desk tasks." },
+    { question: "How high should my monitor be?", answer: "Top of monitor at or slightly below eye level, with center of screen about 15–20 degrees below horizontal gaze." },
+    { question: "Do I need a standing desk for a walking pad?", answer: "Yes, an adjustable-height desk is strongly recommended for safe ergonomics across sitting, standing, and walking modes." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
