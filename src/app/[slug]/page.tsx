@@ -5,6 +5,7 @@ import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 import ComparisonVideo from "@/components/ComparisonVideo";
+import Script from 'next/script';
 
 interface PageProps {
   params: { slug: string };
@@ -79,7 +80,13 @@ const vsTreadmillToc: TocItem[] = [
 
 function TableOfContents({ items }: { items: TocItem[] }) {
   return (
-    <nav className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-8">
+          {faqSchema && (
+        <Script id="faq-schema" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
+      )}
+      {articleSchema && (
+        <Script id="article-schema" type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }} />
+      )}
+<nav className="bg-gray-50 border border-gray-200 rounded-lg p-5 mb-8">
       <p className="font-bold text-gray-900 mb-3 text-sm uppercase tracking-wide">Table of Contents</p>
       <ol className="list-decimal list-inside space-y-1.5">
         {items.map((item) => (
