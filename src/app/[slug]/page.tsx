@@ -348,6 +348,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Do I need special shoes?", answer: "Closed-toe shoes with grippy, cushioned soles are strongly recommended." },
     { question: "How long can I walk safely per session?", answer: "Most users do well with 60–90 minute sessions separated by short breaks." },
   ],
+  "walking-pad-calories-burned": [
+    { question: "How many calories does a walking pad burn per hour?", answer: "Usually around 100–300 calories per hour depending on body weight and speed." },
+    { question: "How is walking pad calorie burn calculated?", answer: "Use MET values with body weight and duration for a more reliable estimate than device displays." },
+    { question: "Does a walking pad burn more than standing?", answer: "Yes, generally meaningfully more than standing still at a desk." },
+    { question: "Are walking pad calorie displays accurate?", answer: "Often not; many overestimate. MET-based calculations are usually more consistent." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

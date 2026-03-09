@@ -147,6 +147,14 @@ const articleMeta: Record<
     date: "2026-03-18",
     dateModified: "2026-03-18",
   },
+  "walking-pad-calories-burned": {
+    title: "Walking Pad Calories Burned Calculator (2026)",
+    description:
+      "Walking pad calories burned: MET-based formula, calorie tables by speed and weight, standing desk comparison and real daily burn examples. Calculate yours →",
+    category: "Calculator Guide",
+    date: "2026-03-19",
+    dateModified: "2026-03-19",
+  },
 };
 
 function processContent(raw: string): string {
