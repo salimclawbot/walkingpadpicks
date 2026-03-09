@@ -312,6 +312,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "How high should my monitor be?", answer: "Top of monitor at or slightly below eye level, with center of screen about 15–20 degrees below horizontal gaze." },
     { question: "Do I need a standing desk for a walking pad?", answer: "Yes, an adjustable-height desk is strongly recommended for safe ergonomics across sitting, standing, and walking modes." },
   ],
+  "best-walking-pad-mat": [
+    { question: "Do I need a mat under my walking pad?", answer: "Yes. A mat protects flooring, reduces vibration transfer, and helps prevent sliding on smooth surfaces." },
+    { question: "How thick should a walking pad mat be?", answer: "Most setups work best with 4–6 mm thickness; apartment noise control can justify 6–8 mm." },
+    { question: "Can I use a yoga mat instead?", answer: "You can temporarily, but dedicated equipment mats are denser, more stable, and more durable for long-term use." },
+    { question: "Will a mat reduce neighbor noise?", answer: "Yes. Dense PVC or rubber mats can significantly reduce transmitted vibration and impact noise." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

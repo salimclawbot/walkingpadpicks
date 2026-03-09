@@ -99,6 +99,14 @@ const articleMeta: Record<
     date: "2026-03-12",
     dateModified: "2026-03-12",
   },
+  "best-walking-pad-mat": {
+    title: "Best Walking Pad Mat and Flooring Options (2026)",
+    description:
+      "Best walking pad mat in 2026: protect hardwood floors, reduce noise and prevent slipping. Mat thickness, materials and top picks compared. See our guide →",
+    category: "Accessories",
+    date: "2026-03-13",
+    dateModified: "2026-03-13",
+  },
 };
 
 function processContent(raw: string): string {
