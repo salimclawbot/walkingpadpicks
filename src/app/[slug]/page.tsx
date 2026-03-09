@@ -336,6 +336,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "What hidden costs should I expect?", answer: "Usually a floor mat, lubricant, and potentially earlier belt replacement compared with premium models." },
     { question: "What is the practical minimum price for reliability?", answer: "Around $150–200 is generally the floor for daily-use reliability in this category." },
   ],
+  "quietest-walking-pads": [
+    { question: "How loud is a walking pad?", answer: "Most models run roughly 35–55 dB depending on speed, quality, and wear level over time." },
+    { question: "Will neighbors hear a walking pad in apartments?", answer: "At low speeds with a dense mat, often minimal; higher speeds and wood-frame floors increase transmission." },
+    { question: "Are walking pads quieter than treadmills?", answer: "Usually yes, especially in low-speed desk-walking ranges." },
+    { question: "Does a mat reduce walking pad noise?", answer: "Yes, especially floor-transmitted vibration noise, often by a meaningful margin." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

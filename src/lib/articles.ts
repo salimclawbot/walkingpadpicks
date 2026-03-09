@@ -131,6 +131,14 @@ const articleMeta: Record<
     date: "2026-03-16",
     dateModified: "2026-03-16",
   },
+  "quietest-walking-pads": {
+    title: "Walking Pad Noise Level Guide: Quietest Models (2026)",
+    description:
+      "Quietest walking pads in 2026: dB levels tested at every speed, 5 apartment-friendly models ranked plus noise dampening tips for any pad. Full guide inside →",
+    category: "Noise Guide",
+    date: "2026-03-17",
+    dateModified: "2026-03-17",
+  },
 };
 
 function processContent(raw: string): string {
