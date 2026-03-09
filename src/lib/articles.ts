@@ -75,6 +75,14 @@ const articleMeta: Record<
     date: "2026-03-09",
     dateModified: "2026-03-09",
   },
+  "best-walking-pad-small-apartments": {
+    title: "Best Walking Pad for Small Apartments (2026)",
+    description:
+      "Best walking pad for small apartments in 2026: we compare 5 compact, foldable models by folded size, noise level & storage ease. Find your perfect fit →",
+    category: "Apartment Guide",
+    date: "2026-03-10",
+    dateModified: "2026-03-10",
+  },
 };
 
 function processContent(raw: string): string {

@@ -295,6 +295,11 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Can I use a walking pad at the exact listed capacity?", answer: "It is not ideal for long-term reliability. Running at max capacity increases strain on motor, belt, and frame components." },
     { question: "When should I choose a treadmill instead?", answer: "If you are near the upper end of walking pad capacities or need higher durability, a full treadmill is usually the safer long-term choice." },
   ],
+  "best-walking-pad-small-apartments": [
+    { question: "Will a walking pad damage my apartment floor?", answer: "Not if you use a dense protective mat. It prevents scratches, heat marks, and excessive vibration transfer." },
+    { question: "Are walking pads too loud for apartments?", answer: "At walking speeds they are usually apartment-friendly, especially with a thick equipment mat and daytime use." },
+    { question: "Where do I store a walking pad in a small apartment?", answer: "Use under-bed, behind-sofa, or closet storage depending on folded dimensions and your available clearance." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
@@ -337,6 +342,7 @@ export default async function ArticlePage({ params }: PageProps) {
     "are-walking-pads-worth-it": ["https://walking-pad-site.vercel.app/images/wp/worth-it/hero-worth-it.png"],
     "walking-pad-while-working": ["https://walking-pad-site.vercel.app/images/wp/while-working/hero-desk-setup.png"],
     "walking-pad-weight-limit": ["https://walking-pad-site.vercel.app/images/wp/weight-limit/hero-safety-stability.png"],
+    "best-walking-pad-small-apartments": ["https://walking-pad-site.vercel.app/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
   };
 
   const articleSchema = {

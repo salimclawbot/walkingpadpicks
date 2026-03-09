@@ -9,6 +9,9 @@ Here's how to get it right.
 ![Ergonomic desk setup for walking while working.](/images/wp/while-working/hero-desk-setup.png)
 *A stable desk layout and low walking speed are the keys to productive desk walking.*
 
+![Walking pad desk work hero setup for focused productivity.](/images/wp/while-working/walking-pad-desk-work-hero.png)
+*Use this setup benchmark to keep typing comfort stable while moving.*
+
 Not sure if a walking pad is the right investment? Read our honest take on [INTERNAL: are-walking-pads-worth-it](whether walking pads are worth the money) before you buy.
 
 ## What You Need Before You Start
@@ -77,6 +80,8 @@ Adjust as needed until everything feels natural.
 ## Recommended Walking Speeds for Different Tasks
 
 ![Infographic of ideal desk-walking speeds for different work tasks.](/images/wp/while-working/ergonomics-infographic.png)
+
+![Walking desk ergonomics infographic for monitor, keyboard, and stride alignment.](/images/wp/while-working/walking-desk-ergonomics-infographic.png)
 
 Not all work tasks are created equal. The right walking speed depends on what you're doing. Here's a practical breakdown.
 

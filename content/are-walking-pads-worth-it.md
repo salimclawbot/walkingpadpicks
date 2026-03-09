@@ -9,6 +9,9 @@ Let's dig into whether a walking pad is actually worth the investment — or jus
 ![Walking pad value proposition in a modern home office setup.](/images/wp/worth-it/hero-worth-it.png)
 *For most desk workers, the real value is sustainable daily movement without scheduling separate workouts.*
 
+![Walking pad worth-it comparison across cost, movement, and convenience.](/images/wp/worth-it/worth-it-hero-comparison.png)
+*A quick visual of why walking pads win when consistency matters more than workout intensity.*
+
 Already decided a walking pad is right for you? Jump straight to our [INTERNAL: best-walking-pads-2026](top-rated walking pads for 2026).
 
 ## What Exactly Is a Walking Pad?
@@ -24,6 +27,8 @@ A walking pad is a compact, low-profile treadmill designed primarily for walking
 They're built for one purpose: helping you walk more during the day, especially while working at a standing desk.
 
 ## Walking Pad Benefits: What the Research Supports
+
+![Estimated calorie burn ranges for different desk-walking durations.](/images/wp/worth-it/calorie-burn-infographic.png)
 
 The health benefits of walking pads stem from the well-documented advantages of regular walking itself. Here's what consistent daily walking can do for you.
 
