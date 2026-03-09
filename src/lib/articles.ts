@@ -187,6 +187,14 @@ const articleMeta: Record<
     date: "2026-03-23",
     dateModified: "2026-03-23",
   },
+  "walking-pad-storage-tips": {
+    title: "Walking Pad Storage Tips: How to Store and Fold (2026)",
+    description:
+      "Walking pad storage tips for 2026: how to fold, where to store, vertical vs flat, under-desk tricks and long-term storage prep. Every method covered step by step.",
+    category: "Storage Guide",
+    date: "2026-03-24",
+    dateModified: "2026-03-24",
+  },
 };
 
 function processContent(raw: string): string {

@@ -378,6 +378,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Do kids need supervision on walking pads?", answer: "Yes, especially under age 16, with direct supervision for younger children." },
     { question: "What safety features matter most?", answer: "Emergency stop key, low minimum speed, adult-controlled settings, and childproof storage when not in use." },
   ],
+  "walking-pad-storage-tips": [
+    { question: "Can you store a walking pad upright?", answer: "Foldable models can usually be stored upright; non-foldable pads are generally better stored flat." },
+    { question: "Can I store a walking pad under a bed?", answer: "Yes if bed clearance is sufficient for the pad height, typically 4–5 inches for flat models." },
+    { question: "Should I unplug my walking pad before storage?", answer: "Yes, especially for long-term storage or homes with children/pets." },
+    { question: "How do I prep for long-term storage?", answer: "Clean the belt, lightly lubricate if recommended, unplug, cover for dust, and store in a dry, stable-temperature room." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
