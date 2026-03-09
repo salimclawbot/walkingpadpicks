@@ -107,6 +107,14 @@ const articleMeta: Record<
     date: "2026-03-13",
     dateModified: "2026-03-13",
   },
+  "walking-pad-desk-setup": {
+    title: "How to Set Up a Walking Pad Desk (2026 Guide)",
+    description:
+      "Walking pad desk setup guide for 2026: desk height, monitor position, keyboard placement, ideal speed for typing vs calls, and gear you need. Full guide →",
+    category: "Ergonomics Guide",
+    date: "2026-03-14",
+    dateModified: "2026-03-14",
+  },
 };
 
 function processContent(raw: string): string {

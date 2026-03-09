@@ -318,6 +318,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Can I use a yoga mat instead?", answer: "You can temporarily, but dedicated equipment mats are denser, more stable, and more durable for long-term use." },
     { question: "Will a mat reduce neighbor noise?", answer: "Yes. Dense PVC or rubber mats can significantly reduce transmitted vibration and impact noise." },
   ],
+  "walking-pad-desk-setup": [
+    { question: "How high should my desk be for a walking pad?", answer: "Set it to elbow height while standing on the pad in your walking shoes, typically 4–6 inches above normal standing height." },
+    { question: "Where should my monitor be?", answer: "Top edge at or slightly below eye level while walking, ideally on a monitor arm for fine adjustment." },
+    { question: "What speed should I use while typing?", answer: "Most users are productive around 1.5–2.0 mph, with 2.5 mph possible after adaptation." },
+    { question: "Do I need a keyboard tray?", answer: "Only if desk height cannot be set correctly; many setups are fine with keyboard on desk when height is right." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
