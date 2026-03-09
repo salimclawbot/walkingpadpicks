@@ -59,7 +59,8 @@ A walking pad weight limit is not a suggestion — it is an engineering constrai
 | **UMAY Under Desk** | 275 lbs (125 kg) | 2.5 HP | 0.6–6.0 mph | 17" × 44" | ✅ Yes | ~$320 | [Check on Amazon](https://www.amazon.com/s?k=UMAY+walking+pad) |
 | **XTERRA Fitness TR150** | 250 lbs (113 kg) | 2.25 HP | 0.5–10 mph | 16" × 50" | ✅ Yes | ~$350 | [Check on Amazon](https://www.amazon.com/s?k=XTERRA+Fitness+TR150) |
 
-<!-- [IMAGE PLACEHOLDER: Weight capacity comparison infographic, alt="Walking pad weight limit comparison chart for 8 popular models"] -->
+![A person safely walking on a sturdy walking pad in a bright, modern home office, illustrating the importance of weight capacity.](/images/wp/weight-limit/hero-safety-stability.png)
+*Choosing a walking pad with an appropriate weight limit is crucial for safety and durability.*
 
 ---
 
@@ -109,8 +110,6 @@ No consumer walking pad on the market is rated for users over 300 lbs. This is n
 
 These are full treadmills, not walking pads. They require more space and will not fit under a standing desk. But they are engineered for the load and will last.
 
-<!-- [IMAGE PLACEHOLDER: Walking pad vs full treadmill size comparison, alt="Size comparison between a walking pad and full treadmill for heavier users"] -->
-
 ---
 
 ## How Weight Limits Are Determined
@@ -142,6 +141,9 @@ A widely recommended practice in fitness equipment selection is to choose a mach
 
 **Example:** If you weigh 200 lbs, look for a walking pad rated to at least 240 lbs. If you weigh 230 lbs, target a 275+ lb capacity.
 
+![An infographic visual explaining the 20% safety margin rule for choosing a walking pad based on body weight.](/images/wp/weight-limit/safety-margin-rule.png)
+*Following the 20% safety margin rule ensures your walking pad operates safely and lasts longer.*
+
 ### Belt Slippage Warning Signs
 
 If you are near a walking pad's weight limit, watch for these early warning signs:
@@ -157,8 +159,6 @@ If you are near a walking pad's weight limit, watch for these early warning sign
 
 Walking pads must be placed on a flat, stable surface. Carpet increases motor strain because the walking pad cannot dissipate heat through its underside as effectively. Hard floors (wood, tile, concrete) are ideal. If you must use carpet, place the walking pad on a hard mat and choose a model with at least 20% weight margin above your body weight.
 
-<!-- [IMAGE PLACEHOLDER: Walking pad on hard floor vs carpet comparison, alt="Walking pad placement on hard floor versus carpet surface"] -->
-
 ---
 
 ## What Happens If You Exceed the Weight Limit
@@ -166,6 +166,9 @@ Walking pads must be placed on a flat, stable surface. Carpet increases motor st
 This is not theoretical — here is what actually fails:
 
 **Motor overheating (most common).** The motor runs at or above its thermal limit, triggering automatic shutoff on better models or sustained overheating on cheaper ones. Over weeks, this degrades the motor windings permanently. The walking pad starts running slower, louder, and eventually fails to start.
+
+![A conceptual image showing a walking pad motor overheating with a red thermal glow, symbolizing the strain of exceeding the weight limit.](/images/wp/weight-limit/motor-strain-visual.png)
+*Exceeding the weight limit is the fastest way to cause permanent damage to the motor.*
 
 **Belt slippage.** Excess friction causes the belt to slip on the rollers, creating a jerky walking experience and potentially causing you to stumble. The belt also wears unevenly, creating thin spots that can tear during use.
 
@@ -195,7 +198,8 @@ This is not theoretical — here is what actually fails:
 | 220–230 lbs | 276 lbs | UMAY (borderline), or consider full treadmill |
 | 230+ lbs | 276+ lbs | Full treadmill recommended (Sole, NordicTrack, Horizon) |
 
-<!-- [IMAGE PLACEHOLDER: Weight selection flowchart, alt="Decision flowchart for choosing a walking pad based on body weight"] -->
+![Find Your Safe Walking Pad Capacity](/images/wp/weight-limit/infographic-safe-capacity.png)
+*Use this flowchart to find the right walking pad capacity for your body weight.*
 
 ---
 
