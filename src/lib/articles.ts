@@ -83,6 +83,14 @@ const articleMeta: Record<
     date: "2026-03-10",
     dateModified: "2026-03-10",
   },
+  "walking-pad-vs-exercise-bike": {
+    title: "Walking Pad vs Exercise Bike: Which Burns More? (2026)",
+    description:
+      "Walking pad vs exercise bike compared: calorie burn at every intensity, joint impact, noise, and multitasking rated. Find which fits your goals →",
+    category: "Comparison",
+    date: "2026-03-11",
+    dateModified: "2026-03-11",
+  },
 };
 
 function processContent(raw: string): string {

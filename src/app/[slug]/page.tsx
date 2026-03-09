@@ -300,6 +300,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Are walking pads too loud for apartments?", answer: "At walking speeds they are usually apartment-friendly, especially with a thick equipment mat and daytime use." },
     { question: "Where do I store a walking pad in a small apartment?", answer: "Use under-bed, behind-sofa, or closet storage depending on folded dimensions and your available clearance." },
   ],
+  "walking-pad-vs-exercise-bike": [
+    { question: "Does a walking pad or exercise bike burn more calories?", answer: "Exercise bikes burn more calories per hour at equal effort, but walking pads can win total daily burn through longer usable duration while working." },
+    { question: "Can I use a walking pad while working at a desk?", answer: "Yes. Walking at about 1.5–2.5 mph allows most people to type, attend calls, and handle routine desk tasks." },
+    { question: "Is a walking pad or exercise bike better for bad knees?", answer: "Exercise bikes are usually better for painful knees because cycling is non-weight-bearing." },
+    { question: "How loud is a walking pad compared to an exercise bike?", answer: "Walking pads are typically quieter overall, especially compared with chain-drive or fan-resistance bikes." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
