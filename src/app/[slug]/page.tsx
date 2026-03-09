@@ -5,7 +5,6 @@ import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 import ComparisonVideo from "@/components/ComparisonVideo";
-import Script from 'next/script';
 
 interface PageProps {
   params: { slug: string };
