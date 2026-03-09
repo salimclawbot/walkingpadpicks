@@ -384,6 +384,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Should I unplug my walking pad before storage?", answer: "Yes, especially for long-term storage or homes with children/pets." },
     { question: "How do I prep for long-term storage?", answer: "Clean the belt, lightly lubricate if recommended, unplug, cover for dust, and store in a dry, stable-temperature room." },
   ],
+  "walking-pad-maintenance-guide": [
+    { question: "How often should I lubricate a walking pad belt?", answer: "Typically every 3–6 months for moderate use, and more often for heavy daily sessions." },
+    { question: "What lubricant should I use?", answer: "Use 100% silicone treadmill lubricant only; avoid WD-40 and petroleum products." },
+    { question: "How do I know belt tension is wrong?", answer: "Slipping indicates too loose; excess motor strain/noise can indicate too tight." },
+    { question: "When should I call for service?", answer: "Persistent motor noise, burning smell, repeated belt slip, or hardware error codes warrant professional service." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

@@ -195,6 +195,14 @@ const articleMeta: Record<
     date: "2026-03-24",
     dateModified: "2026-03-24",
   },
+  "walking-pad-maintenance-guide": {
+    title: "Walking Pad Maintenance Guide (Keep It Running 2026)",
+    description:
+      "Walking pad maintenance guide 2026: belt lubrication, deck cleaning, motor care, tension adjustment and when to call for service. Extend your pad's lifespan →",
+    category: "Maintenance Guide",
+    date: "2026-03-25",
+    dateModified: "2026-03-25",
+  },
 };
 
 function processContent(raw: string): string {
