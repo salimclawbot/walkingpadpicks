@@ -179,6 +179,14 @@ const articleMeta: Record<
     date: "2026-03-22",
     dateModified: "2026-03-22",
   },
+  "walking-pad-for-kids": {
+    title: "Walking Pad for Kids: Is It Safe? (Parent Guide 2026)",
+    description:
+      "Walking pad for kids safety guide 2026: minimum age, speed limits, supervision rules, safe models and what pediatricians recommend. Full parent guide inside.",
+    category: "Safety Guide",
+    date: "2026-03-23",
+    dateModified: "2026-03-23",
+  },
 };
 
 function processContent(raw: string): string {

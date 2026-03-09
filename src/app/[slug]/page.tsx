@@ -372,6 +372,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Can walking cause monitor shake on standing desks?", answer: "Yes; a floor mat, stable desk frame, and monitor arm can reduce wobble." },
     { question: "Do I need cable management for this setup?", answer: "Yes, route power cables away from foot paths to avoid tripping and snag risks." },
   ],
+  "walking-pad-for-kids": [
+    { question: "What age can kids use a walking pad?", answer: "Most manufacturers indicate teen-range use; children under 6 should not use walking pads." },
+    { question: "Are walking pads safer than treadmills for kids?", answer: "They are generally lower speed, but still powered equipment requiring strict supervision." },
+    { question: "Do kids need supervision on walking pads?", answer: "Yes, especially under age 16, with direct supervision for younger children." },
+    { question: "What safety features matter most?", answer: "Emergency stop key, low minimum speed, adult-controlled settings, and childproof storage when not in use." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */
