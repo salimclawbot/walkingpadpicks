@@ -68,6 +68,14 @@ const articleMeta: Record<
     date: "2026-02-05",
     dateModified: "2026-02-05",
   },
+  "walking-pad-weight-limit": {
+    title: "Walking Pad Weight Limit Guide (2026)",
+    description:
+      "Walking pad weight limit guide (2026): compare popular models from 220–275 lbs capacity and apply the 20% safety margin rule.",
+    category: "Safety Guide",
+    date: "2026-03-09",
+    dateModified: "2026-03-09",
+  },
 };
 
 function processContent(raw: string): string {

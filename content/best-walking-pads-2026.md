@@ -87,7 +87,7 @@ At under $300, it punches well above its weight class. If you want a foldable wa
 
 [**Check Price on Amazon →**]
 
-Looking for more options in this price range? Check out: [INTERNAL: best-walking-pad-under-200]
+Looking for more options in this price range? Check out: [INTERNAL: best-walking-pad-under-200]. Also review [INTERNAL: walking-pad-weight-limit](walking pad weight limit guide) if you need higher-capacity models.
 
 ---
 

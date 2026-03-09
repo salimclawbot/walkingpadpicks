@@ -41,6 +41,8 @@ An under-desk treadmill is a broader category that includes walking pads but als
 Under-desk treadmills are designed for users who want more versatility — walking and light jogging, a wider belt for comfort, and features like incline or app connectivity.
 Many shoppers also refer to this category as a walking treadmill when they want more capability than a basic walking pad.
 
+Before you choose, check our [INTERNAL: walking-pad-weight-limit](walking pad weight limit guide) to make sure your target model has enough capacity and safety margin.
+
 ---
 
 ## Walking Pad vs Treadmill: Side-by-Side Comparison Table
