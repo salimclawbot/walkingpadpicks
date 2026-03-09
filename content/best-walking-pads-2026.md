@@ -4,9 +4,14 @@
 
 We evaluated over 20 walking pads based on belt size, noise level, speed range, build quality, portability, and real-world user feedback to bring you the top picks below.
 
+![Top walking pads of 2026 hero comparison.](/images/wp/best-2026/hero-best-2026.png)
+*Our 2026 shortlist balances noise, comfort, build quality, and value for desk walking.*
+
 ---
 
 ## Quick Comparison: Best Walking Pads of 2026
+
+![Walking pad 2026 comparison infographic.](/images/wp/best-2026/comparison-infographic.png)
 
 | Rank | Brand & Model | Price Range | Max Speed | Belt Size | Weight Capacity | Best For |
 |------|--------------|-------------|-----------|-----------|----------------|----------|

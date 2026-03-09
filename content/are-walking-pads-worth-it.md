@@ -6,6 +6,9 @@ If you've been eyeing those slim, compact treadmills that slide under a desk, yo
 
 Let's dig into whether a walking pad is actually worth the investment — or just another piece of fitness equipment destined for the closet.
 
+![Walking pad value proposition in a modern home office setup.](/images/wp/worth-it/hero-worth-it.png)
+*For most desk workers, the real value is sustainable daily movement without scheduling separate workouts.*
+
 Already decided a walking pad is right for you? Jump straight to our [INTERNAL: best-walking-pads-2026](top-rated walking pads for 2026).
 
 ## What Exactly Is a Walking Pad?
@@ -45,6 +48,8 @@ Prolonged sitting has been associated with increased risk for multiple chronic c
 Walking is a low-impact activity that helps maintain joint mobility, strengthen bones, and support muscle function. For people who find running too hard on their joints, a walking pad provides a gentler alternative that still keeps the body moving.
 
 ## Walking Pad Pros and Cons: The Full Picture
+
+![Walking pad benefits and tradeoffs infographic.](/images/wp/worth-it/benefits-infographic.png)
 
 ### Pros
 

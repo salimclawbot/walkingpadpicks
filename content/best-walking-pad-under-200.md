@@ -4,6 +4,9 @@
 
 Looking for a broader overview first? Start with our full guide to the [INTERNAL: best-walking-pads-2026] or read about whether this type of product is right for you in [INTERNAL: are-walking-pads-worth-it].
 
+![Budget walking pad picks under $200 compared side by side.](/images/wp/under-200/hero-budget-picks.png)
+*At this price tier, fit-for-purpose reliability beats feature bloat every time.*
+
 ---
 
 ## What to Expect Under $200: Trade-Offs vs. Premium Walking Pads
@@ -36,6 +39,8 @@ For everyone else, the models below prove that affordable under-desk treadmills 
 ---
 
 ## Best Walking Pads Under $200: Comparison Table
+
+![Price comparison infographic for walking pads under $200.](/images/wp/under-200/price-comparison-infographic.png)
 
 | Model | Price | Max Speed | Motor | Belt Size (W x L) | Weight Capacity | Weight | Foldable | Rating |
 |---|---|---|---|---|---|---|---|---|
