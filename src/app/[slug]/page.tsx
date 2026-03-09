@@ -330,6 +330,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "How long do budget walking pads last?", answer: "Typically about 2–4 years with moderate daily use and routine belt maintenance." },
     { question: "What should I skip on budget models?", answer: "Skip gimmicky speakers/apps and prioritize belt size, motor reliability, and realistic weight capacity." },
   ],
+  "cheap-walking-pads-worth-it": [
+    { question: "Are cheap walking pads worth buying?", answer: "Yes for under-desk walking use cases when expectations are realistic around durability and noise." },
+    { question: "What do you sacrifice with cheap pads?", answer: "Main tradeoffs are belt width, motor longevity, high-speed noise, and long-term build quality." },
+    { question: "What hidden costs should I expect?", answer: "Usually a floor mat, lubricant, and potentially earlier belt replacement compared with premium models." },
+    { question: "What is the practical minimum price for reliability?", answer: "Around $150–200 is generally the floor for daily-use reliability in this category." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

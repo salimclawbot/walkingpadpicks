@@ -123,6 +123,14 @@ const articleMeta: Record<
     date: "2026-03-15",
     dateModified: "2026-03-15",
   },
+  "cheap-walking-pads-worth-it": {
+    title: "Are Cheap Walking Pads Worth It? Budget Picks Tested",
+    description:
+      "Are cheap walking pads worth it? We break down what you sacrifice under $200, hidden costs to expect and 3 budget brands that punch above their price. Read →",
+    category: "Budget Guide",
+    date: "2026-03-16",
+    dateModified: "2026-03-16",
+  },
 };
 
 function processContent(raw: string): string {
