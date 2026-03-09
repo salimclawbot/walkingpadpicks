@@ -324,6 +324,12 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "What speed should I use while typing?", answer: "Most users are productive around 1.5–2.0 mph, with 2.5 mph possible after adaptation." },
     { question: "Do I need a keyboard tray?", answer: "Only if desk height cannot be set correctly; many setups are fine with keyboard on desk when height is right." },
   ],
+  "best-budget-walking-pads": [
+    { question: "What is the best walking pad under $300?", answer: "WalkingPad C2 Mini is a strong overall choice around $250 for compact storage and practical daily desk walking." },
+    { question: "Are cheap walking pads worth it?", answer: "Yes for low-speed desk walking, especially as a first trial before investing in premium models." },
+    { question: "How long do budget walking pads last?", answer: "Typically about 2–4 years with moderate daily use and routine belt maintenance." },
+    { question: "What should I skip on budget models?", answer: "Skip gimmicky speakers/apps and prioritize belt size, motor reliability, and realistic weight capacity." },
+  ],
 };
 
 /* ---------- Article Content Splitter for Image Insertion ---------- */

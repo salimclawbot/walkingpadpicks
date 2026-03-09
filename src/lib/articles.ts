@@ -115,6 +115,14 @@ const articleMeta: Record<
     date: "2026-03-14",
     dateModified: "2026-03-14",
   },
+  "best-budget-walking-pads": {
+    title: "Best Budget Walking Pads Under $300 (2026)",
+    description:
+      "Best budget walking pads under $300 in 2026: 5 top picks compared on speed, belt size, noise level and weight limit. See what to skip at this price point →",
+    category: "Budget Guide",
+    date: "2026-03-15",
+    dateModified: "2026-03-15",
+  },
 };
 
 function processContent(raw: string): string {
