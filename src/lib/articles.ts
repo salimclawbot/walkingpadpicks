@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import { remark } from "remark";
 import html from "remark-html";
+import remarkGfm from "remark-gfm";
 
 export interface Article {
   slug: string;
@@ -266,36 +267,21 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const raw = fs.readFileSync(filePath, "utf-8");
   const processed = processContent(raw);
 
-  const result = await remark().use(html, { sanitize: false }).process(processed);
+  const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(processed);
   let htmlContent = result.toString();
 
-  // Add IDs to headings for anchor links
-  const headingIdMap: Record<string, string> = {
-    "What Is a Walking Pad?": "what-is-a-walking-pad",
-    "What Is an Under-Desk Treadmill?": "what-is-an-under-desk-treadmill",
-    "Walking Pad vs Treadmill: Side-by-Side Comparison Table": "side-by-side-comparison",
-    "Detailed Breakdown: Walking Pad vs Under-Desk Treadmill": "detailed-breakdown",
-    "Pros and Cons: Walking Pad": "pros-cons-walking-pad",
-    "Pros and Cons: Under-Desk Treadmill": "pros-cons-treadmill",
-    "Size and Portability Comparison": "size-portability-comparison",
-    "Noise Level: Walking Pad dB vs Treadmill dB": "noise-level-db-comparison",
-    "Price Range Breakdown": "price-range-breakdown",
-    "Sources & Methodology": "sources-methodology",
-    "Who Should Buy a Walking Pad?": "who-should-buy-walking-pad",
-    "Who Should Buy an Under-Desk Treadmill?": "who-should-buy-treadmill",
-    'The "Hybrid" Category: Walking Pads With Handles': "hybrid-category",
-    "The &#x22;Hybrid&#x22; Category: Walking Pads With Handles": "hybrid-category",
-    "Key Factors to Consider Before Buying": "key-factors",
-    "Frequently Asked Questions": "faq",
-    "The Bottom Line: Walking Pad vs Under-Desk Treadmill": "bottom-line",
-  };
-
+  // Auto-generate IDs for ALL headings from their text content
   htmlContent = htmlContent.replace(
-    /<(h[23])>(.*?)<\/\1>/g,
-    (match, tag, text) => {
-      const id = headingIdMap[text];
-      if (id) return `<${tag} id="${id}">${text}</${tag}>`;
-      return match;
+    /<(h[2-4])>(.*?)<\/\1>/g,
+    (match: string, tag: string, text: string) => {
+      const cleanText = text.replace(/<[^>]+>/g, "");
+      const id = cleanText
+        .toLowerCase()
+        .replace(/[^a-z0-9\s-]/g, "")
+        .replace(/\s+/g, "-")
+        .replace(/-+/g, "-")
+        .trim();
+      return `<${tag} id="${id}">${text}</${tag}>`;
     }
   );
 
