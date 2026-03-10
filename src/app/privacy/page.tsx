@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "WalkingPadPicks privacy policy. Learn how we collect, use, and protect your information.",
   alternates: {
-    canonical: "https://walking-pad-site.vercel.app/privacy",
+    canonical: "https://walkingpadpicks.com/privacy",
   },
 };
 

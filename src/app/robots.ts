@@ -8,6 +8,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: "/",
       },
     ],
-    sitemap: "https://walking-pad-site.vercel.app/sitemap.xml",
+    sitemap: "https://walkingpadpicks.com/sitemap.xml",
   };
 }

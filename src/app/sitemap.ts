@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllSlugs, getArticle } from "@/lib/articles";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://walking-pad-site.vercel.app";
+  const baseUrl = "https://walkingpadpicks.com";
   const articleSlugs = getAllSlugs();
   const articleEntries = await Promise.all(
     articleSlugs.map(async (slug) => {

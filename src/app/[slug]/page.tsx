@@ -20,22 +20,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
   const articleImages = [
-    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
-    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
-    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
-    "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
   ];
 
   return {
     title: { absolute: article.title },
     description: article.description,
     alternates: {
-      canonical: `https://walking-pad-site.vercel.app/${article.slug}`,
+      canonical: `https://walkingpadpicks.com/${article.slug}`,
     },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://walking-pad-site.vercel.app/${article.slug}`,
+      url: `https://walkingpadpicks.com/${article.slug}`,
       siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
@@ -428,17 +428,17 @@ export default async function ArticlePage({ params }: PageProps) {
 
   const imageBySlug: Record<string, string[]> = {
     "walking-pad-vs-treadmill": [
-      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-hero.png",
-      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-infographic.png",
-      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-size-comparison.png",
-      "https://walking-pad-site.vercel.app/images/walking-pad-vs-treadmill-lifestyle.png",
+      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
     ],
-    "best-walking-pads-2026": ["https://walking-pad-site.vercel.app/images/wp/best-2026/hero-best-2026.png"],
-    "best-walking-pad-under-200": ["https://walking-pad-site.vercel.app/images/wp/under-200/hero-budget-picks.png"],
-    "are-walking-pads-worth-it": ["https://walking-pad-site.vercel.app/images/wp/worth-it/hero-worth-it.png"],
-    "walking-pad-while-working": ["https://walking-pad-site.vercel.app/images/wp/while-working/hero-desk-setup.png"],
-    "walking-pad-weight-limit": ["https://walking-pad-site.vercel.app/images/wp/weight-limit/hero-safety-stability.png"],
-    "best-walking-pad-small-apartments": ["https://walking-pad-site.vercel.app/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
+    "best-walking-pads-2026": ["https://walkingpadpicks.com/images/wp/best-2026/hero-best-2026.png"],
+    "best-walking-pad-under-200": ["https://walkingpadpicks.com/images/wp/under-200/hero-budget-picks.png"],
+    "are-walking-pads-worth-it": ["https://walkingpadpicks.com/images/wp/worth-it/hero-worth-it.png"],
+    "walking-pad-while-working": ["https://walkingpadpicks.com/images/wp/while-working/hero-desk-setup.png"],
+    "walking-pad-weight-limit": ["https://walkingpadpicks.com/images/wp/weight-limit/hero-safety-stability.png"],
+    "best-walking-pad-small-apartments": ["https://walkingpadpicks.com/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
   };
 
   const articleSchema = {
@@ -457,13 +457,13 @@ export default async function ArticlePage({ params }: PageProps) {
       name: "Walking Pad Guide",
       logo: {
         "@type": "ImageObject",
-        url: "https://walking-pad-site.vercel.app/icon.svg",
+        url: "https://walkingpadpicks.com/icon.svg",
       },
     },
-    image: imageBySlug[article.slug] ?? ["https://walking-pad-site.vercel.app/icon.svg"],
+    image: imageBySlug[article.slug] ?? ["https://walkingpadpicks.com/icon.svg"],
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://walking-pad-site.vercel.app/${article.slug}`,
+      "@id": `https://walkingpadpicks.com/${article.slug}`,
     },
   };
 
