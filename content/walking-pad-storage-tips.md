@@ -8,6 +8,13 @@
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
+  </iframe>
+</div>
 - [Foldable vs Flat: Storage Differences](#foldable-vs-flat-storage-differences)
 - [How to Fold a Walking Pad (Step by Step)](#how-to-fold-a-walking-pad-step-by-step)
 - [Best Storage Locations (Ranked by Convenience)](#best-storage-locations-ranked-by-convenience)

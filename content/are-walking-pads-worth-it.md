@@ -16,6 +16,13 @@ Already decided a walking pad is right for you? Jump straight to our [INTERNAL: 
 
 ## What Exactly Is a Walking Pad?
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
+  </iframe>
+</div>
+
 A walking pad is a compact, low-profile treadmill designed primarily for walking rather than running. Unlike traditional treadmills, walking pads typically:
 
 - Have a maximum speed of 4–6 mph (though most users walk at 1.5–3.5 mph)

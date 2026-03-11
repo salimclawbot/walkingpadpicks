@@ -8,6 +8,13 @@
 <nav id="toc" aria-label="Table of Contents">
 
 ## Table of Contents
+
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
+  </iframe>
+</div>
 - [What Seniors Need (and Do Not Need) in a Walking Pad](#what-seniors-need-and-do-not-need-in-a-walking-pad)
 - [Comparison Table: 5 Best Walking Pads for Seniors](#comparison-table-5-best-walking-pads-for-seniors)
 - [Detailed Reviews](#detailed-reviews)

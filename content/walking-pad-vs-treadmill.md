@@ -8,6 +8,13 @@ If you're exploring desk walking and desk-friendly fitness, you've also probably
 
 ## What Is a Walking Pad?
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
+  </iframe>
+</div>
+
 A walking pad is an ultra-thin, lightweight treadmill designed exclusively for walking. Most walking pads are foldable or have a slim profile that allows you to slide them under a couch or bed when not in use.
 
 ### Key Characteristics of Walking Pads

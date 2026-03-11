@@ -14,6 +14,13 @@ Looking for a broader overview first? Start with our full guide to the [INTERNAL
 
 ## What to Expect Under $200: Trade-Offs vs. Premium Walking Pads
 
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
+  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
+    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
+  </iframe>
+</div>
+
 Before diving into specific models, it's important to set realistic expectations. A budget walking pad will get you moving — but here's where you'll notice differences compared to $300–$500 options.
 
 ### What You Get

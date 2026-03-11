@@ -28,6 +28,13 @@ const articleMeta: Record<
     dateModified: string;
   }
 > = {
+  "best-walking-pad-heavy-users": {
+    title: "Best Walking Pad for Heavy Users (300+ lbs) (2026)",
+    description: "The best walking pads for heavy users over 300 lbs. We tested 6 high-capacity models for motor power, belt width, and long-term durability under heavy use.",
+    category: "Buyer's Guide",
+    date: "2026-03-11",
+    dateModified: "2026-03-11",
+  },
   "best-walking-pads-2026": {
     title: "Best Walking Pads 2026: Top Picks Ranked",
     description:
@@ -203,6 +210,14 @@ const articleMeta: Record<
     category: "Maintenance Guide",
     date: "2026-03-25",
     dateModified: "2026-03-25",
+  },
+  "walking-pad-vs-standing-desk": {
+    title: "Walking Pad vs Standing Desk: Which Is Better? (2026)",
+    description:
+      "Walking pad vs standing desk compared on calorie burn, back pain, posture, and productivity. Research-backed guide to choosing the right active workstation.",
+    category: "Comparison",
+    date: "2026-03-11",
+    dateModified: "2026-03-11",
   },
   "reduce-walking-pad-noise": {
     title: "How to Reduce Walking Pad Noise (Quiet Tips 2026)",

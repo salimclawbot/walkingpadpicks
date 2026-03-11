@@ -71,8 +71,7 @@ export default function HomePage() {
             Updated for 2026
           </span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight tracking-tight">
-            Find Your Perfect{" "}
-            <span className="text-teal-600">Walking Pad</span>
+            Best Walking Pads (2026): Expert-Tested Under-Desk Treadmill Picks
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Independent reviews and buyer&apos;s guides for walking pads and
