@@ -227,6 +227,14 @@ const articleMeta: Record<
     date: "2026-03-26",
     dateModified: "2026-03-26",
   },
+  "how-to-stay-motivated-walking-pad": {
+    title: "How to Stay Motivated on a Walking Pad: Daily Guide",
+    description:
+      "How to stay motivated on a walking pad in 2026: proven habit strategies, goal-setting tips, and accountability systems that keep you walking daily. Read now →",
+    category: "Motivation Guide",
+    date: "2026-03-13",
+    dateModified: "2026-03-13",
+  },
 };
 
 function processContent(raw: string): string {
