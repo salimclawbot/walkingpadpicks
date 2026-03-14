@@ -235,6 +235,22 @@ const articleMeta: Record<
     date: "2026-03-13",
     dateModified: "2026-03-13",
   },
+  "can-you-lose-weight-with-a-walking-pad": {
+    title: "Can You Lose Weight with a Walking Pad? (Real Results)",
+    description:
+      "Can you lose weight with a walking pad? See real walking pad weight loss results for 2026, calorie math, and proven strategies to burn fat while working →",
+    category: "Weight Loss Guide",
+    date: "2026-03-15",
+    dateModified: "2026-03-15",
+  },
+  "walking-pad-buying-guide": {
+    title: "Walking Pad Buying Guide: What to Look for in 2026",
+    description:
+      "Walking pad buying guide 2026: 8 key features to check before you buy, price tier breakdown, red flags to avoid, and top picks at every budget. Read now →",
+    category: "Buyer's Guide",
+    date: "2026-03-14",
+    dateModified: "2026-03-14",
+  },
 };
 
 function processContent(raw: string): string {
