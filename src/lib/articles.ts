@@ -250,6 +250,13 @@ const articleMeta: Record<
     date: "2026-03-15",
     dateModified: "2026-03-15",
   },
+  "walking-pad-buying-guide-2026": {
+    title: "Walking Pad Buying Guide: What to Look for in 2026",
+    description: "Motor power, belt size, noise levels, weight capacity, and standing desk compatibility — all the specs that matter when buying a walking pad in 2026.",
+    category: "Buying Guide",
+    date: "2026-03-23",
+    dateModified: "2026-03-23",
+  },
   "walking-pad-buying-guide": {
     title: "Walking Pad Buying Guide: What to Look for in 2026",
     description:
