@@ -1,35 +1,3 @@
-# How to Set Up a Walking Pad Desk (2026 Guide)
-
-**By Dr. Alex Chen** · Last updated March 14, 2026
-
-**A walking pad desk setup requires three adjustments: raise your desk 4–6 inches above normal standing height (to elbow level while on the pad), position your monitor at eye level while walking, and set your keyboard at the height where your forearms are parallel to the floor.** Get these three right and you can walk and type comfortably for hours. Get them wrong and you trade sedentary pain for ergonomic pain.
-
-<!-- TABLE OF CONTENTS -->
-<nav id="toc" aria-label="Table of Contents">
-
-## Table of Contents
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
-  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
-  </iframe>
-</div>
-- [The Three Measurements That Matter](#the-three-measurements-that-matter)
-- [Step 1: Desk Height Adjustment](#step-1-desk-height-adjustment)
-- [Step 2: Monitor Height and Position](#step-2-monitor-height-and-position)
-- [Step 3: Keyboard and Mouse Placement](#step-3-keyboard-and-mouse-placement)
-- [Walking Speed by Task Type](#walking-speed-by-task-type)
-- [The Keyboard Tray Question](#the-keyboard-tray-question)
-- [Video Calls While Walking](#video-calls-while-walking)
-- [The Laptop Setup (and Why It Needs Fixing)](#the-laptop-setup-and-why-it-needs-fixing)
-- [Equipment Checklist](#equipment-checklist)
-- [First-Week Adjustment Schedule](#first-week-adjustment-schedule)
-- [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
-
-</nav>
-
 ---
 
 The walking pad is the easy purchase. The desk setup around it is where most people fail.
@@ -39,7 +7,8 @@ Here is what typically happens: you unbox the walking pad, slide it under your e
 Or you are at a sitting desk and you stack books under your monitor, prop the keyboard on a box, and create a Frankenstein workstation that wobbles and frustrates until you give up and conclude that walking pads do not work.
 
 Walking pads work. Bad desk setups do not. This guide walks you through the exact setup process — three measurements, three adjustments, and you are done.
-
+article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad Desk Setup","description":"Guide about Walking Pad Desk Setup","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-desk-setup"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"The Three Measurements That Matter","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about the three measurements that matter."}},{"@type":"Question","name":"Step 1: Desk Height Adjustment","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about step 1: desk height adjustment."}},{"@type":"Question","name":"Step 2: Monitor Height and Position","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about step 2: monitor height and position."}},{"@type":"Question","name":"Step 3: Keyboard and Mouse Placement","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about step 3: keyboard and mouse placement."}},{"@type":"Question","name":"Walking Speed by Task Type","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about walking speed by task type."}},{"@type":"Question","name":"The Keyboard Tray Question","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-desk-setup for comprehensive information about the keyboard tray question."}}]}'
 ---
 
 ## The Three Measurements That Matter

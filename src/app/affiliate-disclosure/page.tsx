@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "WalkingPadPicks affiliate disclosure. How we earn revenue and maintain editorial independence.",
   alternates: {
-    canonical: "https://walkingpadpicks.com/affiliate-disclosure",
+    canonical: "https://www.walkingpadpicks.com/affiliate-disclosure",
   },
 };
 

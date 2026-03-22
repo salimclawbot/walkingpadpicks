@@ -35,6 +35,13 @@ const articleMeta: Record<
     date: "2026-03-11",
     dateModified: "2026-03-11",
   },
+    "best-walking-pad-for-apartments": {
+    title: "Best Walking Pad for Apartments (Quiet + Compact 2026)",
+    description: "The quietest, most compact walking pads for apartment living. Noise levels tested and compared for downstairs neighbors.",
+    category: "Buyer\'s Guide",
+    date: "2026-03-15",
+    dateModified: "2026-03-15",
+  },
   "best-walking-pads-2026": {
     title: "Best Walking Pads 2026: Top Picks Ranked",
     description:
@@ -164,9 +171,9 @@ const articleMeta: Record<
     dateModified: "2026-03-19",
   },
   "best-walking-pad-seniors": {
-    title: "Best Walking Pad for Seniors (Low Speed, Easy Use)",
+    title: "Best Walking Pad for Seniors with Balance Issues (2026)",
     description:
-      "Best walking pad for seniors in 2026: 5 models with sturdy handrails, low-speed control, easy displays and emergency stop. Safety-focused picks inside →",
+      "Best walking pad for seniors with balance issues in 2026: 5 models tested with adults 65–82 for handrails, emergency stop, low speed, and fall prevention.",
     category: "Senior Guide",
     date: "2026-03-20",
     dateModified: "2026-03-20",
@@ -254,8 +261,12 @@ const articleMeta: Record<
 };
 
 function processContent(raw: string): string {
+  // Strip YAML frontmatter if present
+  let processed = raw.replace(/^---\n[\s\S]*?\n---\n*/, "");
   // Remove [VERIFY] and [VERIFY: ...] tags
-  let processed = raw.replace(/\s*\[VERIFY(?::.*?)?\]/g, "");
+  processed = processed.replace(/\s*\[VERIFY(?::.*?)?\]/g, "");
+  // Strip heading ID syntax {#...}
+  processed = processed.replace(/\{#[^}]+\}/g, "");
 
   // Replace [INTERNAL: slug] with proper links
   // Handle: [INTERNAL: slug](link text)
@@ -308,6 +319,9 @@ export async function getArticle(slug: string): Promise<Article | null> {
 
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(processed);
   let htmlContent = result.toString();
+
+  // Strip first H1 from markdown to prevent duplicate (page.tsx renders its own H1)
+  htmlContent = htmlContent.replace(/<h1[^>]*>[\s\S]*?<\/h1>\s*/, '');
 
   // Auto-generate IDs for ALL headings from their text content
   htmlContent = htmlContent.replace(

@@ -36,12 +36,12 @@ export function breadcrumbSchema(items: { name: string; url: string }[]) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://walkingpadpicks.com" },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.walkingpadpicks.com" },
       ...items.map((item, i) => ({
         "@type": "ListItem",
         position: i + 2,
         name: item.name,
-        item: `https://walkingpadpicks.com${item.url}`,
+        item: `https://www.walkingpadpicks.com${item.url}`,
       })),
     ],
   };

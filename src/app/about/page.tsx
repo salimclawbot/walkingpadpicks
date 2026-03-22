@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "About Us",
   description:
     "Learn about WalkingPadPicks — an independent review site dedicated to helping you find the best walking pad for your home office.",
-  alternates: { canonical: "https://walkingpadpicks.com/about" },
+  alternates: { canonical: "https://www.walkingpadpicks.com/about" },
 };
 
 export default function AboutPage() {

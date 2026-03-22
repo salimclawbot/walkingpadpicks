@@ -9,6 +9,16 @@ const nextConfig = {
       },
     ],
   },
+  async redirects() {
+    return [
+      {
+        source: "/best-walking-pad-for-heavy-users",
+        destination: "/best-walking-pad-heavy-users",
+        permanent: true,
+        statusCode: 308,
+      },
+    ];
+  },
 };
 
 export default nextConfig;

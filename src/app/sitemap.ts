@@ -2,7 +2,7 @@ import { MetadataRoute } from "next";
 import { getAllSlugs, getArticle } from "@/lib/articles";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
-  const baseUrl = "https://walkingpadpicks.com";
+  const baseUrl = "https://www.walkingpadpicks.com";
   const articleSlugs = getAllSlugs();
   const articleEntries = await Promise.all(
     articleSlugs.map(async (slug) => {

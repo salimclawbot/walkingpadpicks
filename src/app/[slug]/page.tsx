@@ -20,37 +20,35 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
   const articleImages = [
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
   ];
 
   return {
     title: { absolute: article.title },
     description: article.description,
     alternates: {
-      canonical: `https://walkingpadpicks.com/${article.slug}`,
+      canonical: `https://www.walkingpadpicks.com/${article.slug}`,
     },
     openGraph: {
       title: article.title,
       description: article.description,
-      url: `https://walkingpadpicks.com/${article.slug}`,
+      url: `https://www.walkingpadpicks.com/${article.slug}`,
       siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
-      ...(isVsTreadmill && {
-        images: articleImages.map((url) => ({ url })),
-      }),
+      images: isVsTreadmill
+        ? articleImages.map((url) => ({ url }))
+        : [{ url: "https://www.walkingpadpicks.com/og-image.jpg", width: 1200, height: 630, alt: article.title }],
     },
     twitter: {
       card: "summary_large_image",
       title: article.title,
       description: article.description,
       site: "@walkingpadpicks",
-      ...(isVsTreadmill && {
-        images: articleImages,
-      }),
+      images: isVsTreadmill ? articleImages : ["https://www.walkingpadpicks.com/og-image.jpg"],
     },
   };
 }
@@ -355,10 +353,13 @@ const faqBySlug: Record<string, { question: string; answer: string }[]> = {
     { question: "Are walking pad calorie displays accurate?", answer: "Often not; many overestimate. MET-based calculations are usually more consistent." },
   ],
   "best-walking-pad-seniors": [
-    { question: "Are walking pads safe for seniors?", answer: "Yes when used at low speeds with proper safety features like handrails and emergency stop systems." },
-    { question: "Do seniors need handrails on walking pads?", answer: "For most seniors, yes. Handrails provide confidence and balance support." },
-    { question: "What speed is suitable for older adults?", answer: "Many seniors start around 0.5–1.0 mph and gradually progress based on comfort and stability." },
-    { question: "How long should seniors walk per session?", answer: "Beginners can start with short sessions (10–15 minutes) and build gradually over weeks." },
+    { question: "Are walking pads safe for seniors?", answer: "Yes — when used at low speeds (0.5–2.0 mph) with proper safety features including handrails, emergency stop lanyard, and a wide non-slip belt. The controlled, flat surface is significantly safer than outdoor walking on uneven terrain." },
+    { question: "Do seniors need a handrail on their walking pad?", answer: "Strongly recommended for most seniors. Essential for those with fall history, balance concerns, vision impairment, or first-time use. Only active seniors with excellent balance and no fall history should consider flat pads without handrails." },
+    { question: "What speed should seniors walk on a walking pad?", answer: "Start at 0.5–1.0 mph for the first week, gradually increasing to 1.5–2.0 mph over 2–4 weeks. Never walk faster than a speed at which you can stop and stand still without grabbing the handrail." },
+    { question: "How long should seniors walk on a walking pad?", answer: "Start with 10–15 minutes per session, building to 20–30 minutes over 4 weeks. The CDC recommends 150 minutes of moderate activity per week, which equals 30 minutes per day, 5 days per week." },
+    { question: "What features matter most for senior walking pads?", answer: "In order: sturdy handrail, emergency stop lanyard, low minimum speed (0.5 mph), wide non-slip belt (17+ inches), large easy-to-read controls, and low step-on height under 5 inches." },
+    { question: "Which walking pad is best for bad knees?", answer: "Choose a pad with a cushioned deck like the LifePro WPTREADMS or NordicTrack T Series, combined with low speeds (0.5–1.5 mph), supportive shoes, and a handrail for stability." },
+    { question: "Can a walking pad help prevent falls in seniors?", answer: "Yes. Regular walking strengthens balance muscles, challenges the vestibular system, and builds movement confidence. Studies show walking-based exercise programs reduce fall risk by 23% in adults over 65." },
   ],
   "walking-pad-vs-treadmill-weight-loss": [
     { question: "Which is better for weight loss, walking pad or treadmill?", answer: "Treadmills win on per-hour intensity; walking pads often win on weekly consistency for home workers." },
@@ -428,17 +429,22 @@ export default async function ArticlePage({ params }: PageProps) {
 
   const imageBySlug: Record<string, string[]> = {
     "walking-pad-vs-treadmill": [
-      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-      "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
+      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
     ],
-    "best-walking-pads-2026": ["https://walkingpadpicks.com/images/wp/best-2026/hero-best-2026.png"],
-    "best-walking-pad-under-200": ["https://walkingpadpicks.com/images/wp/under-200/hero-budget-picks.png"],
-    "are-walking-pads-worth-it": ["https://walkingpadpicks.com/images/wp/worth-it/hero-worth-it.png"],
-    "walking-pad-while-working": ["https://walkingpadpicks.com/images/wp/while-working/hero-desk-setup.png"],
-    "walking-pad-weight-limit": ["https://walkingpadpicks.com/images/wp/weight-limit/hero-safety-stability.png"],
-    "best-walking-pad-small-apartments": ["https://walkingpadpicks.com/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
+    "best-walking-pads-2026": ["https://www.walkingpadpicks.com/images/wp/best-2026/hero-best-2026.png"],
+    "best-walking-pad-under-200": ["https://www.walkingpadpicks.com/images/wp/under-200/hero-budget-picks.png"],
+    "are-walking-pads-worth-it": ["https://www.walkingpadpicks.com/images/wp/worth-it/hero-worth-it.png"],
+    "walking-pad-while-working": ["https://www.walkingpadpicks.com/images/wp/while-working/hero-desk-setup.png"],
+    "walking-pad-weight-limit": ["https://www.walkingpadpicks.com/images/wp/weight-limit/hero-safety-stability.png"],
+    "best-walking-pad-small-apartments": ["https://www.walkingpadpicks.com/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
+    "best-walking-pad-seniors": [
+      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-hero.jpg",
+      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-comparison-infographic.jpg",
+      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg",
+    ],
   };
 
   const articleSchema = {
@@ -457,13 +463,13 @@ export default async function ArticlePage({ params }: PageProps) {
       name: "Walking Pad Guide",
       logo: {
         "@type": "ImageObject",
-        url: "https://walkingpadpicks.com/icon.svg",
+        url: "https://www.walkingpadpicks.com/icon.svg",
       },
     },
-    image: imageBySlug[article.slug] ?? ["https://walkingpadpicks.com/icon.svg"],
+    image: imageBySlug[article.slug] ?? ["https://www.walkingpadpicks.com/icon.svg"],
     mainEntityOfPage: {
       "@type": "WebPage",
-      "@id": `https://walkingpadpicks.com/${article.slug}`,
+      "@id": `https://www.walkingpadpicks.com/${article.slug}`,
     },
   };
 

@@ -1,40 +1,10 @@
-# Walking Pad Calories Burned Calculator (2026)
-
-**By Dr. Alex Chen** · Last updated March 19, 2026
-
-**A walking pad burns 150–300 calories per hour depending on your weight and speed — roughly double a standing desk and 50% more than sitting. At the typical desk speed of 1.5–2.0 mph, a 155 lb person burns ~180–210 cal/hr. Over 3 hours of daily walking, that is 530–630 extra calories per week versus sitting.** Here is the exact formula, full calorie tables, and realistic daily burn examples.
-
-<!-- TABLE OF CONTENTS -->
-<nav id="toc" aria-label="Table of Contents">
-
-## Table of Contents
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
-  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
-  </iframe>
-</div>
-- [The Formula: How to Calculate Your Burn](#the-formula-how-to-calculate-your-burn)
-- [Calorie Table: Every Speed × Every Weight](#calorie-table-every-speed--every-weight)
-- [Walking Pad vs Sitting vs Standing](#walking-pad-vs-sitting-vs-standing)
-- [Net Calories: What You Actually Burn Extra](#net-calories-what-you-actually-burn-extra)
-- [Realistic Daily Burn Examples](#realistic-daily-burn-examples)
-- [Speed vs Duration: What Burns More?](#speed-vs-duration-what-burns-more)
-- [Weekly and Monthly Projections](#weekly-and-monthly-projections)
-- [Why Your Walking Pad's Calorie Display Is Wrong](#why-your-walking-pads-calorie-display-is-wrong)
-- [Factors That Affect Your Actual Burn](#factors-that-affect-your-actual-burn)
-- [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
-
-</nav>
-
 ---
 
 Every walking pad buyer wants to know the same thing: how many calories am I actually burning? The answer you get depends on who you ask. Your walking pad's LCD display says 400 calories. Your fitness tracker says 250. That calorie calculator website says 180. Which one is right?
 
 Probably none of them — at least not precisely. But we can get close using the MET formula from the Compendium of Physical Activities, the same methodology used in exercise science research. This guide gives you the formula, the tables, and the context to calculate a realistic calorie burn — not a marketing number.
-
+article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad Calories Burned","description":"Guide about Walking Pad Calories Burned","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-calories-burned"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"The Formula: How to Calculate Your Burn","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about the formula: how to calculate your burn."}},{"@type":"Question","name":"Calorie Table: Every Speed \u00d7 Every Weight","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about calorie table: every speed \u00d7 every weight."}},{"@type":"Question","name":"Walking Pad vs Sitting vs Standing","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about walking pad vs sitting vs standing."}},{"@type":"Question","name":"Net Calories: What You Actually Burn Extra","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about net calories: what you actually burn extra."}},{"@type":"Question","name":"Realistic Daily Burn Examples","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about realistic daily burn examples."}},{"@type":"Question","name":"Speed vs Duration: What Burns More?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-calories-burned for comprehensive information about speed vs duration: what burns more?."}}]}'
 ---
 
 ## The Formula: How to Calculate Your Burn

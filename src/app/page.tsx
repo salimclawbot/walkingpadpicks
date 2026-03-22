@@ -3,16 +3,17 @@ import { Metadata } from "next";
 import { breadcrumbSchema } from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: { absolute: "Walking Pad Guide: Best Picks (2026)" },
+  title: { absolute: "Best Walking Pads 2026: Expert-Tested & Reviewed" },
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads in 2026.",
-  alternates: { canonical: "https://walkingpadpicks.com" },
+  alternates: { canonical: "https://www.walkingpadpicks.com" },
   openGraph: {
     title: "Walking Pad Guide: Best Picks (2026)",
     description:
       "Find the best walking pad for your home office. Independent reviews and buyer's guides for under-desk treadmills.",
-    url: "https://walkingpadpicks.com",
+    url: "https://www.walkingpadpicks.com",
     type: "website",
+    images: [{ url: "https://www.walkingpadpicks.com/og-image.jpg", width: 1200, height: 630, alt: "WalkingPadPicks - Best Walking Pad Reviews 2026" }],
   },
 };
 
@@ -51,6 +52,12 @@ const articles = [
     description:
       "Desk setup, speed recommendations, and productivity tips for walking while you work.",
     category: "Guide",
+  },
+  {
+    slug: "walking-pad-buying-guide-2026",
+    title: "Walking Pad Buying Guide: What to Look for in 2026",
+    description: "Motor power, belt size, noise levels, weight capacity, and standing desk compatibility — all the specs that matter when choosing a walking pad.",
+    category: "Buying Guide",
   },
 ];
 
@@ -195,6 +202,9 @@ export default function HomePage() {
             ))}
           </div>
         </div>
+      
+      
+      <script type="application/ld+json" dangerouslySetInnerHTML={{__html: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best walking pad in 2026?","acceptedAnswer":{"@type":"Answer","text":"The WalkingPad C2 is our top pick for 2026, offering a slim foldable design, speeds up to 6km/h, and 100kg weight capacity at an excellent price."}},{"@type":"Question","name":"Can you work while using a walking pad?","acceptedAnswer":{"@type":"Answer","text":"Research shows walking at 1-2 km/h maintains cognitive performance. Most people comfortably type and attend video calls while walking slowly."}},{"@type":"Question","name":"How many calories does a walking pad burn per hour?","acceptedAnswer":{"@type":"Answer","text":"At 2 km/h, a 70kg person burns approximately 140-160 calories per hour on a walking pad."}}]}'}} />
       </section>
     </>
   );

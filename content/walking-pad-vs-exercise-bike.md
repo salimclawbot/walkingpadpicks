@@ -327,7 +327,7 @@ Walking pads transmit vibration through the floor — footsteps create impact th
 | Premium | $450–800 | $700–2,500+ |
 | Ultra-premium | — | $1,500–3,000 (Peloton, etc.) |
 
-At the budget and mid-range tiers, pricing is comparable. Exercise bikes have a higher ceiling due to premium connected fitness platforms (Peloton, SoulCycle, NordicTrack) with monthly subscription costs.
+At the budget and mid-range tiers, pricing is comparable. Exercise bikes have a higher ceiling due to premium connected fitness platforms (Peloton, SoulCycle, [NordicTrack](https://www.amazon.com/s?k=NordicTrack&tag=theforge05-20)) with monthly subscription costs.
 
 ### Ongoing Costs
 

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Contact Us",
   description:
     "Get in touch with the WalkingPadPicks team. Questions, suggestions, corrections, and partnership inquiries welcome.",
-  alternates: { canonical: "https://walkingpadpicks.com/contact" },
+  alternates: { canonical: "https://www.walkingpadpicks.com/contact" },
 };
 
 export default function ContactPage() {

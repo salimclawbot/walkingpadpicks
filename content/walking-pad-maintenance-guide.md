@@ -1,35 +1,3 @@
-# Walking Pad Maintenance Guide (Keep It Running 2026)
-
-**By Dr. Alex Chen** · Last updated March 25, 2026
-
-**The single most important walking pad maintenance task is belt lubrication — apply 100% silicone treadmill lubricant between the belt and deck every 3–6 months. This 10-minute job reduces friction, quiets the motor, prevents belt cracking, and can double your walking pad's lifespan from 2–3 years to 5–7 years. Everything else — cleaning, tension checks, motor care — takes less time and matters less.** Full schedule below.
-
-<!-- TABLE OF CONTENTS -->
-<nav id="toc" aria-label="Table of Contents">
-
-## Table of Contents
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
-  <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" 
-    allowfullscreen loading="lazy" title="Walking Pad Review and Setup Guide 2026">
-  </iframe>
-</div>
-- [Maintenance Schedule Overview](#maintenance-schedule-overview)
-- [Belt Lubrication (The Most Important Task)](#belt-lubrication-the-most-important-task)
-- [Belt Cleaning](#belt-cleaning)
-- [Belt Tension and Alignment](#belt-tension-and-alignment)
-- [Motor and Drive System Care](#motor-and-drive-system-care)
-- [Electronics and Display Care](#electronics-and-display-care)
-- [Deck Inspection and Care](#deck-inspection-and-care)
-- [Signs Something Is Wrong](#signs-something-is-wrong)
-- [When to Call for Professional Service](#when-to-call-for-professional-service)
-- [Lifespan by Component](#lifespan-by-component)
-- [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
-
-</nav>
-
 ---
 
 Walking pads are simple machines — a motor, a belt, a deck, and some electronics. But "simple" does not mean "maintenance-free." The belt slides over the deck thousands of times per session. The motor runs for hours daily. Dust, sweat, and shoe debris accumulate on every surface. Without maintenance, a $250 walking pad lasts 1–2 years. With basic maintenance, the same pad lasts 4–6 years.
@@ -37,7 +5,8 @@ Walking pads are simple machines — a motor, a belt, a deck, and some electroni
 The good news: walking pad maintenance is easy, infrequent, and takes less time than making coffee. The bad news: most people skip it entirely, then wonder why their pad sounds like a dying washing machine after 8 months.
 
 This guide covers everything — from the 5-minute monthly tasks to the once-a-year inspections.
-
+article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad Maintenance Guide","description":"Guide about Walking Pad Maintenance Guide","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-maintenance-guide"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
+faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Maintenance Schedule Overview","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about maintenance schedule overview."}},{"@type":"Question","name":"Belt Lubrication (The Most Important Task)","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about belt lubrication (the most important task)."}},{"@type":"Question","name":"Belt Cleaning","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about belt cleaning."}},{"@type":"Question","name":"Belt Tension and Alignment","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about belt tension and alignment."}},{"@type":"Question","name":"Motor and Drive System Care","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about motor and drive system care."}},{"@type":"Question","name":"Electronics and Display Care","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-maintenance-guide for comprehensive information about electronics and display care."}}]}'
 ---
 
 ## Maintenance Schedule Overview

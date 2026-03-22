@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     "WalkingPadPicks privacy policy. Learn how we collect, use, and protect your information.",
   alternates: {
-    canonical: "https://walkingpadpicks.com/privacy",
+    canonical: "https://www.walkingpadpicks.com/privacy",
   },
 };
 
