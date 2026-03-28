@@ -257,13 +257,42 @@ const articleMeta: Record<
     date: "2026-03-23",
     dateModified: "2026-03-23",
   },
-  "walking-pad-buying-guide": {
-    title: "Walking Pad Buying Guide: What to Look for in 2026",
+  "best-folding-walking-pad-storage": {
+    title: "Best Folding Walking Pad for Easy Storage (2026)",
     description:
-      "Walking pad buying guide 2026: 8 key features to check before you buy, price tier breakdown, red flags to avoid, and top picks at every budget. Read now →",
-    category: "Buyer's Guide",
-    date: "2026-03-14",
-    dateModified: "2026-03-14",
+      "Best folding walking pads 2026: top picks ranked by fold size, weight, and build quality. Find the most compact treadmill that fits your space without sacrificing durability.",
+    category: "Walking Pads",
+    date: "2026-03-25",
+    dateModified: "2026-03-25",
+  },
+  "walking-pad-desk-setup-two-monitors": {
+    title: "Walking Pad Desk Setup for Two Monitors (2026 Guide)",
+    description: "The complete walking pad desk setup guide for two monitors in 2026. Best desks, dual monitor stands, ergonomic positioning, cable management, and product picks to walk and work comfortably.",
+    category: "Walking Pad Guides",
+    date: "2026-03-28",
+    dateModified: "2026-03-28",
+  },
+  // walking-pad-buying-guide removed (duplicate of walking-pad-buying-guide-2026)
+  "walking-pad-vs-regular-treadmill-for-home-use": {
+    title: "Walking Pad vs Regular Treadmill for Home Use: Complete Comparison Guide",
+    description: "Compare walking pads and traditional treadmills for home use. We test durability, space, noise, safety, cost, and fitness outcomes. See side-by-side data, user reviews, and buying recommendations.",
+    category: "Comparison",
+    date: "2026-03-28",
+    dateModified: "2026-03-28",
+  },
+  "walking-pad-vs-regular-treadmill-home-use": {
+    title: "Walking Pad vs Regular Treadmill for Home Use: Complete Comparison Guide",
+    description: "Compare walking pads and traditional treadmills for home use. We test durability, space, noise, safety, cost, and fitness outcomes. See side-by-side data, user reviews, and buying recommendations.",
+    category: "Comparison",
+    date: "2026-03-28",
+    dateModified: "2026-03-28",
+  },
+  "walking-pad-vs-treadmill-home-use": {
+    title: "Walking Pad vs Regular Treadmill: Which Is Better for Home Use? (2026)",
+    description: "Compare walking pads and regular treadmills for home use across space, noise, cost, fitness, and durability. Side-by-side data with 10 product picks and buying recommendations for 2026.",
+    category: "Comparison",
+    date: "2026-03-29",
+    dateModified: "2026-03-29",
   },
 };
 
@@ -272,8 +301,6 @@ function processContent(raw: string): string {
   let processed = raw.replace(/^---\n[\s\S]*?\n---\n*/, "");
   // Remove [VERIFY] and [VERIFY: ...] tags
   processed = processed.replace(/\s*\[VERIFY(?::.*?)?\]/g, "");
-  // Strip heading ID syntax {#...}
-  processed = processed.replace(/\{#[^}]+\}/g, "");
 
   // Replace [INTERNAL: slug] with proper links
   // Handle: [INTERNAL: slug](link text)
@@ -330,18 +357,26 @@ export async function getArticle(slug: string): Promise<Article | null> {
   // Strip first H1 from markdown to prevent duplicate (page.tsx renders its own H1)
   htmlContent = htmlContent.replace(/<h1[^>]*>[\s\S]*?<\/h1>\s*/, '');
 
-  // Auto-generate IDs for ALL headings from their text content
+  // Auto-generate IDs for ALL headings, using {#custom-id} if present
   htmlContent = htmlContent.replace(
-    /<(h[2-4])>(.*?)<\/\1>/g,
+    /<(h[2-6])>(.*?)<\/\1>/g,
     (match: string, tag: string, text: string) => {
-      const cleanText = text.replace(/<[^>]+>/g, "");
-      const id = cleanText
-        .toLowerCase()
-        .replace(/[^a-z0-9\s-]/g, "")
-        .replace(/\s+/g, "-")
-        .replace(/-+/g, "-")
-        .trim();
-      return `<${tag} id="${id}">${text}</${tag}>`;
+      const customIdMatch = text.match(/\{#([^}]+)\}/);
+      let id: string;
+      let displayText = text;
+      if (customIdMatch) {
+        id = customIdMatch[1];
+        displayText = text.replace(/\s*\{#[^}]+\}/, '');
+      } else {
+        const cleanText = text.replace(/<[^>]+>/g, "");
+        id = cleanText
+          .toLowerCase()
+          .replace(/[^a-z0-9\s-]/g, "")
+          .replace(/\s+/g, "-")
+          .replace(/-+/g, "-")
+          .trim();
+      }
+      return `<${tag} id="${id}">${displayText}</${tag}>`;
     }
   );
 
