@@ -51,7 +51,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 - [What Breaks First (and What It Costs to Fix)](#what-breaks-first-and-what-it-costs-to-fix)
 - [The Decision Framework](#the-decision-framework)
 - [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -380,7 +380,7 @@ Amazon purchases have a 30-day return window. Test within the first week for def
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide evaluates budget walking pad value based on build quality, component longevity, hidden costs, and total cost of ownership.
 
@@ -410,3 +410,7 @@ This guide evaluates budget walking pad value based on build quality, component 
 - [Walking Pad Weight Limit](/walking-pad-weight-limit)
 - [Best Budget Walking Pads](/best-budget-walking-pads)
 - [Best Walking Pad for Small Apartments](/best-walking-pad-small-apartments)
+
+
+## Visual Guide Gallery
+

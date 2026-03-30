@@ -40,7 +40,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 - [Weight Loss: Which Is More Effective?](#weight-loss-which-is-more-effective)
 - [Who Should Buy Which](#who-should-buy-which)
 - [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -424,7 +424,7 @@ Yes — if the extra calorie expenditure creates a calorie deficit. A 155-pound 
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This comparison uses MET-based calorie calculations and published exercise physiology data to evaluate walking pads versus exercise bikes across calorie burn, joint impact, multitasking, noise, space, cost, and weight loss effectiveness.
 
@@ -453,3 +453,15 @@ This comparison uses MET-based calorie calculations and published exercise physi
 **Internal links referenced:**
 - [Best Walking Pad for Small Apartments](/best-walking-pad-small-apartments)
 - [Walking Pad Weight Limit Guide](/walking-pad-weight-limit)
+
+
+## Visual Guide Gallery
+
+![walking pad vs exercise bike visual 1](/images/articles/walking-pad-vs-treadmill-home-use-apartment.jpg)
+![walking pad vs exercise bike visual 2](/images/articles/walking-pad-vs-treadmill-home-use-cost.jpg)
+![walking pad vs exercise bike visual 3](/images/articles/walking-pad-vs-treadmill-home-use-decision.jpg)
+![walking pad vs exercise bike visual 4](/images/articles/walking-pad-vs-treadmill-home-use-desk-walking.jpg)
+![walking pad vs exercise bike visual 5](/images/articles/walking-pad-vs-treadmill-home-use-hero.jpg)
+![walking pad vs exercise bike visual 6](/images/articles/walking-pad-vs-treadmill-home-use-noise.jpg)
+![walking pad vs exercise bike visual 7](/images/articles/walking-pad-vs-treadmill-home-use-specs.jpg)
+![walking pad vs exercise bike visual 8](/images/articles/walking-pad-vs-treadmill-home-use-treadmill-gym.jpg)

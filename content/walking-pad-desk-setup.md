@@ -321,7 +321,7 @@ Place a rubber or PVC equipment mat underneath. The mat's grippy surface prevent
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide provides walking pad desk setup instructions based on occupational ergonomic standards and workstation design principles.
 
@@ -351,3 +351,15 @@ This guide provides walking pad desk setup instructions based on occupational er
 - [Best Walking Pad Mat](/best-walking-pad-mat)
 - [Best Walking Pad for Small Apartments](/best-walking-pad-small-apartments)
 - [Walking Pad Desk Ergonomics](/walking-pad-desk-ergonomics)
+
+
+## Visual Guide Gallery
+
+![walking pad desk setup visual 1](/images/articles/walking-pad-desk-setup-two-monitors-cable-management.jpg)
+![walking pad desk setup visual 2](/images/articles/walking-pad-desk-setup-two-monitors-desk-sizing.jpg)
+![walking pad desk setup visual 3](/images/articles/walking-pad-desk-setup-two-monitors-eletab-stand.jpg)
+![walking pad desk setup visual 4](/images/articles/walking-pad-desk-setup-two-monitors-ergonomic-infographic.jpg)
+![walking pad desk setup visual 5](/images/articles/walking-pad-desk-setup-two-monitors-ergonomic-positioning.jpg)
+![walking pad desk setup visual 6](/images/articles/walking-pad-desk-setup-two-monitors-ergotron-lx.jpg)
+![walking pad desk setup visual 7](/images/articles/walking-pad-desk-setup-two-monitors-flexispot-ef1.jpg)
+![walking pad desk setup visual 8](/images/articles/walking-pad-desk-setup-two-monitors-hero.jpg)

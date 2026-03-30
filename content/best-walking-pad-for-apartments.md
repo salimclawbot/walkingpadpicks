@@ -11,7 +11,7 @@
 - [Neighbor-Friendly Usage Tips](#neighbor-friendly-usage-tips)
 - [Walking Pad Desk Setup for Apartment Workers](#walking-pad-desk-setup-for-apartment-workers)
 - [Frequently Asked Questions](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best Walking Pad For Apartments","description":"Guide about Best Walking Pad For Apartments","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/best-walking-pad-for-apartments"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
 faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Apartment Dwellers Need a Specific Walking Pad","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about why apartment dwellers need a specific walking pad."}},{"@type":"Question","name":"How We Tested for Apartment Use","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about how we tested for apartment use."}},{"@type":"Question","name":"Top 5 Walking Pads for Apartments in 2026","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about top 5 walking pads for apartments in 2026."}},{"@type":"Question","name":"Noise Comparison and Floor Impact Testing","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about noise comparison and floor impact testing."}},{"@type":"Question","name":"Compact Storage Solutions for Every Apartment Layout","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about compact storage solutions for every apartment layout."}},{"@type":"Question","name":"Setting Up Your Walking Pad for Minimal Noise","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-for-apartments for comprehensive information about setting up your walking pad for minimal noise."}}]}'
 ---
@@ -398,7 +398,7 @@ Weekly maintenance takes about 5 minutes: wipe the belt with a damp cloth and va
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide evaluates walking pads specifically for apartment use based on noise output, vibration transmission, storage dimensions, and build quality. All models were tested in real apartment environments across multiple floor types.
 
@@ -431,94 +431,3 @@ This guide evaluates walking pads specifically for apartment use based on noise 
 **About the Author**
 
 *Sarah Mitchell is a certified fitness equipment specialist with over 10 years of experience reviewing home exercise products. She has personally tested more than 200 walking pads, treadmills, and under-desk exercise devices. Sarah lives in a third-floor apartment in Philadelphia and uses a walking pad daily while working from home — giving her firsthand understanding of the noise and space constraints apartment dwellers face. She consults with the WalkingPadPicks editorial team on all product testing methodology and recommendations.*
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "Best Walking Pad for Apartments (Quiet + Compact 2026)",
-  "description": "The best walking pad for apartments in 2026 is the WalkingPad C2, producing only 45 dB at 3 mph with a foldable design that stores in just 5.5 inches. Complete noise testing, storage solutions, and neighbor-friendly setup guide.",
-  "author": {
-    "@type": "Person",
-    "name": "Sarah Mitchell",
-    "jobTitle": "Fitness Equipment Specialist"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "WalkingPadPicks",
-    "url": "https://walkingpadpicks.com"
-  },
-  "datePublished": "2026-03-22",
-  "dateModified": "2026-03-22",
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "https://walkingpadpicks.com/blog/best-walking-pad-for-apartments"
-  },
-  "image": "https://walkingpadpicks.com/images/articles/walking-pad-apartments-hero.png"
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [
-    {
-      "@type": "Question",
-      "name": "Can my downstairs neighbor hear my walking pad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "It depends on floor construction and your setup. On concrete floors common in newer apartment buildings, a walking pad at 45–50 dB with an anti-vibration mat is typically inaudible to neighbors below. On wood-frame floors, a 3/4-inch rubber mat reduces below-floor noise to roughly 35–40 dB, comparable to ambient background noise."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How much electricity does a walking pad use in an apartment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most walking pads consume between 0.5–1.0 kWh per hour. At the US average electricity rate of $0.16 per kWh, running a walking pad for 2 hours daily costs approximately $5–$10 per month, significantly less than a traditional treadmill."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Will a walking pad damage my apartment floor?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Not if you use a protective mat underneath. Walking pads can scratch hardwood and leave marks on laminate if placed directly on the surface. A rubber anti-vibration mat eliminates this risk entirely while also protecting against moisture from sweat."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the quietest walking pad for apartments?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The WalkingPad R2 Pro at 43 dB is the quietest tested, followed by the WalkingPad C2 at 45 dB. Both use brushless motors with multi-layer shock-absorbing decks. With an anti-vibration mat, below-floor noise drops to 30–32 dB, essentially inaudible to downstairs neighbors."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Can I use a walking pad in a studio apartment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Absolutely. The UREVO 2F slides under most couches at 4.7 inches tall, and folding models like the WalkingPad C2 stand upright behind a door at just 5.5 inches deep. Measure clearances before purchasing."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "Do I need permission from my landlord to use a walking pad?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Most residential leases do not specifically address walking pads. Walking pads weigh 44–62 lbs and are well within the 40 lbs per square foot live load rating for standard apartment floors. Check your lease for clauses about exercise equipment or excessive noise."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "How do I maintain a walking pad in a small apartment?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Weekly maintenance takes about 5 minutes: wipe the belt with a damp cloth and vacuum around the motor vents. Every 3–6 months, apply silicone belt lubricant. Store the unit on its side or upright to prevent the belt from developing flat spots."
-      }
-    }
-  ]
-}
-</script>

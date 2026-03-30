@@ -31,7 +31,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 - [Apartment Noise: What Your Neighbors Actually Hear](#apartment-noise-what-your-neighbors-actually-hear)
 - [Video Calls and Shared Offices](#video-calls-and-shared-offices)
 - [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -367,7 +367,7 @@ Carpet, by 4–8 dB in-room and substantially more for neighbor noise. Carpet na
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide evaluates walking pad noise levels based on acoustic principles, motor characteristics, and flooring transmission properties.
 
@@ -398,3 +398,7 @@ This guide evaluates walking pad noise levels based on acoustic principles, moto
 - [Best Budget Walking Pads](/best-budget-walking-pads)
 - [Walking Pad Weight Limit](/walking-pad-weight-limit)
 - [Walking Pad Desk Setup](/walking-pad-desk-setup)
+
+
+## Visual Guide Gallery
+

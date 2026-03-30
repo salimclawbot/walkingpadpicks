@@ -304,7 +304,7 @@ Not fully, but layering a dense rubber mat + carpet remnant reduces vibration tr
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide covers walking pad noise reduction based on acoustic principles, vibration dampening physics, and practical apartment living considerations.
 
@@ -329,3 +329,7 @@ This guide covers walking pad noise reduction based on acoustic principles, vibr
 **Internal links referenced:**
 - [Best Walking Pad Mat](/best-walking-pad-mat)
 - [Walking Pad Maintenance Guide](/walking-pad-maintenance-guide)
+
+
+## Visual Guide Gallery
+

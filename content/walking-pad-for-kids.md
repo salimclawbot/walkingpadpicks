@@ -319,7 +319,7 @@ In most cases, no. Children should be active through play, sports, and outdoor a
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide provides safety information for parents considering walking pad use by children, based on manufacturer guidelines, government safety data, and pediatric exercise recommendations.
 
@@ -343,3 +343,15 @@ This guide provides safety information for parents considering walking pad use b
 
 **Internal links referenced:**
 - [Best Walking Pad for Seniors](/best-walking-pad-seniors)
+
+
+## Visual Guide Gallery
+
+![walking pad for kids visual 1](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![walking pad for kids visual 2](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)
+![walking pad for kids visual 3](/images/articles/best-folding-walking-pad-storage-size-infographic.jpg)
+![walking pad for kids visual 4](/images/articles/best-folding-walking-pad-storage-tips.jpg)
+![walking pad for kids visual 5](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![walking pad for kids visual 6](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![walking pad for kids visual 7](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![walking pad for kids visual 8](/images/articles/best-walking-pad-seniors-hero.jpg)

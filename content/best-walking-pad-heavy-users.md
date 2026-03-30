@@ -17,14 +17,14 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 - [Why Weight Capacity Matters More Than You Think](#why-weight-capacity-matters-more-than-you-think)
 - [How We Tested](#how-we-tested)
-- [Best Walking Pads for Heavy Users — Comparison Table](#best-walking-pads-for-heavy-users--comparison-table)
+- [Best Walking Pads for Heavy Users — Comparison Table](#best-walking-pads-for-heavy-users-comparison-table)
 - [Detailed Reviews](#detailed-reviews)
-  - [1. WalkingPad R2 Pro — Best Overall for Heavy Users](#1-walkingpad-r2-pro--best-overall-for-heavy-users)
-  - [2. Urevo Spacewalk E1 — Highest Weight Capacity](#2-urevo-spacewalk-e1--highest-weight-capacity)
-  - [3. Sperax Walking Pad — Best Budget Option](#3-sperax-walking-pad--best-budget-option)
-  - [4. GoYouth Heavy-Duty Under Desk Treadmill — Best for Under-Desk Use](#4-goyouth-heavy-duty-under-desk-treadmill--best-for-under-desk-use)
-  - [5. REDLIRO Wide Belt Walking Treadmill — Best Belt Width](#5-redliro-wide-belt-walking-treadmill--best-belt-width)
-  - [6. Goplus MaxStride 400 — Best for Users Over 350 lbs](#6-goplus-maxstride-400--best-for-users-over-350-lbs)
+  - [1. WalkingPad R2 Pro — Best Overall for Heavy Users](#1-walkingpad-r2-pro-best-overall-for-heavy-users)
+  - [2. Urevo Spacewalk E1 — Highest Weight Capacity](#2-urevo-spacewalk-e1-highest-weight-capacity)
+  - [3. Sperax Walking Pad — Best Budget Option](#3-sperax-walking-pad-best-budget-option)
+  - [4. GoYouth Heavy-Duty Under Desk Treadmill — Best for Under-Desk Use](#4-goyouth-heavy-duty-under-desk-treadmill-best-for-under-desk-use)
+  - [5. REDLIRO Wide Belt Walking Treadmill — Best Belt Width](#5-redliro-wide-belt-walking-treadmill-best-belt-width)
+  - [6. Goplus MaxStride 400 — Best for Users Over 350 lbs](#6-goplus-maxstride-400-best-for-users-over-350-lbs)
 - [Key Features Heavy Users Must Prioritise](#key-features-heavy-users-must-prioritise)
 - [Safety Considerations for Plus-Size Walkers](#safety-considerations-for-plus-size-walkers)
 - [Walking Pad vs Full-Size Treadmill for Heavy Users](#walking-pad-vs-full-size-treadmill-for-heavy-users)
@@ -320,3 +320,12 @@ Warranty coverage varies significantly by manufacturer and is a critical conside
 7. GoYouth. "Heavy-Duty Under Desk Treadmill — Technical Documentation." GoYouthFitness.com, 2025.
 8. Goplus. "MaxStride 400 Walking Treadmill — Product Specifications and Safety Guide." GoplusFitness.com, 2026.
 9. Consumer Product Safety Commission. "Treadmill Safety Guidelines." CPSC.gov, 2024.
+
+
+## Visual Guide Gallery
+
+![best walking pad heavy users visual 1](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![best walking pad heavy users visual 2](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![best walking pad heavy users visual 3](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![best walking pad heavy users visual 4](/images/articles/best-walking-pad-seniors-hero.jpg)
+![best walking pad heavy users visual 5](/images/articles/best-walking-pad-seniors-product-1.jpg)

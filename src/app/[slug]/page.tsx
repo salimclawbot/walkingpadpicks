@@ -215,7 +215,7 @@ function ComparisonTableWithProducts() {
               <td className="p-3 text-center font-semibold text-teal-700">{p.price}</td>
               <td className="p-3 text-center">
                 <a
-                  href={`https://www.amazon.com/s?k=${p.amazonQuery}`}
+                  href={`https://www.amazon.com/s?k=${p.amazonQuery}&tag=theforge05-20`}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-2 rounded hover:bg-teal-700 transition-colors"

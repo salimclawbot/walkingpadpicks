@@ -375,7 +375,7 @@ Possible but not easy — 1–2 hours, basic tools, and the correct replacement 
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide covers walking pad maintenance based on treadmill engineering principles, belt and motor care best practices, and manufacturer maintenance guidelines.
 
@@ -399,3 +399,15 @@ This guide covers walking pad maintenance based on treadmill engineering princip
 **Internal links referenced:**
 - [Walking Pad Storage Tips](/walking-pad-storage-tips)
 - [Best Budget Walking Pads](/best-budget-walking-pads)
+
+
+## Visual Guide Gallery
+
+![walking pad maintenance guide visual 1](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![walking pad maintenance guide visual 2](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)
+![walking pad maintenance guide visual 3](/images/articles/best-folding-walking-pad-storage-size-infographic.jpg)
+![walking pad maintenance guide visual 4](/images/articles/best-folding-walking-pad-storage-tips.jpg)
+![walking pad maintenance guide visual 5](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![walking pad maintenance guide visual 6](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![walking pad maintenance guide visual 7](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![walking pad maintenance guide visual 8](/images/articles/best-walking-pad-seniors-hero.jpg)

@@ -247,7 +247,7 @@ A full treadmill is the safer choice. Walking pads in the 265–275 lb capacity 
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide compares manufacturer-stated weight capacities for 8 popular walking pads available in 2026. Weight limits, motor specs, and belt dimensions are sourced from official product listings and manufacturer documentation.
 
@@ -260,3 +260,11 @@ This guide compares manufacturer-stated weight capacities for 8 popular walking 
 The 20% safety margin recommendation is based on fitness equipment industry best practices and accounts for dynamic impact forces during walking (approximately 1.2–1.3x body weight per stride as documented in biomechanical research).
 
 Prices are approximate and reflect typical retail pricing at time of publication. We link to Amazon search results to ensure links remain functional. We may earn a commission on purchases at no additional cost to you. Affiliate relationships do not influence recommendations.
+
+
+## Visual Guide Gallery
+
+![walking pad weight limit visual 1](/images/articles/walking-pad-weight-loss-home-office.jpg)
+![walking pad weight limit visual 2](/images/articles/walking-pad-weight-loss-plan.jpg)
+![walking pad weight limit visual 3](/images/articles/walking-pad-weight-loss-timeline-infographic.jpg)
+![walking pad weight limit visual 4](/images/articles/walking-pad-weight-loss-home-office.jpg)

@@ -316,7 +316,7 @@ They work for basic protection but the seams create uneven surfaces, the tiles s
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide recommends walking pad mat options based on material science, flooring protection principles, and acoustic vibration reduction.
 
@@ -339,3 +339,15 @@ This guide recommends walking pad mat options based on material science, floorin
 - [Best Walking Pad for Small Apartments](/best-walking-pad-small-apartments)
 - [Walking Pad Weight Limit](/walking-pad-weight-limit)
 - [Walking Pad Desk Ergonomics](/walking-pad-desk-ergonomics)
+
+
+## Visual Guide Gallery
+
+![best walking pad mat visual 1](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![best walking pad mat visual 2](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![best walking pad mat visual 3](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![best walking pad mat visual 4](/images/articles/best-walking-pad-seniors-hero.jpg)
+![best walking pad mat visual 5](/images/articles/best-walking-pad-seniors-product-1.jpg)
+![best walking pad mat visual 6](/images/articles/best-walking-pad-seniors-product-2.jpg)
+![best walking pad mat visual 7](/images/articles/best-walking-pad-seniors-product-3.jpg)
+![best walking pad mat visual 8](/images/articles/best-walking-pad-seniors-safety-features.jpg)

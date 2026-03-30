@@ -316,7 +316,7 @@ If space and budget allow, yes. Walking pad for daily integrated movement (3–5
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide compares walking pads and treadmills for weight loss using MET-based calorie calculations and exercise adherence research.
 
@@ -349,3 +349,15 @@ This guide compares walking pads and treadmills for weight loss using MET-based 
 - [Walking Pad vs Exercise Bike](/walking-pad-vs-exercise-bike)
 - [Best Budget Walking Pads](/best-budget-walking-pads)
 - [Quietest Walking Pads](/quietest-walking-pads)
+
+
+## Visual Guide Gallery
+
+![walking pad vs treadmill weight loss visual 1](/images/articles/walking-pad-vs-treadmill-home-use-apartment.jpg)
+![walking pad vs treadmill weight loss visual 2](/images/articles/walking-pad-vs-treadmill-home-use-cost.jpg)
+![walking pad vs treadmill weight loss visual 3](/images/articles/walking-pad-vs-treadmill-home-use-decision.jpg)
+![walking pad vs treadmill weight loss visual 4](/images/articles/walking-pad-vs-treadmill-home-use-desk-walking.jpg)
+![walking pad vs treadmill weight loss visual 5](/images/articles/walking-pad-vs-treadmill-home-use-hero.jpg)
+![walking pad vs treadmill weight loss visual 6](/images/articles/walking-pad-vs-treadmill-home-use-noise.jpg)
+![walking pad vs treadmill weight loss visual 7](/images/articles/walking-pad-vs-treadmill-home-use-specs.jpg)
+![walking pad vs treadmill weight loss visual 8](/images/articles/walking-pad-vs-treadmill-home-use-treadmill-gym.jpg)

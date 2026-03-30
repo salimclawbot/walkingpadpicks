@@ -294,7 +294,7 @@ Duration. Walking 3 hrs at 1.5 mph burns more than 1 hr at 2.5 mph — and the s
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide calculates walking pad calorie burn using the MET (Metabolic Equivalent of Task) methodology from the Compendium of Physical Activities.
 
@@ -324,3 +324,15 @@ This guide calculates walking pad calorie burn using the MET (Metabolic Equivale
 **Internal links referenced:**
 - [Walking Pad vs Exercise Bike](/walking-pad-vs-exercise-bike)
 - [Walking Pad Desk Setup](/walking-pad-desk-setup)
+
+
+## Visual Guide Gallery
+
+![walking pad calories burned visual 1](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![walking pad calories burned visual 2](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)
+![walking pad calories burned visual 3](/images/articles/best-folding-walking-pad-storage-size-infographic.jpg)
+![walking pad calories burned visual 4](/images/articles/best-folding-walking-pad-storage-tips.jpg)
+![walking pad calories burned visual 5](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![walking pad calories burned visual 6](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![walking pad calories burned visual 7](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![walking pad calories burned visual 8](/images/articles/best-walking-pad-seniors-hero.jpg)

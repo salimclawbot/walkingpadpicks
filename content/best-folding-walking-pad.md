@@ -19,7 +19,6 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 
 **The best folding walking pad in 2026 is the WalkingPad C2 Mini — it folds in half to just 5.5 inches thick, weighs 33 lbs, runs whisper-quiet at desk-walking speeds, and slides under a standard couch or bed. For apartments and small home offices where every square foot matters, no other pad matches its fold-and-store convenience.**
 
-<!-- NANO_BANANA_PROMPT: Hero image showing the WalkingPad C2 Mini folded in half next to a couch, demonstrating how compact it is for storage. Clean apartment setting, natural light, minimal decor. The folded pad should be clearly visible sliding under the couch. -->
 
 <!-- TABLE OF CONTENTS -->
 <nav id="toc" aria-label="Table of Contents">
@@ -33,7 +32,7 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 - [Storage Ideas for Every Living Situation](#storage-ideas-for-every-living-situation)
 - [Maintenance Tips for Folding Walking Pads](#maintenance-tips-for-folding-walking-pads)
 - [FAQ](#frequently-asked-questions)
-- [Sources & Methodology](#sources--methodology)
+- [Sources & Methodology](#sources-and-methodology)
 
 </nav>
 
@@ -83,7 +82,6 @@ For pure storage efficiency, center-fold is the clear winner. That is what all f
 | **Sportstech WalkSlim 630** | 265 lbs | 28" × 23" × 6.2" | 0.5–6.0 mph | ~43 dB | ~$380 | ★★★★ |
 | **UREVO Folding Under Desk** | 240 lbs | 27" × 21" × 5.8" | 0.5–3.5 mph | ~44 dB | ~$200 | ★★★½ |
 
-<!-- NANO_BANANA_PROMPT: Overhead comparison photo showing all 5 folding walking pads in their folded state, arranged side by side on a clean white floor with model names labeled. Clear visual of relative size differences between folded units. -->
 
 ---
 
@@ -116,7 +114,6 @@ The 220 lb weight limit is the main trade-off. If you weigh over 200 lbs, the pa
 - App is functional but not feature-rich
 - 3.7 mph max speed — walking only, no jogging
 
-<!-- NANO_BANANA_PROMPT: Side-by-side photo showing the WalkingPad C2 Mini unfolded and ready for walking on the left, and folded and stored upright in a closet corner on the right. Clean home office setting. Clear view of the hinge mechanism in both states. -->
 
 ---
 
@@ -207,7 +204,6 @@ The main weakness is availability. Sportstech is a German brand with solid EU di
 - Larger folded footprint than WalkingPad models
 - Customer support is EU-based, which can mean slower US response times
 
-<!-- NANO_BANANA_PROMPT: Lifestyle photo of a person folding the Sportstech WalkSlim 630 at the center hinge in a modern apartment living room, mid-fold action shot. The room is well-lit with contemporary furniture. Shows how the folding process works step by step. -->
 
 ---
 
@@ -294,7 +290,6 @@ At desk-walking speeds (1.5–2.5 mph), most quality walking pads produce 38–4
 
 For a deeper breakdown, see our [quietest walking pads guide](quietest-walking-pads).
 
-<!-- NANO_BANANA_PROMPT: Infographic showing the 6 key factors to evaluate when buying a folding walking pad: folded dimensions, hinge quality, pad weight, belt size, weight capacity, and noise level. Clean design with icons for each factor, comparison ranges, and a "what to look for" callout for each. -->
 
 ### 7. Speed Range
 
@@ -349,7 +344,6 @@ The gap between an open door and the wall is usually 4–6 inches deep and 28–
 ### Standing Desk Adjacent
 If your standing desk is in a home office, the pad can fold and lean against the desk leg or the wall behind the desk. When you want to walk, unfold it in front of the desk. When you are done, fold and lean.
 
-<!-- NANO_BANANA_PROMPT: Four-panel image showing different storage locations for a folded walking pad: under a couch, standing upright in a closet, under a bed frame, and leaning against a wall behind a standing desk. Each panel clearly labeled with the storage method. Realistic home environments. -->
 
 ---
 
@@ -402,7 +396,7 @@ Lubricate the walking belt every 3–6 months with 100% silicone lubricant, or w
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide is based on the following research and evaluation criteria:
 
@@ -429,7 +423,6 @@ This article contains Amazon affiliate links. If you purchase through these link
 
 ---
 
-<!-- NANO_BANANA_PROMPT: Clean, professional banner image for the article conclusion showing a neatly folded walking pad stored under a modern couch in a bright, minimalist apartment. Emphasize the space-saving lifestyle benefit. Warm lighting, inviting atmosphere. -->
 
 ## The Bottom Line
 
@@ -538,3 +531,13 @@ Fold it, store it, forget about it until tomorrow.
   }
 }
 ```
+
+
+## Visual Guide Gallery
+
+![best folding walking pad visual 1](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![best folding walking pad visual 2](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)
+![best folding walking pad visual 3](/images/articles/best-folding-walking-pad-storage-size-infographic.jpg)
+![best folding walking pad visual 4](/images/articles/best-folding-walking-pad-storage-tips.jpg)
+![best folding walking pad visual 5](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![best folding walking pad visual 6](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)

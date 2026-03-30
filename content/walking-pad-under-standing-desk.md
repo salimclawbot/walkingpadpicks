@@ -156,7 +156,7 @@ A power cable on the floor near your walking feet is the number one safety risk 
 | Device | Wired Risk | Wireless Solution |
 |--------|-----------|------------------|
 | **Keyboard** | Cable on desk surface; gets tugged during walking | Bluetooth keyboard — zero cables |
-| **Mouse** | Cable drag on desk; catches during arm movement | Bluetooth mouse — zero cables; see our [best vertical mouse for office](/best-vertical-mouse-office) guide |
+| **Mouse** | Cable drag on desk; catches during arm movement | Bluetooth mouse — zero cables; see our best vertical mouse for office guide |
 | **Headset** | Cable from desk to head; tripping if it falls | Bluetooth headset — essential for video calls while walking |
 | **Monitor** | Cable to laptop; must route carefully | Cannot eliminate — route through tray |
 
@@ -336,7 +336,7 @@ Route walking pad power cable along desk leg to wall outlet. Use under-desk cabl
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide covers the practical setup of a walking pad under a standing desk, based on ergonomic principles and common user experience patterns.
 
@@ -363,4 +363,16 @@ This guide covers the practical setup of a walking pad under a standing desk, ba
 - [Best Budget Walking Pads](/best-budget-walking-pads)
 - [Walking Pad Calories Burned](/walking-pad-calories-burned)
 - [Best Walking Pad Mat](/best-walking-pad-mat)
-- [Best Vertical Mouse for Office](/best-vertical-mouse-office)
+- Best Vertical Mouse for Office
+
+
+## Visual Guide Gallery
+
+![walking pad under standing desk visual 1](/images/articles/best-folding-walking-pad-storage-hero.jpg)
+![walking pad under standing desk visual 2](/images/articles/best-folding-walking-pad-storage-mechanisms.jpg)
+![walking pad under standing desk visual 3](/images/articles/best-folding-walking-pad-storage-size-infographic.jpg)
+![walking pad under standing desk visual 4](/images/articles/best-folding-walking-pad-storage-tips.jpg)
+![walking pad under standing desk visual 5](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![walking pad under standing desk visual 6](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![walking pad under standing desk visual 7](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![walking pad under standing desk visual 8](/images/articles/best-walking-pad-seniors-hero.jpg)

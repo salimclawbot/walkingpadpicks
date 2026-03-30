@@ -352,7 +352,7 @@ While in use, a walking pad needs approximately 60 × 30 inches of floor space, 
 
 ---
 
-## Sources & Methodology
+## Sources and Methodology
 
 This guide evaluates walking pads specifically for apartment suitability across four dimensions: storage footprint (folded dimensions and weight), noise level (motor and impact noise at walking speeds), floor safety (damage prevention for rental floors), and lease compliance (common restriction clauses).
 
@@ -378,3 +378,12 @@ This guide evaluates walking pads specifically for apartment suitability across 
 - [Best Walking Pad Under $200](/best-walking-pad-under-200)
 - [Walking Pad While Working](/walking-pad-while-working)
 - [Walking Pad Weight Limit Guide](/walking-pad-weight-limit)
+
+
+## Visual Guide Gallery
+
+![best walking pad small apartments visual 1](/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg)
+![best walking pad small apartments visual 2](/images/articles/best-walking-pad-seniors-comparison-infographic.jpg)
+![best walking pad small apartments visual 3](/images/articles/best-walking-pad-seniors-contextual-1.jpg)
+![best walking pad small apartments visual 4](/images/articles/best-walking-pad-seniors-hero.jpg)
+![best walking pad small apartments visual 5](/images/articles/best-walking-pad-seniors-product-1.jpg)
