@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-calories-burned-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-calories-burned-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Every walking pad buyer wants to know the same thing: how many calories am I actually burning? The answer you get depends on who you ask. Your walking pad's LCD display says 400 calories. Your fitness tracker says 250. That calorie calculator website says 180. Which one is right?

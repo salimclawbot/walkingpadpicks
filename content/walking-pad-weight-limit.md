@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-weight-limit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-weight-limit-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 **By Matt Sullivan** · Last updated March 9, 2026

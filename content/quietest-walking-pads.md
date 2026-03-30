@@ -13,6 +13,10 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 
 # Walking Pad Noise Level Guide: Quietest Models (2026)
 
+<video autoplay muted loop playsinline poster="/images/articles/quietest-walking-pads-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/quietest-walking-pads-demo.mp4" type="video/mp4">
+</video>
+
 **By Dr. Alex Chen** · Last updated March 17, 2026
 
 **The quietest walking pads produce 35–42 dB at desk-walking speeds — softer than a normal conversation. Premium models stay in this range for years; budget pads start quiet but get noticeably louder within 6–18 months as motors wear. A 6–8 mm rubber mat cuts floor-transmitted noise by 30–50%.**

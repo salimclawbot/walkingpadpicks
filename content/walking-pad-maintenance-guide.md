@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-maintenance-guide-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-maintenance-guide-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Walking pads are simple machines — a motor, a belt, a deck, and some electronics. But "simple" does not mean "maintenance-free." The belt slides over the deck thousands of times per session. The motor runs for hours daily. Dust, sweat, and shoe debris accumulate on every surface. Without maintenance, a $250 walking pad lasts 1–2 years. With basic maintenance, the same pad lasts 4–6 years.

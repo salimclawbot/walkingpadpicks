@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-storage-tips-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-storage-tips-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 A walking pad that is hard to get out is a walking pad that does not get used. This is the single most important storage principle: convenience drives usage. Store it where setup takes seconds, not minutes. Every extra step between "I should walk" and actually walking is a reason your brain will choose to sit instead.

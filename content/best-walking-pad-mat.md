@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/best-walking-pad-mat-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/best-walking-pad-mat-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 A walking pad without a mat is a scratch machine. Those four small feet concentrate 50–80 pounds of static weight (the pad plus your body weight transferred through the frame) onto contact points smaller than a quarter. On hardwood, that is a dent. On laminate, that is a compression mark. On tile, the pad slides. And on any floor, the motor vibration transmits straight through to the structure — which your downstairs neighbor hears as a persistent low hum punctuated by rhythmic footstep thuds.

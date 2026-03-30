@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-under-standing-desk-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-under-standing-desk-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Standing desks solved the sitting problem. But standing in one spot for hours creates its own issues — lower back fatigue, leg stiffness, sore feet. The natural evolution is adding movement: a walking pad under the standing desk that lets you walk at 1.0–2.0 mph while you work.

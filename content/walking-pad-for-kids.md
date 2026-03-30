@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-for-kids-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-for-kids-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Parents find this article for one of two reasons: either a child wants to use the parent's walking pad, or a parent is considering buying one for a child's fitness. Both questions deserve a direct answer before we get into details.

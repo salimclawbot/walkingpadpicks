@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/best-walking-pad-small-apartments-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/best-walking-pad-small-apartments-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Living in a small apartment does not mean giving up daily walking. Walking pads — compact, foldable under-desk treadmills — were essentially designed for exactly this scenario. But not every walking pad is apartment-friendly. Some are too loud for shared walls. Some are too heavy to move in and out of storage daily. And some fold to dimensions that technically "fit" under a bed but require a wrestling match to get there.

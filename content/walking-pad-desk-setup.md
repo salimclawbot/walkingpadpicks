@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-desk-setup-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-desk-setup-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 The walking pad is the easy purchase. The desk setup around it is where most people fail.

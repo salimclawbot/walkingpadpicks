@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/reduce-walking-pad-noise-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/reduce-walking-pad-noise-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Walking pads are marketed as quiet. And compared to a full-size treadmill running at 8 mph, they are. But "quieter than a treadmill" does not mean "silent." At 2 mph on a hard floor without a mat, a walking pad produces 48–55 dB — comparable to a running dishwasher. In a quiet apartment, that is enough to draw a complaint from the unit below.
@@ -8,6 +12,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 ---
 
 ## Walking Pad Noise Sources (What Makes the Sound)
+![Reduce Walking Pad Noise: hero image for Walking Pad Noise Sources (What Makes the Sound)](/images/articles/reduce-walking-pad-noise-hero.jpg)
+*Hero visual for Walking Pad Noise Sources (What Makes the Sound)*
+
 
 ### The Four Noise Sources
 
@@ -31,6 +38,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 ---
 
 ## Noise Levels by Speed
+![Reduce Walking Pad Noise: comparison image for Noise Levels by Speed](/images/articles/reduce-walking-pad-noise-comparison.jpg)
+*Comparison visual for Noise Levels by Speed*
+
 
 ### Approximate Decibel Levels (Well-Maintained Pad on Mat)
 
@@ -58,6 +68,9 @@ A 6 dB increase represents approximately a doubling of perceived loudness. The m
 ---
 
 ## The Anti-Vibration Mat (Most Effective Fix)
+![Reduce Walking Pad Noise: infographic image for The Anti-Vibration Mat (Most Effective Fix)](/images/articles/reduce-walking-pad-noise-infographic.jpg)
+*Infographic visual for The Anti-Vibration Mat (Most Effective Fix)*
+
 
 ### Why a Mat Works
 
@@ -89,6 +102,9 @@ For mat recommendations, see our [best walking pad mat](/best-walking-pad-mat) g
 ---
 
 ## Belt Lubrication for Noise Reduction
+![Reduce Walking Pad Noise: setup image for Belt Lubrication for Noise Reduction](/images/articles/reduce-walking-pad-noise-setup.jpg)
+*Setup visual for Belt Lubrication for Noise Reduction*
+
 
 ### How Lubrication Reduces Noise
 
@@ -126,6 +142,9 @@ If your walking pad has become louder and you suspect lubrication is the cause:
 ---
 
 ## Belt Tension and Alignment Fixes
+![Reduce Walking Pad Noise: detail image for Belt Tension and Alignment Fixes](/images/articles/reduce-walking-pad-noise-detail.jpg)
+*Detail visual for Belt Tension and Alignment Fixes*
+
 
 ### Tension-Related Noise
 
@@ -157,6 +176,9 @@ If your walking pad has become louder and you suspect lubrication is the cause:
 ---
 
 ## Floor Surface and Placement
+![Reduce Walking Pad Noise: lifestyle image for Floor Surface and Placement](/images/articles/reduce-walking-pad-noise-lifestyle.jpg)
+*Lifestyle visual for Floor Surface and Placement*
+
 
 ### Floor Type and Noise Transmission
 
@@ -181,6 +203,9 @@ If your walking pad has become louder and you suspect lubrication is the cause:
 ---
 
 ## Footwear for Quieter Walking
+![Reduce Walking Pad Noise: product lineup image for Footwear for Quieter Walking](/images/articles/reduce-walking-pad-noise-product-lineup.jpg)
+*Product Lineup visual for Footwear for Quieter Walking*
+
 
 ### Shoe Type and Noise Impact
 
@@ -332,4 +357,7 @@ This guide covers walking pad noise reduction based on acoustic principles, vibr
 
 
 ## Visual Guide Gallery
+
+![Reduce Walking Pad Noise: tips image for Visual Guide Gallery](/images/articles/reduce-walking-pad-noise-tips.jpg)
+*Tips visual for Visual Guide Gallery*
 

@@ -33,7 +33,13 @@ article_schema: "{\"@context\":\"https://schema.org\",\"@type\":\"Article\",\"he
 <!-- TABLE OF CONTENTS -->
 <nav id="toc" aria-label="Table of Contents">
 
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: hero image for this section](/images/articles/cheap-walking-pads-worth-it-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: comparison image for Table of Contents](/images/articles/cheap-walking-pads-worth-it-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;margin:2rem 0;">
   <iframe src="https://www.youtube.com/embed/5xHQY6zhwKI" 
@@ -66,6 +72,9 @@ The honest answer: for most people, a cheap walking pad is not just worth it —
 ---
 
 ## The Short Answer
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: infographic image for The Short Answer](/images/articles/cheap-walking-pads-worth-it-infographic.jpg)
+*Infographic visual for The Short Answer*
+
 
 | If You Are... | Budget Pad Worth It? | Why |
 |--------------|:-------------------:|-----|
@@ -80,6 +89,9 @@ The honest answer: for most people, a cheap walking pad is not just worth it —
 ---
 
 ## What You Actually Sacrifice at Low Price Points
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: setup image for What You Actually Sacrifice at Low Price Points](/images/articles/cheap-walking-pads-worth-it-setup.jpg)
+*Setup visual for What You Actually Sacrifice at Low Price Points*
+
 
 This is the section most reviews skip. They list specs. Here is what those specs mean in daily use.
 
@@ -154,6 +166,9 @@ None of these are deal-breakers individually. Together, they make the pad feel "
 ---
 
 ## The Hidden Costs Nobody Mentions
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: detail image for The Hidden Costs Nobody Mentions](/images/articles/cheap-walking-pads-worth-it-detail.jpg)
+*Detail visual for The Hidden Costs Nobody Mentions*
+
 
 ### Replacement Belts: $30–60
 
@@ -185,6 +200,9 @@ Compare this to a premium pad at $500–600 that includes a longer-lasting belt,
 ---
 
 ## Total Cost of Ownership: Budget vs Premium
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: lifestyle image for Total Cost of Ownership: Budget vs Premium](/images/articles/cheap-walking-pads-worth-it-lifestyle.jpg)
+*Lifestyle visual for Total Cost of Ownership: Budget vs Premium*
+
 
 <figure>
   <img src="/images/wp/cheap-walking-pads/total-cost-ownership-budget-vs-premium-infographic.png" alt="Infographic comparing total cost of ownership between budget walking pad ($490 over 5 years) vs premium walking pad ($645 over 5 years)" width="1024" height="1024" loading="lazy" />
@@ -220,6 +238,9 @@ Over 5 years, budget costs 76% of premium. Over 3 years, budget costs 49–82% o
 ---
 
 ## Three Brands That Punch Above Their Weight
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: product lineup image for Three Brands That Punch Above Their Weight](/images/articles/cheap-walking-pads-worth-it-product-lineup.jpg)
+*Product Lineup visual for Three Brands That Punch Above Their Weight*
+
 
 <figure>
   <img src="/images/wp/cheap-walking-pads/budget-walking-pad-brands-comparison.png" alt="Three top budget walking pad brands side by side: WalkingPad C2, UREVO 2T, and Sperax, all under $300" width="1024" height="1024" loading="lazy" />
@@ -253,6 +274,9 @@ Over 5 years, budget costs 76% of premium. Over 3 years, budget costs 49–82% o
 ---
 
 ## The Price Floor: Where Cheap Becomes Too Cheap
+![Are Cheap Walking Pads Worth It? Budget Picks Tested: tips image for The Price Floor: Where Cheap Becomes Too Cheap](/images/articles/cheap-walking-pads-worth-it-tips.jpg)
+*Tips visual for The Price Floor: Where Cheap Becomes Too Cheap*
+
 
 Below $150, walking pads transition from "budget" to "risky." Here is what happens at each price tier:
 

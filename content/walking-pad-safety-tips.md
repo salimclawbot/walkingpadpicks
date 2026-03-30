@@ -1,3 +1,7 @@
+<video autoplay muted loop playsinline poster="/images/articles/walking-pad-safety-tips-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+  <source src="/videos/walking-pad-safety-tips-demo.mp4" type="video/mp4">
+</video>
+
 ---
 
 Walking pads are one of the safest pieces of fitness equipment you can own. The speeds are low. The surface is flat. There is no heavy weight to drop, no resistance band to snap, no barbell to fail under. The most dangerous thing about a walking pad is forgetting that the floor is moving under your feet while you are focused on your screen.
