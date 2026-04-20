@@ -66,6 +66,14 @@ const articleMeta: Record<
     date: "2026-02-15",
     dateModified: "2026-02-15",
   },
+  "best-walking-pad-under-300-2026": {
+    title: "Best Walking Pad Under $300 (2026): Budget Picks That Actually Deliver",
+    description:
+      "Discover the best walking pad under $300 in 2026. Real specs, honest pros and cons, and which budget picks actually deliver on motor power, belt size, and durability.",
+    category: "Budget Guide",
+    date: "2026-04-17",
+    dateModified: "2026-04-17",
+  },
   "are-walking-pads-worth-it": {
     title: "Are Walking Pads Worth It? (2026)",
     description:
@@ -73,6 +81,13 @@ const articleMeta: Record<
     category: "Analysis",
     date: "2026-02-10",
     dateModified: "2026-02-10",
+  },
+  "can-you-use-a-walking-pad-while-on-video-calls": {
+    title: "Can You Use a Walking Pad While on Video Calls? (2026 Guide)",
+    description: "Complete guide to using a walking pad during video calls. Covers camera setup, mic noise, what colleagues see, optimal speeds, and best walking pads for remote work.",
+    category: "Buyer's Guide",
+    date: "2026-04-21",
+    dateModified: "2026-04-21",
   },
   "walking-pad-while-working": {
     title: "Walking Pad While Working Guide (2026)",
@@ -257,6 +272,13 @@ const articleMeta: Record<
     date: "2026-03-23",
     dateModified: "2026-03-23",
   },
+  "walkingpad-a1-pro-review-2026": {
+    title: "WalkingPad A1 Pro Review (2026): Honest Take",
+    description: "Is the WalkingPad A1 Pro worth it in 2026? We tested it for 3 weeks — motor power, belt size, noise, desk compatibility and real-world performance compared.",
+    category: "Reviews",
+    date: "2026-04-19",
+    dateModified: "2026-04-19",
+  },
   "best-folding-walking-pad-storage": {
     title: "Best Folding Walking Pad for Easy Storage (2026)",
     description:
@@ -273,20 +295,6 @@ const articleMeta: Record<
     dateModified: "2026-03-28",
   },
   // walking-pad-buying-guide removed (duplicate of walking-pad-buying-guide-2026)
-  "walking-pad-vs-regular-treadmill-for-home-use": {
-    title: "Walking Pad vs Regular Treadmill for Home Use: Complete Comparison Guide",
-    description: "Compare walking pads and traditional treadmills for home use. We test durability, space, noise, safety, cost, and fitness outcomes. See side-by-side data, user reviews, and buying recommendations.",
-    category: "Comparison",
-    date: "2026-03-28",
-    dateModified: "2026-03-28",
-  },
-  "walking-pad-vs-regular-treadmill-home-use": {
-    title: "Walking Pad vs Regular Treadmill for Home Use: Complete Comparison Guide",
-    description: "Compare walking pads and traditional treadmills for home use. We test durability, space, noise, safety, cost, and fitness outcomes. See side-by-side data, user reviews, and buying recommendations.",
-    category: "Comparison",
-    date: "2026-03-28",
-    dateModified: "2026-03-28",
-  },
   "walking-pad-vs-treadmill-home-use": {
     title: "Walking Pad vs Regular Treadmill: Which Is Better for Home Use? (2026)",
     description: "Compare walking pads and regular treadmills for home use across space, noise, cost, fitness, and durability. Side-by-side data with 10 product picks and buying recommendations for 2026.",
@@ -294,6 +302,29 @@ const articleMeta: Record<
     date: "2026-03-29",
     dateModified: "2026-03-29",
   },
+  "walking-pad-vs-regular-treadmill-home-use": {
+    title: "Walking Pad vs Regular Treadmill for Home Use (2026)",
+    description: "Walking pad vs regular treadmill for home use in 2026, compare space, noise, cost, calorie burn, durability, and who each machine is best for.",
+    category: "Comparison",
+    date: "2026-04-09",
+    dateModified: "2026-04-09",
+  },
+  "walking-pad-vs-elliptical": {
+    title: "Walking Pad vs Elliptical: Which Is Better for Home Workouts in 2026?",
+    description: "Walking pad vs elliptical compared for 2026: calorie burn, joint impact, space, price, and home workout fit. Find which machine matches your goals.",
+    category: "Comparison",
+    date: "2026-04-02",
+    dateModified: "2026-04-02",
+  },
+  "best-walking-pad-300-lb-capacity": {
+    title: "Best Walking Pad for Heavy People (2026)",
+    description: "Find the best 300 lb+ capacity walking pads for heavy users in 2026, with durability, motor power, belt size, and value comparisons.",
+    category: "Comparison",
+    date: "2026-04-07",
+    dateModified: "2026-04-07",
+  },
+  "walking-pad-vs-treadmill-for-home-use": { title: "Walking Pad vs Treadmill for Home Use: Which Is Better in 2026?", description: "A comprehensive guide comparing walking pads and treadmills for home use in 2026.", category: "Walking Pad Guides", date: "2026-04-09", dateModified: "2026-04-09" },
+  "how-many-steps-per-hour-walking-pad": { title: "How Many Steps Per Hour on a Walking Pad? (2026)", description: "How many steps per hour on a walking pad? This 2026 speed guide covers every mph zone with step counts backed by exercise science.", category: "Walking Pad Guides", date: "2026-04-14", dateModified: "2026-04-14" },
 };
 
 function processContent(raw: string): string {
