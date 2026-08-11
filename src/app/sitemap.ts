@@ -3,7 +3,8 @@ import { getAllSlugs, getArticle } from "@/lib/articles";
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const baseUrl = "https://www.walkingpadpicks.com";
-  const articleSlugs = getAllSlugs();
+  const redirectingSlugs = new Set(["walking-pad-vs-elliptical", "best-walking-pad-300-lb-capacity"]);
+  const articleSlugs = getAllSlugs().filter((slug) => !redirectingSlugs.has(slug));
   const articleEntries = await Promise.all(
     articleSlugs.map(async (slug) => {
       const article = await getArticle(slug);
