@@ -115,7 +115,7 @@ Traditional treadmills, even folding models, demand a minimum footprint of 3 by 
 
 Consider your actual living situation honestly. A treadmill requires a room — or at least a corner — where it will live permanently. Every day you need to unfold, set up, or navigate around a large machine is a day you're slightly less likely to use it. Walking pads sidestep this friction entirely.
 
-If you're unsure whether your space can accommodate a treadmill, measure carefully before buying. And if it can't, browse our [walking pad buying guide](/best-walking-pad-buying-guide) for options that work in tighter spaces.
+If you're unsure whether your space can accommodate a treadmill, measure carefully before buying. And if it can't, browse our [walking pad buying guide](/walking-pad-buying-guide-2026) for options that work in tighter spaces.
 
 ---
 
@@ -364,7 +364,7 @@ The treadmill's domain is dedicated fitness training: running, HIIT, incline wor
 
 Still unsure? Take our quiz: **Are you a walker or a runner?** If your answer is "walker" (or "I'd like to be more active but I hate scheduled workouts"), start with a walking pad. Browse our [best walking pads of 2026](/best-walking-pads-2026) for top-rated options across every budget.
 
-If you're committed to running or HIIT training and have the space for a permanent machine, explore our [walking pad buying guide](/best-walking-pad-buying-guide) for a broader picture of the cardio equipment landscape.
+If you're committed to running or HIIT training and have the space for a permanent machine, explore our [walking pad buying guide](/walking-pad-buying-guide-2026) for a broader picture of the cardio equipment landscape.
 
 ---
 

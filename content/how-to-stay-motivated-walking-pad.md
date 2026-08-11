@@ -137,7 +137,7 @@ Instead, use progressive targets:
 
 The principle: never increase your target by more than 25 percent per week. This mirrors the progressive overload principle used in strength training — small, consistent increases that the body and mind can absorb without triggering the quit response.
 
-If you are looking for a walking pad that fits your living situation, our guide to [the best walking pad for apartments](/guides/best-walking-pad-for-apartments) covers noise levels, dimensions, and storage options that reduce friction for daily use.
+If you are looking for a walking pad that fits your living situation, our guide to [the best walking pad for apartments](/best-walking-pad-for-apartments) covers noise levels, dimensions, and storage options that reduce friction for daily use.
 
 ### 2. Walking Meetings (Remote Work, Phone Calls)
 
@@ -251,7 +251,7 @@ This is the highest-leverage strategy on this list because it works passively. E
 
 - Keep the walking pad unfolded and in position at all times. If you fold it and store it, you have added a multi-step setup process that will kill motivation on low-energy days.
 - Keep your shoes next to the pad (or walk in socks if your pad's surface allows it).
-- If you use a [standing desk with your walking pad](/guides/walking-pad-vs-standing-desk), leave the desk at standing height overnight so it is ready when you wake up.
+- If you use a [standing desk with your walking pad](/walking-pad-vs-standing-desk), leave the desk at standing height overnight so it is ready when you wake up.
 - Keep the remote control on the desk surface, not in a drawer.
 - Place the walking pad in a high-traffic area of your home, not a spare bedroom you rarely enter. Visibility serves as a passive cue.
 
@@ -508,4 +508,4 @@ A 160-pound person walking at 2.5 mph for 30 minutes burns approximately 120 cal
 
 ---
 
-*This article is part of our walking pad motivation series. For related guides, see [Best Walking Pad for Apartments](/guides/best-walking-pad-for-apartments), [Best Walking Pad for Heavy Users](/best-walking-pad-seniors), and [Walking Pad vs Standing Desk](/guides/walking-pad-vs-standing-desk).*
+*This article is part of our walking pad motivation series. For related guides, see [Best Walking Pad for Apartments](/best-walking-pad-for-apartments), [Best Walking Pad for Heavy Users](/best-walking-pad-seniors), and [Walking Pad vs Standing Desk](/walking-pad-vs-standing-desk).*

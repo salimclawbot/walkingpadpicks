@@ -230,7 +230,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Overall Walking Pad</strong></p>
 <p>Speed: 0.5–3.7 mph · Weight: 33 lbs · Belt: 16.5" × 41"</p>
 <p>Ultra-slim foldable design at just 5.3" tall. Quiet motor under 45 dB. 220 lb capacity. Perfect for small apartments and under-desk use.</p>
-<a href="https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -240,7 +240,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Budget Pick</strong></p>
 <p>Speed: 0.5–4 mph · Weight: 38 lbs · Belt: 16" × 42"</p>
 <p>Excellent value under $200. LED display, remote control, and a surprisingly smooth belt for the price. 265 lb weight capacity.</p>
-<a href="https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -250,7 +250,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Hybrid Walking Pad</strong></p>
 <p>Speed: 0.6–7.6 mph · Weight: 57 lbs · Belt: 17" × 43"</p>
 <p>Foldable handlebar converts from desk walker to jogging treadmill. 265 lb capacity. App connectivity via Bluetooth. Great versatility.</p>
-<a href="https://www.amazon.com/s?k=UREVO+2+in+1+Under+Desk+Treadmill&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=UREVO+2+in+1+Under+Desk+Treadmill&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -271,7 +271,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Mid-Range Home Treadmill</strong></p>
 <p>Speed: 0.5–12 mph · Motor: 3.0 HP · Belt: 20" × 60" · Incline: 0–15%</p>
 <p>325 lb weight capacity. Bluetooth speakers, USB charging, 6 preset programs. Folds upright with hydraulic assist. Excellent cushioning system.</p>
-<a href="https://www.amazon.com/s?k=Sole+F63+Treadmill&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=Sole+F63+Treadmill&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -281,7 +281,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Budget Home Treadmill</strong></p>
 <p>Speed: 0.5–10 mph · Motor: 2.5 HP · Belt: 20" × 55" · Incline: 0–10%</p>
 <p>300 lb capacity. Compact fold with hydraulic drop. Bluetooth speakers. Simple, reliable construction at a competitive price point under $700.</p>
-<a href="https://www.amazon.com/s?k=Horizon+T101+Treadmill&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=Horizon+T101+Treadmill&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -291,7 +291,7 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p><strong>Best Premium Home Treadmill</strong></p>
 <p>Speed: 0–12 mph · Motor: 3.5 HP · Belt: 22" × 60" · Incline: -3% to 15%</p>
 <p>300 lb capacity. 14" HD touchscreen with iFIT. Decline and incline training. Auto-adjust speed and incline during guided workouts. Premium cushioning.</p>
-<a href="https://www.amazon.com/s?k=NordicTrack+Commercial+1750&tag=walkingpadpicks-20" class="amazon-btn">Check Price on Amazon →</a>
+<a href="https://www.amazon.com/s?k=NordicTrack+Commercial+1750&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 
@@ -309,7 +309,7 @@ The quiet motor and slim profile make walking pads the least disruptive way to m
 
 ### You Live in a Small Space
 
-Foldable walking pads store under beds, behind doors, or in closets. A 33 lb walking pad takes up less storage space than a yoga mat when folded. For apartment-specific recommendations, check our [best walking pad for seniors with balance issues](/best-walking-pad-seniors-balance) guide — many of the same compact models work well for tight spaces.
+Foldable walking pads store under beds, behind doors, or in closets. A 33 lb walking pad takes up less storage space than a yoga mat when folded. For apartment-specific recommendations, check our [best walking pad for seniors with balance issues](/best-walking-pad-seniors) guide — many of the same compact models work well for tight spaces.
 
 ### You're on a Budget
 

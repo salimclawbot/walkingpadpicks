@@ -276,7 +276,7 @@ If you want to track your steps accurately on a walking pad, these models have b
 
 The WalkingPad C2 Mini is a strong choice because its built-in step counter eliminates the need for a wrist pedometer, which tends to undercount steps on a walking pad due to the minimal arm movement. For app-based tracking, the FORNO G660 offers the most comprehensive data including steps, distance, calories, and walking time.
 
-For step tracking accuracy tips, see our [how to track steps on a walking pad](/track-steps-walking-pad) guide.
+For step tracking accuracy tips, see our [how to track steps on a walking pad](/how-many-steps-per-hour-walking-pad) guide.
 
 ---
 

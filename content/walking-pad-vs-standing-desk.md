@@ -339,17 +339,17 @@ If you're also spending hours at a computer, consider pairing your desk setup wi
 <div class="product-card">
 <h3>WalkingPad A1 Pro</h3>
 <p>The WalkingPad A1 Pro is the gold standard for under-desk walking pads. It folds in half for easy storage, operates whisper-quiet at under 50 dB, and its slim 5-inch profile fits under virtually any standing desk. The speed range of 0.5–4 mph covers everything from a gentle stroll to a brisk walk.</p>
-<p><a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro+Treadmill&tag=walkingpadpicks-20">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro+Treadmill&tag=walkingpadpicks-20">View on Amazon (AU)</a></p>
+<p><a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro+Treadmill&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro+Treadmill&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (AU)</a></p>
 </div>
 <div class="product-card">
 <h3>Flexispot Standing Desk</h3>
 <p>Flexispot consistently delivers the best value in height-adjustable standing desks. The dual-motor system is stable and quiet, memory presets let you switch between sitting and standing heights instantly, and the build quality rivals desks at twice the price. A reliable foundation for any ergonomic setup.</p>
-<p><a href="https://www.amazon.com/s?k=Flexispot+Height+Adjustable+Standing+Desk&tag=walkingpadpicks-20">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=Flexispot+Height+Adjustable+Standing+Desk&tag=walkingpadpicks-20">View on Amazon (AU)</a></p>
+<p><a href="https://www.amazon.com/s?k=Flexispot+Height+Adjustable+Standing+Desk&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=Flexispot+Height+Adjustable+Standing+Desk&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (AU)</a></p>
 </div>
 <div class="product-card">
 <h3>Treadly 2 Walking Treadmill</h3>
 <p>The Treadly 2 is the thinnest walking treadmill on the market, making it ideal for tight spaces. Its minimalist design and near-silent operation make it a favourite for home offices and shared workspaces. If portability and aesthetics matter as much as function, this is your pick.</p>
-<p><a href="https://www.amazon.com/s?k=Treadly+2+Walking+Treadmill&tag=walkingpadpicks-20">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=Treadly+2+Walking+Treadmill&tag=walkingpadpicks-20">View on Amazon (AU)</a></p>
+<p><a href="https://www.amazon.com/s?k=Treadly+2+Walking+Treadmill&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (US)</a> | <a href="https://www.amazon.com/s?k=Treadly+2+Walking+Treadmill&tag=walkingpadpicks-20" rel="nofollow sponsored noopener">View on Amazon (AU)</a></p>
 </div>
 </div>
 

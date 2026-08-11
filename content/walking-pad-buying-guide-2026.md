@@ -347,7 +347,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>App + remote control</li>
       <li>Folds flat for storage</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -362,7 +362,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>Bluetooth data tracking</li>
       <li>Continuous duty rated</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=LifeSpan+TR1200-DT3+treadmill+desk&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=LifeSpan+TR1200-DT3+treadmill+desk&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -377,7 +377,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>App + remote control</li>
       <li>Thinnest folded profile</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=WalkingPad+C2+treadmill&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=WalkingPad+C2+treadmill&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -392,7 +392,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>Remote control included</li>
       <li>Built-in transport wheels</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -407,7 +407,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>LED display + remote</li>
       <li>Wide belt for comfortable stride</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=Sperax+Walking+Pad+320+lb&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=Sperax+Walking+Pad+320+lb&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
@@ -422,7 +422,7 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
       <li>App + NFC-enabled remote</li>
       <li>Multi-layer composite belt</li>
     </ul>
-    <a href="https://www.amazon.com/s?k=WalkingPad+R2+Pro&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;">View on Amazon</a>
+    <a href="https://www.amazon.com/s?k=WalkingPad+R2+Pro&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
   </div>
 
 </div>
