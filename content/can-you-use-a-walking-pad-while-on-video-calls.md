@@ -15,7 +15,6 @@ og_description: "Complete guide to using a walking pad during video calls in 202
 og_image: "/images/articles/can-you-use-a-walking-pad-video-calls-og.jpg"
 og_site_name: "WalkingPadPicks.com"
 twitter_card: "summary_large_image"
-faq_schema: '[
   {"@type":"Question","name":"Can you use a walking pad while on video calls?","acceptedAnswer":{"@type":"Answer","text":"Yes, you can use a walking pad during video calls — but it depends on your camera setup, walking pad noise level, and the type of call. With the right equipment and speed choices, walking during calls is entirely feasible for most remote workers."}},
   {"@type":"Question","name":"Will my colleagues see me walking on video calls?","acceptedAnswer":{"@type":"Answer","text":"Yes — but how much they notice depends on your camera angle, framing, and speed. A chest-up or desk-level camera with you standing hides the walking motion almost completely. A wider angle or lower camera position makes it obvious."}},
   {"@type":"Question","name":"Is the noise from a walking pad picked up by my mic during video calls?","acceptedAnswer":{"@type":"Answer","text":"Some noise is picked up, but it varies significantly by model. Near-silent models like the WalkingPad A1 Pro (40-45 dB at walking speed) produce less noise than a quiet conversation. Cheaper walking pads (55-65 dB) will be noticeable. A directional microphone or headset eliminates the issue."}},
@@ -24,7 +23,6 @@ faq_schema: '[
   {"@type":"Question","name":"Which walking pad is best for video calls?","acceptedAnswer":{"@type":"Answer","text":"The WalkingPad A1 Pro is the best choice for video calls due to its 40-45 dB operating noise at walking speed — near-silent during calls. Other strong options include the WalkingPad X21 (quieter than average) and Sperax Walking Pad (good balance of noise and price)."}},
   {"@type":"Question","name":"Does walking during video calls affect your professionalism?","acceptedAnswer":{"@type":"Answer","text":"Not if done thoughtfully. Most colleagues appreciate seeing someone move during calls, and research shows walking meetings boost creativity by 60%. The key is maintaining eye contact, speaking clearly, and keeping movements smooth and minimal rather than erratic."}}
 ]'
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Can You Use a Walking Pad While on Video Calls? (2026 Guide)","description":"Complete guide to using a walking pad during video calls. Covers camera setup, mic noise, what colleagues see, optimal speeds, and best walking pads for remote work.","author":{"@type":"Person","name":"Sarah Mercer"},"publisher":{"@type":"Organization","name":"WalkingPadPicks.com","url":"https://walkingpadpicks.com"},"datePublished":"2026-04-21","dateModified":"2026-04-21","mainEntityOfPage":{"@type":"WebPage","@id":"/can-you-use-a-walking-pad-while-on-video-calls"},"image":"/images/articles/can-you-use-a-walking-pad-video-calls-hero.jpg"}'
 ---
 
 # Can You Use a Walking Pad While on Video Calls? (2026 Guide)
@@ -56,7 +54,7 @@ article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"
 - [Comparison: Walking Pad Features for Video Call Use](#comparison-table)
 - [FAQ](#faq)
 - [Sources and Methodology](#sources)
-- [Author Bio](#author-bio)
+
 
 ---
 
@@ -372,7 +370,7 @@ The Goplus includes fold-down handlebars, which some users prefer for extra stab
 | **Bluetooth app** | Yes | Yes | No | No |
 | **Call noise rating** | Excellent | Good | Acceptable | Acceptable |
 | **Price range** | $349-399 | $399-449 | $299-349 | $249-299 |
-| **Amazon link** | [Check price](https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=theforge05-20) | [Check price](https://www.amazon.com/s?k=WalkingPad+X21&tag=theforge05-20) | [Check price](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=theforge05-20) | [Check price](https://www.amazon.com/s?k=Goplus+2-in-1+Treadmill&tag=theforge05-20) |
+| **Amazon link** | [Check price](https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=WalkingPad+X21&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=Goplus+2-in-1+Treadmill&tag=walkingpadpicks-20) |
 
 ---
 
@@ -427,15 +425,3 @@ Not if done thoughtfully. Most colleagues appreciate seeing someone move during 
 8. **WalkingPadPicks.com real-world testing** — Author tested multiple walking pad models during actual work calls over a 12-week period, assessing noise audibility, camera stability, typing accuracy, and colleague feedback.
 
 ---
-
-## Author Bio {#author-bio}
-
-**Sarah Mercer** is a Remote Work Productivity Specialist at WalkingPadPicks.com, where she focuses on the intersection of home office setup, movement science, and sustainable remote work habits. Sarah spent four years managing distributed teams across three time zones and has personally conducted over 2,000 video calls — many of them while using a walking pad. She writes about practical ways remote workers can build movement into their workday without sacrificing professional presence or meeting effectiveness. When she's not walking through calls, she's testing the next generation of desk fitness equipment from her home office in Melbourne.
-
----
-
-*This article contains affiliate links. We may earn a commission at no additional cost to you if you purchase through these links. All recommendations are based on independent evaluation. See our [affiliate disclosure](/affiliate-disclosure) for details.*
-
-*Editor's note: For more on walking pad noise levels and how to choose a quiet machine for calls, see our [WalkingPad A1 Pro review](/walkingpad-a1-pro-review-2026) and our [best walking pads for home offices guide](/best-walking-pads-2026). If sciatica or lower back discomfort is a concern with prolonged standing or walking, see our guide to [sciatica causes and stretches](https://sciaticaspot.com/sciatica-exercises) on SciaticaSpot.com for context on movement and nerve health.*
-
-*Featured image: Remote workers engaged in video calls with walking pad setups. [Image source: Unsplash — verified 2026-04-21]*

@@ -4,11 +4,32 @@ import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 export const metadata: Metadata = {
   title: "Privacy Policy",
   description:
-    "WalkingPadPicks privacy policy. Learn how we collect, use, and protect your information.",
+    "Read the WalkingPadPicks privacy policy for data handling, analytics, affiliate-cookie use, and practical protections for browsing security.",
   alternates: {
     canonical: "https://www.walkingpadpicks.com/privacy",
   },
-};
+
+  openGraph: {
+    title: "Privacy Policy",
+    description: "Read the WalkingPadPicks privacy policy for data handling, analytics, affiliate-cookie use, and practical protections for browsing security.",
+    url: "https://www.walkingpadpicks.com/privacy",
+    siteName: "Walking Pad Picks",
+    type: "website",
+    images: [
+      {
+        url: "https://walkingpadpicks.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Privacy Policy",
+    description: "Read the WalkingPadPicks privacy policy for data handling, analytics, affiliate-cookie use, and practical protections for browsing security.",
+    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+  }};
 
 export default function PrivacyPolicyPage() {
   const schema = breadcrumbSchema([

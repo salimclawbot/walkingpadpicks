@@ -1,4 +1,4 @@
-<video autoplay muted loop playsinline poster="/images/articles/walking-pad-for-kids-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-for-kids-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-for-kids-demo.mp4" type="video/mp4">
 </video>
 
@@ -11,8 +11,6 @@ Parents find this article for one of two reasons: either a child wants to use th
 **If you are thinking of buying a walking pad for a child:** Probably not the right solution. Children should be active through play, sports, and outdoor activity — not exercise machines designed for sedentary adults. Walking pads solve an adult problem (not enough movement during desk work). Children do not have this problem.
 
 That said, some situations make walking pad use reasonable for older children — rainy seasons, injury rehabilitation, limited outdoor access. This guide covers those situations too, with safety as the non-negotiable priority.
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad For Kids","description":"Guide about Walking Pad For Kids","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-for-kids"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"The Honest Answer: Do Kids Need a Walking Pad?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about the honest answer: do kids need a walking pad?."}},{"@type":"Question","name":"Age Guidelines: When Is It Safe?","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about age guidelines: when is it safe?."}},{"@type":"Question","name":"Speed Limits by Age","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about speed limits by age."}},{"@type":"Question","name":"Supervision Requirements","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about supervision requirements."}},{"@type":"Question","name":"Injury Risks: What Can Go Wrong","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about injury risks: what can go wrong."}},{"@type":"Question","name":"Essential Safety Features for Child Use","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-for-kids for comprehensive information about essential safety features for child use."}}]}'
 ---
 
 ## The Honest Answer: Do Kids Need a Walking Pad?
@@ -49,14 +47,7 @@ The American Academy of Pediatrics (AAP) recommends 60 minutes of moderate-to-vi
 
 ### Age-Based Safety Tiers
 
-| Age Group | Guideline | Supervision Level | Speed Limit |
-|:---------:|-----------|:-----------------:|:----------:|
-| **Under 6** | Never — under any circumstances | N/A | N/A |
-| **6–8** | Only with direct hands-on supervision | Adult within arm's reach | 0.5–1.0 mph |
-| **9–11** | Only with direct supervision | Adult within arm's reach | 0.5–1.5 mph |
-| **12–13** | With adult in the room | Adult in same room, attentive | 1.0–2.0 mph |
-| **14–15** | With adult in the room | Adult in same room | 1.0–2.0 mph |
-| **16–17** | After demonstrating safe use | Initial supervision; then independent | 1.0–2.5 mph |
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Why Under 6 Is an Absolute No
 
@@ -71,7 +62,7 @@ The American Academy of Pediatrics (AAP) recommends 60 minutes of moderate-to-vi
 
 The CPSC reports that exercise equipment with moving parts is a leading cause of finger amputation and friction burns in children under 5. Walking pads should be treated the same as treadmills in this regard — powered moving belts are dangerous to young children.
 
-### Why 6–11 Requires Hands-On Supervision
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 Children ages 6–11 have sufficient coordination to walk on a flat, slow-moving surface — but they lack the judgment to use the equipment safely without direct adult intervention. They may:
 - Increase speed beyond their ability
@@ -224,11 +215,11 @@ Print these and tape them to the wall next to the walking pad:
 
 | Model | Safety Key | Auto-Stop | Min Speed | Belt Width | Price | Notes |
 |-------|:---------:|:---------:|:---------:|:----------:|:-----:|-------|
-| **[Goplus 2-in-1](https://www.amazon.com/s?k=Goplus+2+in+1+Walking+Pad&tag=theforge05-20)** | ✅ | ✅ | 0.5 mph | 16" | ~$210 | Handrail for balance support; best safety feature set |
-| **[REDLIRO Folding](https://www.amazon.com/s?k=REDLIRO+Folding+Treadmill&tag=theforge05-20)** | ✅ | ✅ | 0.5 mph | 16.5" | ~$250 | Foldable handrail; cushioned deck |
-| **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=theforge05-20)** | ❌ | ✅ | 0.6 mph | 16" | ~$200 | No safety key — less suitable for younger children |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=theforge05-20)** | ❌ | ✅ | 0.5 mph | 17" | ~$270 | Widest belt; no safety key |
-| **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=theforge05-20)** | ❌ | ✅ | 0.5 mph | 16" | ~$250 | Compact; no safety key |
+| **[Goplus 2-in-1](https://www.amazon.com/s?k=Goplus+2+in+1+Walking+Pad&tag=walkingpadpicks-20)** | ✅ | ✅ | 0.5 mph | 16" | ~$210 | Handrail for balance support; best safety feature set |
+| **[REDLIRO Folding](https://www.amazon.com/s?k=REDLIRO+Folding+Treadmill&tag=walkingpadpicks-20)** | ✅ | ✅ | 0.5 mph | 16.5" | ~$250 | Foldable handrail; cushioned deck |
+| **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.6 mph | 16" | ~$200 | No safety key — less suitable for younger children |
+| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.5 mph | 17" | ~$270 | Widest belt; no safety key |
+| **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.5 mph | 16" | ~$250 | Compact; no safety key |
 
 ### Best Choice for Households with Children
 

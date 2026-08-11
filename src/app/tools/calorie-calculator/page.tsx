@@ -111,7 +111,7 @@ export default function CalorieCalculatorPage() {
             "@context": "https://schema.org",
             "@type": "Article",
             headline: "Walking Pad Calorie Calculator — How Many Calories Do You Burn?",
-            author: { "@type": "Person", name: "Sarah Mitchell" },
+            author: { "@type": "Organization", name: "Walking Pad Picks Editorial Team" },
             datePublished: "2025-06-01",
             dateModified: "2026-03-01",
             publisher: {
@@ -119,7 +119,7 @@ export default function CalorieCalculatorPage() {
               name: "Walking Pad Picks",
               url: "https://walkingpadpicks.com",
             },
-            description: "Calculate exactly how many calories you burn on your walking pad based on your weight, speed, and duration.",
+            description: "WalkingPadPicks offers a practical calorie-calculator tool with transparent ranking logic and clear affiliate disclosure.",
           }),
         }}
       />
@@ -135,7 +135,7 @@ export default function CalorieCalculatorPage() {
           </p>
 
           <p className="text-center text-sm text-gray-500 mb-2">
-            By Sarah Mitchell, Certified Personal Trainer | Last updated March 2026
+            By Walking Pad Picks Editorial Team | Last updated March 2026
           </p>
 
           <p className="text-center text-xs text-gray-400 mb-8">
@@ -252,9 +252,9 @@ export default function CalorieCalculatorPage() {
                 </div>
                 <div className="text-center">
                   <a
-                    href="https://www.amazon.com/s?k=under+desk+walking+pad+treadmill&tag=theforge05-20"
+                    href="https://www.amazon.com/s?k=under+desk+walking+pad+treadmill&tag=walkingpadpicks-20"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="noopener noreferrer nofollow sponsored"
                     className="bg-orange-500 text-white px-4 py-2 rounded-lg font-semibold hover:bg-orange-600 inline-block"
                   >
                     Shop Walking Pads on Amazon &rarr;
@@ -285,8 +285,8 @@ export default function CalorieCalculatorPage() {
               <a href="/walking-pad-while-working" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
                 How to Use a Walking Pad While Working &rarr;
               </a>
-              <a href="https://plantarfasciitisguides.com/plantar-fasciitis-treatment" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
-                Plantar Fasciitis Treatment Guide — Protect Your Feet &rarr;
+              <a href="/walking-pad-desk-ergonomics" className="block text-blue-600 hover:text-blue-800 hover:underline font-medium">
+                Walking Pad Desk Ergonomics Guide for Lower-Back and Joint Support &rarr;
               </a>
             </div>
           </section>

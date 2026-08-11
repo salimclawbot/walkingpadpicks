@@ -30,7 +30,7 @@ const articleMeta: Record<
 > = {
   "best-walking-pad-heavy-users": {
     title: "Best Walking Pad for Heavy Users (300+ lbs) (2026)",
-    description: "The best walking pads for heavy users over 300 lbs. We tested 6 high-capacity models for motor power, belt width, and long-term durability under heavy use.",
+    description: "The best walking pads for heavy users over 300 lbs. Six high-capacity models compared using motor power, belt width, published specifications, and owner feedback",
     category: "Buyer's Guide",
     date: "2026-03-11",
     dateModified: "2026-03-11",
@@ -274,7 +274,7 @@ const articleMeta: Record<
   },
   "walkingpad-a1-pro-review-2026": {
     title: "WalkingPad A1 Pro Review (2026): Honest Take",
-    description: "Is the WalkingPad A1 Pro worth it in 2026? We tested it for 3 weeks — motor power, belt size, noise, desk compatibility and real-world performance compared.",
+    description: "Is the WalkingPad A1 Pro worth it in 2026? Specifications, owner feedback, desk compatibility, and real-world considerations compared",
     category: "Reviews",
     date: "2026-04-19",
     dateModified: "2026-04-19",

@@ -4,9 +4,30 @@ import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 export const metadata: Metadata = {
   title: "Contact Us",
   description:
-    "Get in touch with the WalkingPadPicks team. Questions, suggestions, corrections, and partnership inquiries welcome.",
+    "Contact WalkingPadPicks for product suggestions, corrections, affiliate policy questions, and workspace-specific pad selection guidance.",
   alternates: { canonical: "https://www.walkingpadpicks.com/contact" },
-};
+
+  openGraph: {
+    title: "Contact Us",
+    description: "Contact WalkingPadPicks for product suggestions, corrections, affiliate policy questions, and workspace-specific pad selection guidance.",
+    url: "https://www.walkingpadpicks.com/contact",
+    siteName: "Walking Pad Picks",
+    type: "website",
+    images: [
+      {
+        url: "https://walkingpadpicks.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Contact Us",
+    description: "Contact WalkingPadPicks for product suggestions, corrections, affiliate policy questions, and workspace-specific pad selection guidance.",
+    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+  }};
 
 export default function ContactPage() {
   const schema = breadcrumbSchema([{ name: "Contact", url: "/contact" }]);

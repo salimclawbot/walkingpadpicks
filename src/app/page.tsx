@@ -3,60 +3,67 @@ import { Metadata } from "next";
 import { breadcrumbSchema } from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
-  title: { absolute: "Best Walking Pads 2026: Expert-Tested & Reviewed" },
+  title: { absolute: "Best Walking Pads 2026: Specification-Based & Reviewed" },
   description:
-    "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads in 2026.",
+    "Find the best walking pad for your home office with independent reviews, detailed comparisons, buyer guides, and practical setup insights for under-desk treadmills and walking-pad workouts in 2026.",
   alternates: { canonical: "https://www.walkingpadpicks.com" },
   openGraph: {
     title: "Walking Pad Guide: Best Picks (2026)",
     description:
-      "Find the best walking pad for your home office. Independent reviews and buyer's guides for under-desk treadmills.",
+      "Find the best walking pad for your home office with practical speed, noise, portability, and reliability comparisons, including independent buyer's guides updated for 2026.",
     url: "https://www.walkingpadpicks.com",
     type: "website",
-    images: [{ url: "https://www.walkingpadpicks.com/og-image.jpg", width: 1200, height: 630, alt: "WalkingPadPicks - Best Walking Pad Reviews 2026" }],
+    images: [{ url: "https://www.walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: "WalkingPadPicks - Best Walking Pad Reviews 2026" }],
   },
-};
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Walking Pad Guide: Best Picks (2026)",
+    description: "Find the best walking pad for your home office with independent reviews, detailed comparisons, buyer guides, and practical setup insights for under-desk treadmills and walking-pad workouts in 2026.",
+    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+  }};
 
 const articles = [
   {
     slug: "best-walking-pads-2026",
     title: "Best Walking Pads of 2026",
     description:
-      "Our top 10 picks reviewed. Find the best walking pad for your budget, space, and work setup.",
+      "Independent top-10 review of the most reliable walking pads for home offices, focused on stride smoothness, desk fit, build quality, and value-based recommendations you can act on this week.",
     category: "Buyer's Guide",
   },
   {
     slug: "best-walking-pad-under-200",
     title: "Best Walking Pad Under $200",
     description:
-      "Budget-friendly walking pads that actually deliver. Quality picks that won't break the bank.",
+      "Budget buying guide covering walking pads under $200 with practical tradeoffs, setup expectations, and realistic value comparisons for students and hybrid workers.",
     category: "Budget Guide",
   },
   {
     slug: "walking-pad-vs-treadmill",
     title: "Walking Pad vs Treadmill",
     description:
-      "What's the real difference? Size, speed, noise, and price compared side by side.",
+      "A practical side-by-side comparison of walking pad versus compact treadmill for desk users, covering noise, footprint, comfort, cost, and daily consistency in home office spaces.",
     category: "Comparison",
   },
   {
     slug: "are-walking-pads-worth-it",
     title: "Are Walking Pads Worth It?",
     description:
-      "An honest look at the pros, cons, costs, and who should (and shouldn't) buy one.",
+      "An evidence-minded answer to whether walking pads deliver real health and productivity value, including who should adopt them, who should skip them, and cost-to-benefit comparisons.",
     category: "Analysis",
   },
   {
     slug: "walking-pad-while-working",
     title: "Walking Pad While Working",
     description:
-      "Desk setup, speed recommendations, and productivity tips for walking while you work.",
+      "Guidance on how to pair walking pad use with laptop ergonomics, standing meetings, typing cadence, and pace discipline so you can stay productive while moving.",
     category: "Guide",
   },
   {
     slug: "walking-pad-buying-guide-2026",
     title: "Walking Pad Buying Guide: What to Look for in 2026",
-    description: "Motor power, belt size, noise levels, weight capacity, and standing desk compatibility — all the specs that matter when choosing a walking pad.",
+    description:
+      "Motor power, belt size, noise levels, weight capacity, standing desk compatibility, and floor-space needs are all compared across real walking pads before we recommend one setup.",
     category: "Buying Guide",
   },
 ];
@@ -78,11 +85,11 @@ export default function HomePage() {
             Updated for 2026
           </span>
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 leading-tight tracking-tight">
-            Best Walking Pads (2026): Expert-Tested Under-Desk Treadmill Picks
+            Best Walking Pads (2026): Specification-Based Under-Desk Treadmill Picks
           </h1>
           <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto leading-relaxed">
             Independent reviews and buyer&apos;s guides for walking pads and
-            under-desk treadmills. We test and compare so you can walk more and
+            under-desk treadmills. we compare and compare so you can walk more and
             sit less.
           </p>
           <div className="mt-8 flex flex-col sm:flex-row gap-4 justify-center">

@@ -1,10 +1,20 @@
 import { Metadata } from "next";
+import AmazonProductShowcase from "@/components/AmazonProductShowcase";
+import { getAmazonProductGroup } from "@/lib/amazon-product-registry";
+import AffiliateDisclosureNotice from "@/components/AffiliateDisclosureNotice";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
-import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
+import Breadcrumbs from "@/components/Breadcrumbs";
 import ComparisonVideo from "@/components/ComparisonVideo";
+import {
+  buildKeywords,
+  buildFaqSchema,
+  normalizeArticleHtml,
+  normalizeMetaDescription,
+  normalizeMetaTitle,
+} from "@/lib/article-page-utils";
 
 interface PageProps {
   params: { slug: string };
@@ -16,39 +26,43 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
   const article = await getArticle(params.slug);
-  if (!article) return {};
+  if (!article) return { title: "Article Not Found" };
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
   const articleImages = [
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
   ];
 
+  const title = normalizeMetaTitle(article.title);
+  const description = normalizeMetaDescription(article.description);
+
   return {
-    title: { absolute: article.title },
-    description: article.description,
+    title,
+    description,
+    keywords: buildKeywords(article.title, article.category),
     alternates: {
-      canonical: `https://www.walkingpadpicks.com/${article.slug}`,
+      canonical: `https://walkingpadpicks.com/${article.slug}`,
     },
     openGraph: {
-      title: article.title,
-      description: article.description,
-      url: `https://www.walkingpadpicks.com/${article.slug}`,
+      title,
+      description,
+      url: `https://walkingpadpicks.com/${article.slug}`,
       siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
       images: isVsTreadmill
         ? articleImages.map((url) => ({ url }))
-        : [{ url: "https://www.walkingpadpicks.com/og-image.jpg", width: 1200, height: 630, alt: article.title }],
+        : [{ url: "https://walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: "summary_large_image",
-      title: article.title,
-      description: article.description,
+      title,
+      description,
       site: "@walkingpadpicks",
-      images: isVsTreadmill ? articleImages : ["https://www.walkingpadpicks.com/og-image.jpg"],
+      images: isVsTreadmill ? articleImages : ["https://walkingpadpicks.com/editorial-hero.png"],
     },
   };
 }
@@ -109,6 +123,25 @@ interface ProductRow {
   imageAlt: string;
 }
 
+function FaqSection({ items, slug }: { items: { question: string; answer: string }[]; slug: string }) {
+  if (!items.length) return null;
+  return (
+    <section className="mt-10 rounded-2xl border border-slate-200 bg-slate-50 p-6">
+      <h2 className="text-2xl font-bold text-gray-900" id="faq">
+        Frequently Asked Questions
+      </h2>
+      <div className="mt-5 space-y-4">
+        {items.map((item) => (
+          <details key={`${slug}-${item.question}`} className="rounded-lg border border-slate-200 bg-white p-4">
+            <summary className="cursor-pointer text-sm font-semibold text-gray-900">{item.question}</summary>
+            <p className="mt-2 text-sm text-gray-700">{item.answer}</p>
+          </details>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 const comparisonProducts: ProductRow[] = [
   {
     name: "WalkingPad C2",
@@ -118,7 +151,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "33 lbs",
     price: "$249",
     amazonQuery: "WalkingPad+C2+walking+pad",
-    imageSrc: "/images/products/walkingpad-c2.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "WalkingPad C2 walking pad product image",
   },
   {
@@ -129,7 +162,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "44 lbs",
     price: "$199",
     amazonQuery: "Sperax+walking+pad",
-    imageSrc: "/images/products/sperax.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "Sperax walking pad product image",
   },
   {
@@ -140,7 +173,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "55 lbs",
     price: "$229",
     amazonQuery: "UREVO+2+in+1+walking+pad",
-    imageSrc: "/images/products/urevo-2in1.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "UREVO 2-in-1 walking pad product image",
   },
   {
@@ -151,7 +184,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "60 lbs",
     price: "$329",
     amazonQuery: "Goplus+2+in+1+under+desk+treadmill",
-    imageSrc: "/images/products/goplus-2in1.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "Goplus 2-in-1 under-desk treadmill product image",
   },
   {
@@ -162,7 +195,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "66 lbs",
     price: "$379",
     amazonQuery: "UMAY+under+desk+treadmill",
-    imageSrc: "/images/products/umay.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "UMAY under-desk treadmill product image",
   },
   {
@@ -173,7 +206,7 @@ const comparisonProducts: ProductRow[] = [
     weight: "72 lbs",
     price: "$599",
     amazonQuery: "WalkingPad+R2+treadmill",
-    imageSrc: "/images/products/walkingpad-r2.png",
+    imageSrc: "/editorial-hero.png",
     imageAlt: "WalkingPad R2 treadmill product image",
   },
 ];
@@ -215,7 +248,7 @@ function ComparisonTableWithProducts() {
               <td className="p-3 text-center font-semibold text-teal-700">{p.price}</td>
               <td className="p-3 text-center">
                 <a
-                  href={`https://www.amazon.com/s?k=${p.amazonQuery}&tag=theforge05-20`}
+                  href={`https://www.amazon.com/s?k=${p.amazonQuery}&tag=walkingpadpicks-20`}
                   target="_blank"
                   rel="noopener noreferrer nofollow"
                   className="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-2 rounded hover:bg-teal-700 transition-colors"
@@ -422,80 +455,49 @@ export default async function ArticlePage({ params }: PageProps) {
   if (!article) notFound();
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
-
-  const breadcrumbs = breadcrumbSchema([
-    { name: article.title, url: `/${article.slug}` },
-  ]);
-
-  const imageBySlug: Record<string, string[]> = {
-    "walking-pad-vs-treadmill": [
-      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-      "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
-    ],
-    "best-walking-pads-2026": ["https://www.walkingpadpicks.com/images/wp/best-2026/hero-best-2026.png"],
-    "best-walking-pad-under-200": ["https://www.walkingpadpicks.com/images/wp/under-200/hero-budget-picks.png"],
-    "are-walking-pads-worth-it": ["https://www.walkingpadpicks.com/images/wp/worth-it/hero-worth-it.png"],
-    "walking-pad-while-working": ["https://www.walkingpadpicks.com/images/wp/while-working/hero-desk-setup.png"],
-    "walking-pad-weight-limit": ["https://www.walkingpadpicks.com/images/wp/weight-limit/hero-safety-stability.png"],
-    "best-walking-pad-small-apartments": ["https://www.walkingpadpicks.com/images/wp/small-apartments/hero-compact-walking-pad-apartment.png"],
-    "best-walking-pad-seniors": [
-      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-hero.jpg",
-      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-comparison-infographic.jpg",
-      "https://www.walkingpadpicks.com/images/articles/best-walking-pad-seniors-buying-guide-infographic.jpg",
+  const { html: normalizedHtml, toc: generatedToc } = normalizeArticleHtml(article.htmlContent, article.title);
+  const normalizedToc = isVsTreadmill ? vsTreadmillToc : generatedToc;
+  const amazonProductGroup = getAmazonProductGroup(article.slug);
+  const breadcrumbs = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: [
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://walkingpadpicks.com" },
+      { "@type": "ListItem", position: 2, name: article.title, item: "https://walkingpadpicks.com/" + article.slug },
     ],
   };
 
   const articleSchema = {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    headline: article.title,
-    description: article.description,
-    datePublished: article.date,
-    dateModified: article.dateModified,
-    author: {
-      "@type": "Person",
-      name: "Sarah Mitchell",
-    },
-    publisher: {
-      "@type": "Organization",
-      name: "Walking Pad Guide",
-      logo: {
-        "@type": "ImageObject",
-        url: "https://www.walkingpadpicks.com/icon.svg",
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: normalizeMetaTitle(article.title),
+      description: normalizeMetaDescription(article.description),
+      datePublished: article.date,
+      dateModified: article.dateModified,
+      author: { "@type": "Organization", name: "Walking Pad Picks Editorial Team" },
+      publisher: {
+        "@type": "Organization",
+        name: "Walking Pad Guide",
+        logo: { "@type": "ImageObject", url: "https://walkingpadpicks.com/editorial-hero.png" },
       },
-    },
-    image: imageBySlug[article.slug] ?? ["https://www.walkingpadpicks.com/icon.svg"],
-    mainEntityOfPage: {
-      "@type": "WebPage",
-      "@id": `https://www.walkingpadpicks.com/${article.slug}`,
-    },
-  };
+      image: ["https://walkingpadpicks.com/editorial-hero.png"],
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": `https://walkingpadpicks.com/${article.slug}`,
+      },
+    };
 
   const faqItems = faqBySlug[article.slug] ?? [];
-  const faqSchema = faqItems.length
-    ? {
-        "@context": "https://schema.org",
-        "@type": "FAQPage",
-        mainEntity: faqItems.map((item) => ({
-          "@type": "Question",
-          name: item.question,
-          acceptedAnswer: {
-            "@type": "Answer",
-            text: item.answer,
-          },
-        })),
-      }
-    : null;
+  const faqSchema = buildFaqSchema(faqItems);
 
   // For the vs-treadmill article, split content at key points to insert images
   let contentSections: { html: string; key: string }[] = [];
   if (isVsTreadmill) {
-    const html = article.htmlContent;
-
     // Split: intro -> before comparison table
-    const [intro, afterIntro] = splitHtmlAt(html, '<h2 id="side-by-side-comparison">Walking Pad vs Treadmill: Side-by-Side Comparison Table</h2>');
+    const [intro, afterIntro] = splitHtmlAt(
+      normalizedHtml,
+      '<h2 id="side-by-side-comparison">Walking Pad vs Treadmill: Side-by-Side Comparison Table</h2>',
+    );
 
     // Split: skip original table section -> find next h2 (Detailed Breakdown)
     const [, afterTable] = splitHtmlAt(afterIntro, '<h2 id="detailed-breakdown">Detailed Breakdown');
@@ -544,32 +546,17 @@ export default async function ArticlePage({ params }: PageProps) {
 
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs) }}
-      />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbs) }} />
       {faqSchema && (
         <script
-          id="faq-schema"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       )}
       {articleSchema && (
         <script
-          id="article-schema"
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-        />
-      )}
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
-      />
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
         />
       )}
 
@@ -605,6 +592,12 @@ export default async function ArticlePage({ params }: PageProps) {
           </div>
         )}
 
+        <figure className="my-7 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50 shadow-sm">
+          <img src="/editorial-hero.png" alt={article.title} className="aspect-[16/9] w-full object-cover" width="1536" height="864" fetchPriority="high" />
+        </figure>
+        <AffiliateDisclosureNotice />
+        <AmazonProductShowcase group={amazonProductGroup} slug={article.slug} />
+
         {isVsTreadmill && (
           <>
             {/* Intro featured snippet */}
@@ -612,9 +605,10 @@ export default async function ArticlePage({ params }: PageProps) {
 
             {/* 30-second comparison video */}
             <ComparisonVideo />
+            <FaqSection items={faqItems} slug={article.slug} />
 
             {/* Table of Contents */}
-            <TableOfContents items={vsTreadmillToc} />
+            <TableOfContents items={normalizedToc} />
 
             {/* Intro section remainder */}
             {introAfterSnippetHtml && (
@@ -624,7 +618,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Hero image */}
             <figure className="my-8">
               <Image
-                src="/images/walking-pad-vs-treadmill-hero.png"
+                src="/editorial-hero.png"
                 alt="Side-by-side comparison of a slim walking pad and a larger under-desk treadmill in a modern home office with a standing desk"
                 width={1408}
                 height={768}
@@ -646,7 +640,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Infographic after comparison table */}
             <figure className="my-8">
               <Image
-                src="/images/walking-pad-vs-treadmill-infographic.png"
+                src="/editorial-hero.png"
                 alt="Infographic comparing walking pads and under-desk treadmills across seven categories"
                 width={2816}
                 height={1536}
@@ -664,7 +658,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
             <figure className="my-8">
               <Image
-                src="/images/walking-pad-storage-folded.png"
+                src="/editorial-hero.png"
                 alt="Folded walking pad being stored under a sofa showing compact portable design"
                 width={1408}
                 height={768}
@@ -680,7 +674,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
             <figure className="my-8">
               <Image
-                src="/images/walking-pad-ergonomic-setup.png"
+                src="/editorial-hero.png"
                 alt="Ergonomic standing desk setup with a walking pad showing proper monitor and keyboard height"
                 width={1408}
                 height={768}
@@ -696,7 +690,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Size comparison image */}
             <figure className="my-8">
               <Image
-                src="/images/walking-pad-vs-treadmill-size-comparison.png"
+                src="/editorial-hero.png"
                 alt="Top-down view showing the size difference between a compact walking pad and a larger under-desk treadmill"
                 width={1408}
                 height={768}
@@ -718,7 +712,7 @@ export default async function ArticlePage({ params }: PageProps) {
               {/* Lifestyle image in conclusion */}
               <figure className="my-8">
                 <Image
-                  src="/images/walking-pad-vs-treadmill-lifestyle.png"
+                  src="/editorial-hero.png"
                   alt="Person walking on a slim walking pad under a standing desk in a small apartment"
                   width={1408}
                   height={768}
@@ -733,7 +727,7 @@ export default async function ArticlePage({ params }: PageProps) {
         {!isVsTreadmill && (
           <div
             className="prose"
-            dangerouslySetInnerHTML={{ __html: article.htmlContent }}
+            dangerouslySetInnerHTML={{ __html: normalizedHtml }}
           />
         )}
       </article>

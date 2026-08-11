@@ -1,10 +1,8 @@
-<video autoplay muted loop playsinline poster="/images/articles/are-walking-pads-worth-it-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/are-walking-pads-worth-it-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/are-walking-pads-worth-it-demo.mp4" type="video/mp4">
 </video>
 
 ---|
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Are Walking Pads Worth It","description":"Guide about Are Walking Pads Worth It","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/are-walking-pads-worth-it"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Who Should Buy a Walking Pad","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/are-walking-pads-worth-it for comprehensive information about who should buy a walking pad."}},{"@type":"Question","name":"Who Should Skip It","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/are-walking-pads-worth-it for comprehensive information about who should skip it."}},{"@type":"Question","name":"How to Get the Most Value From a Walking Pad","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/are-walking-pads-worth-it for comprehensive information about how to get the most value from a walking pad."}},{"@type":"Question","name":"The Bottom Line","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/are-walking-pads-worth-it for comprehensive information about the bottom line."}}]}'
 ---|---|
 | Daily | 730 | $0.55 |
 | 5 days/week | 520 | $0.77 |

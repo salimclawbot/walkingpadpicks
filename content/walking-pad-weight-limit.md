@@ -1,4 +1,4 @@
-<video autoplay muted loop playsinline poster="/images/articles/walking-pad-weight-limit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-weight-limit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-weight-limit-demo.mp4" type="video/mp4">
 </video>
 
@@ -11,8 +11,6 @@ Walking pads have become the default under-desk exercise solution for remote wor
 This guide compares the weight limits of 8 popular walking pads, explains how those limits are set, and helps you find the right walking pad for your actual body weight — with an honest safety margin built in.
 
 > **Safety note:** Always follow the manufacturer's stated weight capacity. Using a walking pad above its rated limit increases the risk of motor failure, belt slippage, and structural damage. If you have mobility concerns or medical conditions, consult a healthcare provider before starting any walking program.
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad Weight Limit","description":"Guide about Walking Pad Weight Limit","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-weight-limit"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Walking Pad Weight Limits Matter","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about why walking pad weight limits matter."}},{"@type":"Question","name":"Walking Pad Weight Capacity Comparison Table","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about walking pad weight capacity comparison table."}},{"@type":"Question","name":"Detailed Breakdown by Weight Range","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about detailed breakdown by weight range."}},{"@type":"Question","name":"How Weight Limits Are Determined","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about how weight limits are determined."}},{"@type":"Question","name":"Safety Considerations","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about safety considerations."}},{"@type":"Question","name":"What Happens If You Exceed the Weight Limit","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-weight-limit for comprehensive information about what happens if you exceed the weight limit."}}]}'
 ---
 
 ## Why Walking Pad Weight Limits Matter
@@ -33,14 +31,14 @@ A walking pad weight limit is not a suggestion — it is an engineering constrai
 
 | Walking Pad | Weight Limit | Motor | Speed Range | Belt Size | Foldable | Price | Buy |
 |------------|:------------|:------|:-----------|:----------|:---------|:-----:|-----|
-| **WalkingPad R2** | 242 lbs (110 kg) | 1.25 HP | 0.5–6.2 mph | 17.3" × 47.2" | ✅ Yes | ~$450 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+R2&tag=theforge05-20) |
-| **WalkingPad X21** | 242 lbs (110 kg) | 1.0 HP | 0.5–7.5 mph | 18.5" × 47.6" | ✅ Yes | ~$500 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+X21&tag=theforge05-20) |
-| **Goplus 2-in-1** | 265 lbs (120 kg) | 2.25 HP | 0.6–7.5 mph | 16.5" × 44" | ❌ No | ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Goplus+2+in+1+treadmill&tag=theforge05-20) |
-| **Sperax Walking Pad** | 270 lbs (122 kg) | 2.0 HP | 0.6–6.0 mph | 17" × 42" | ✅ Yes | ~$300 | [Check on Amazon](https://www.amazon.com/s?k=Sperax+walking+pad&tag=theforge05-20) |
-| **UREVO 2-in-1** | 265 lbs (120 kg) | 2.5 HP | 0.6–7.5 mph | 16.5" × 46" | ❌ No | ~$280 | [Check on Amazon](https://www.amazon.com/s?k=UREVO+walking+pad&tag=theforge05-20) |
-| **REDLIRO Under Desk** | 220 lbs (100 kg) | 2.0 HP | 0.5–6.0 mph | 16" × 42" | ❌ No | ~$200 | [Check on Amazon](https://www.amazon.com/s?k=REDLIRO+walking+pad&tag=theforge05-20) |
-| **UMAY Under Desk** | 275 lbs (125 kg) | 2.5 HP | 0.6–6.0 mph | 17" × 44" | ✅ Yes | ~$320 | [Check on Amazon](https://www.amazon.com/s?k=UMAY+walking+pad&tag=theforge05-20) |
-| **XTERRA Fitness TR150** | 250 lbs (113 kg) | 2.25 HP | 0.5–10 mph | 16" × 50" | ✅ Yes | ~$350 | [Check on Amazon](https://www.amazon.com/s?k=XTERRA+Fitness+TR150&tag=theforge05-20) |
+| **WalkingPad R2** | 242 lbs (110 kg) | 1.25 HP | 0.5–6.2 mph | 17.3" × 47.2" | ✅ Yes | ~$450 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+R2&tag=walkingpadpicks-20) |
+| **WalkingPad X21** | 242 lbs (110 kg) | 1.0 HP | 0.5–7.5 mph | 18.5" × 47.6" | ✅ Yes | ~$500 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+X21&tag=walkingpadpicks-20) |
+| **Goplus 2-in-1** | 265 lbs (120 kg) | 2.25 HP | 0.6–7.5 mph | 16.5" × 44" | ❌ No | ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Goplus+2+in+1+treadmill&tag=walkingpadpicks-20) |
+| **Sperax Walking Pad** | 270 lbs (122 kg) | 2.0 HP | 0.6–6.0 mph | 17" × 42" | ✅ Yes | ~$300 | [Check on Amazon](https://www.amazon.com/s?k=Sperax+walking+pad&tag=walkingpadpicks-20) |
+| **UREVO 2-in-1** | 265 lbs (120 kg) | 2.5 HP | 0.6–7.5 mph | 16.5" × 46" | ❌ No | ~$280 | [Check on Amazon](https://www.amazon.com/s?k=UREVO+walking+pad&tag=walkingpadpicks-20) |
+| **REDLIRO Under Desk** | 220 lbs (100 kg) | 2.0 HP | 0.5–6.0 mph | 16" × 42" | ❌ No | ~$200 | [Check on Amazon](https://www.amazon.com/s?k=REDLIRO+walking+pad&tag=walkingpadpicks-20) |
+| **UMAY Under Desk** | 275 lbs (125 kg) | 2.5 HP | 0.6–6.0 mph | 17" × 44" | ✅ Yes | ~$320 | [Check on Amazon](https://www.amazon.com/s?k=UMAY+walking+pad&tag=walkingpadpicks-20) |
+| **XTERRA Fitness TR150** | 250 lbs (113 kg) | 2.25 HP | 0.5–10 mph | 16" × 50" | ✅ Yes | ~$350 | [Check on Amazon](https://www.amazon.com/s?k=XTERRA+Fitness+TR150&tag=walkingpadpicks-20) |
 
 ![A person safely walking on a sturdy walking pad in a bright, modern home office, illustrating the importance of weight capacity.](/images/wp/weight-limit/hero-safety-stability.png)
 *Choosing a walking pad with an appropriate weight limit is crucial for safety and durability.*

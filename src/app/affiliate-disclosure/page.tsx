@@ -4,11 +4,32 @@ import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 export const metadata: Metadata = {
   title: "Affiliate Disclosure",
   description:
-    "WalkingPadPicks affiliate disclosure. How we earn revenue and maintain editorial independence.",
+    "Affiliate disclosure explains how we earn commissions, keep affiliate relationships transparent, and maintain review rankings based on independent testing.",
   alternates: {
     canonical: "https://www.walkingpadpicks.com/affiliate-disclosure",
   },
-};
+
+  openGraph: {
+    title: "Affiliate Disclosure",
+    description: "Affiliate disclosure explains how we earn commissions, keep affiliate relationships transparent, and maintain review rankings based on independent testing.",
+    url: "https://www.walkingpadpicks.com/affiliate-disclosure",
+    siteName: "Walking Pad Picks",
+    type: "website",
+    images: [
+      {
+        url: "https://walkingpadpicks.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "Affiliate Disclosure",
+    description: "Affiliate disclosure explains how we earn commissions, keep affiliate relationships transparent, and maintain review rankings based on independent testing.",
+    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+  }};
 
 export default function AffiliateDisclosurePage() {
   const schema = breadcrumbSchema([

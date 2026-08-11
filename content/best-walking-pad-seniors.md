@@ -12,8 +12,6 @@
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Conclusion](#conclusion)
 - [Sources & Methodology](#sources-and-methodology)
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Best Walking Pad Seniors","description":"Guide about Best Walking Pad Seniors","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/best-walking-pad-seniors"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Why Walking Pads Are Perfect for Seniors","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about why walking pads are perfect for seniors."}},{"@type":"Question","name":"5 Must-Have Safety Features for Senior Walking Pads","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about 5 must-have safety features for senior walking pads."}},{"@type":"Question","name":"Top 5 Walking Pads for Seniors (2026)","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about top 5 walking pads for seniors (2026)."}},{"@type":"Question","name":"Buying Guide for Senior Walking Pads","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about buying guide for senior walking pads."}},{"@type":"Question","name":"Quick Overview: Walking Pad Safety for Seniors","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about quick overview: walking pad safety for seniors."}},{"@type":"Question","name":"Health Benefits for Older Adults","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/best-walking-pad-seniors for comprehensive information about health benefits for older adults."}}]}'
 ---
 
 ## Why Walking Pads Are Perfect for Seniors
@@ -77,7 +75,7 @@ Large buttons with clear labels that can be felt without looking down. A bright 
 
 ## Top 5 Walking Pads for Seniors (2026)
 
-We tested each model with adults aged 65–82, evaluating handrail stability, emergency stop response time, display readability, step-on ease, and belt comfort. Here are the five that earned our recommendation:
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1.5rem;margin:2rem 0;">
 
@@ -96,7 +94,7 @@ The R2 Pro combines the quietest motor on this list (brushless), the widest belt
 **Pros:** Quietest motor, widest belt, aluminum frame, folds flat, 5+ year lifespan
 **Cons:** ~$450 price, no built-in handrail (pair with a separate stability bar), flat pad design
 
-[Check price on Amazon →](https://www.amazon.com/s?k=WalkingPad+R2+Pro&tag=theforge05-20)
+[Check price on Amazon →](https://www.amazon.com/s?k=WalkingPad+R2+Pro&tag=walkingpadpicks-20)
 
 </div>
 
@@ -115,7 +113,7 @@ The LifePro delivers every senior-critical safety feature at the lowest price po
 **Pros:** Full safety suite at ~$250, cushioned deck, folds upright for storage, clear display
 **Cons:** 220 lb weight limit, moderate motor noise above 2.5 mph, 16.5" belt
 
-[Check price on Amazon →](https://www.amazon.com/s?k=LifePro+walking+pad&tag=theforge05-20)
+[Check price on Amazon →](https://www.amazon.com/s?k=LifePro+walking+pad&tag=walkingpadpicks-20)
 
 </div>
 
@@ -134,7 +132,7 @@ The NordicTrack T Series is technically a compact treadmill rather than a walkin
 **Pros:** Widest belt, highest capacity, best cushioning, sturdiest rails, incline option
 **Cons:** ~$550, larger footprint, heavier (200+ lbs), requires more floor space
 
-[Check price on Amazon →](https://www.amazon.com/s?k=NordicTrack+walking+treadmill&tag=theforge05-20)
+[Check price on Amazon →](https://www.amazon.com/s?k=NordicTrack+walking+treadmill&tag=walkingpadpicks-20)
 
 </div>
 
@@ -151,7 +149,7 @@ The most affordable walking pad with all senior-critical safety features. The fo
 **Pros:** Most affordable with full safety, 265 lb capacity, transport wheels, 0.5 mph minimum
 **Cons:** 16" belt (adequate but narrow), 55 lbs, handlebar wobbles slightly at higher speeds
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Goplus+2-in-1+treadmill&tag=theforge05-20)
+[Check price on Amazon →](https://www.amazon.com/s?k=Goplus+2-in-1+treadmill&tag=walkingpadpicks-20)
 
 </div>
 
@@ -168,7 +166,7 @@ The Urevo 2-in-1 offers a wider belt (17 inches) than the Goplus at a similar pr
 **Pros:** 17" belt at ~$230, full safety suite, dual-mode design, transport wheels
 **Cons:** Motor noise above 2.5 mph, moderate build quality, app features unnecessary
 
-[Check price on Amazon →](https://www.amazon.com/s?k=Urevo+walking+pad&tag=theforge05-20)
+[Check price on Amazon →](https://www.amazon.com/s?k=Urevo+walking+pad&tag=walkingpadpicks-20)
 
 </div>
 
@@ -231,7 +229,7 @@ For a complete overview of what to look for in any walking pad, read our [comple
 
 ## Quick Overview: Walking Pad Safety for Seniors
 
-<video autoplay muted loop playsinline poster="/images/articles/best-walking-pad-seniors-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/best-walking-pad-seniors-demo.mp4" type="video/mp4"></video>
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/best-walking-pad-seniors-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;"><source src="/videos/best-walking-pad-seniors-demo.mp4" type="video/mp4"></video>
 
 *Quick overview: 5 must-have safety features, top picks, and health benefits for senior walking pad users.*
 
@@ -267,7 +265,7 @@ The CDC recommends that adults aged 65 and older get at least **150 minutes per 
 
 For sedentary seniors, even 2,000 steps per day (about 15–20 minutes of walking at 1.0–1.5 mph) produces measurable health benefits. A 2023 meta-analysis published in the European Journal of Preventive Cardiology found that every additional 1,000 steps per day was associated with a 15% reduction in all-cause mortality.
 
-Walking pads make these steps effortless to accumulate — walk during morning news, a favorite show, or a phone call. No special clothing, no commute to a gym, no weather checks. For foot comfort during walking pad sessions, consider pairing with [supportive shoes for seniors with foot pain](https://plantarfasciitisguides.com/best-shoes-plantar-fasciitis) to protect joints and reduce fatigue.
+Walking pads make these steps effortless to accumulate — walk during morning news, a favorite show, or a phone call. No special clothing, no commute to a gym, no weather checks. For foot comfort during walking pad sessions, consider pairing with supportive shoes for seniors with foot pain to protect joints and reduce fatigue.
 
 For calorie calculations by speed and weight, see our walking pad calories guide.
 
@@ -324,7 +322,7 @@ For comprehensive safety guidance applicable to all ages, see our [walking pad s
 
 ### Are walking pads safe for seniors?
 
-Yes — when used at low speeds (0.5–2.0 mph) with proper safety features (handrail, emergency stop lanyard, wide belt). The flat, controlled surface is significantly safer than outdoor walking on uneven terrain. Seniors with balance disorders, heart conditions, or recent surgeries should get doctor clearance before starting. Our testing with adults aged 65–82 showed zero safety incidents when all safety features were engaged.
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ### Do seniors need a handrail on their walking pad?
 
@@ -391,6 +389,6 @@ This guide evaluates walking pads specifically for senior users (adults 65+) bas
 
 ---
 
-**About the Author**
 
-*Dr. Sarah Mitchell is a licensed physical therapist with 15 years of experience in geriatric rehabilitation. She specializes in fall prevention, balance training, and safe exercise programming for adults aged 65+. Dr. Mitchell consults with the WalkingPadPicks editorial team on all senior-focused content to ensure recommendations align with evidence-based physical therapy practice.*
+
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

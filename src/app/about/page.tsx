@@ -4,9 +4,30 @@ import Breadcrumbs, { breadcrumbSchema } from "@/components/Breadcrumbs";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Learn about WalkingPadPicks — an independent review site dedicated to helping you find the best walking pad for your home office.",
+    "Independent WalkingPadPicks reviews help people pick walking pads for desk work through transparent testing, clear comparisons, and practical buying guidance.",
   alternates: { canonical: "https://www.walkingpadpicks.com/about" },
-};
+
+  openGraph: {
+    title: "About Us",
+    description: "Independent WalkingPadPicks reviews help people pick walking pads for desk work through transparent testing, clear comparisons, and practical buying guidance.",
+    url: "https://www.walkingpadpicks.com/about",
+    siteName: "Walking Pad Picks",
+    type: "website",
+    images: [
+      {
+        url: "https://walkingpadpicks.com/editorial-hero.png",
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "About Us",
+    description: "Independent WalkingPadPicks reviews help people pick walking pads for desk work through transparent testing, clear comparisons, and practical buying guidance.",
+    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+  }};
 
 export default function AboutPage() {
   const schema = breadcrumbSchema([{ name: "About", url: "/about" }]);

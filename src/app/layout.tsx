@@ -4,6 +4,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import AffiliateClickTracker from "@/components/AffiliateClickTracker";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -15,11 +16,23 @@ export const metadata: Metadata = {
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
   metadataBase: new URL("https://www.walkingpadpicks.com"),
+  alternates: { canonical: "https://walkingpadpicks.com" },
   openGraph: {
     siteName: "WalkingPadPicks",
     type: "website",
     locale: "en_US",
-    images: [{ url: "https://www.walkingpadpicks.com/og-image.jpg", width: 1200, height: 630, alt: "WalkingPadPicks — Best Walking Pad Reviews" }],
+    title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides",
+    description:
+      "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
+    url: "https://walkingpadpicks.com",
+    images: [{ url: "https://www.walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: "WalkingPadPicks — Best Walking Pad Reviews" }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides",
+    description:
+      "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   },
   robots: {
     index: true,
@@ -72,8 +85,8 @@ export default function RootLayout({
               return (
                 value.includes('amazon.com') ||
                 value.includes('amzn.to') ||
-                value.includes('tag=theforge05-20') ||
-                value.includes('tag=doublefury-22')
+                value.includes('tag=walkingpadpicks-20') ||
+                value.includes('tag=walkingpadpicks-20')
               );
             };
 
@@ -158,6 +171,7 @@ export default function RootLayout({
           })();
         `}</Script>
 
+        <AffiliateClickTracker />
       </body>
     </html>
   );

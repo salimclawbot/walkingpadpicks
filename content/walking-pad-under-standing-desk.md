@@ -1,4 +1,4 @@
-<video autoplay muted loop playsinline poster="/images/articles/walking-pad-under-standing-desk-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-under-standing-desk-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-under-standing-desk-demo.mp4" type="video/mp4">
 </video>
 
@@ -7,8 +7,6 @@
 Standing desks solved the sitting problem. But standing in one spot for hours creates its own issues — lower back fatigue, leg stiffness, sore feet. The natural evolution is adding movement: a walking pad under the standing desk that lets you walk at 1.0–2.0 mph while you work.
 
 The concept is simple. The execution has details that make or break the experience: desk height, vibration, cable safety, monitor shake, floor protection, and the right walking pad dimensions. Get these right and you have a seamless walk-while-you-work setup. Get them wrong and you have an expensive tripping hazard that makes your monitors wobble.
-article_schema: '{"@context":"https://schema.org","@type":"Article","headline":"Walking Pad Under Standing Desk","description":"Guide about Walking Pad Under Standing Desk","author":{"@type":"Person","name":"Dr. Sarah Chen"},"publisher":{"@type":"Organization","name":"WalkingPadPicks","url":"https://www.walkingpadpicks.com"},"datePublished":"2026-03-10","dateModified":"2026-03-10","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.walkingpadpicks.com/walking-pad-under-standing-desk"},"image":"https://www.walkingpadpicks.com/og-image.jpg"}'
-faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Will It Fit? Measuring Your Space","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about will it fit? measuring your space."}},{"@type":"Question","name":"Desk Height: The Critical Adjustment","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about desk height: the critical adjustment."}},{"@type":"Question","name":"Best Walking Pads for Standing Desk Use","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about best walking pads for standing desk use."}},{"@type":"Question","name":"The Vibration Problem (and How to Fix It)","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about the vibration problem (and how to fix it)."}},{"@type":"Question","name":"Cable Management for Safety","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about cable management for safety."}},{"@type":"Question","name":"Ergonomic Setup Checklist","acceptedAnswer":{"@type":"Answer","text":"See the full guide on https://www.walkingpadpicks.com/walking-pad-under-standing-desk for comprehensive information about ergonomic setup checklist."}}]}'
 ---
 
 ## Will It Fit? Measuring Your Space
@@ -96,10 +94,10 @@ Save both presets so you can switch between standing and walking without manual 
 
 | Walking Pad | Dimensions (L×W) | Step Height | Weight Limit | Motor Noise | Price | Best Feature |
 |------------|:-----------------:|:-----------:|:----------:|:---------:|:-----:|-------------|
-| **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=theforge05-20)** | 50" × 21" | ~4.7" | 220 lbs | Quiet | ~$250 | Smallest footprint; folds in half |
-| **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=theforge05-20)** | 55" × 23" | ~4.5" | 265 lbs | Quiet | ~$200 | Lowest step height; high capacity |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=theforge05-20)** | 56" × 24" | ~4.7" | 265 lbs | Moderate | ~$270 | Widest belt (17"); solid frame |
-| **[WalkingPad R2](https://www.amazon.com/s?k=WalkingPad+R2&tag=theforge05-20)** | 58" × 24" | ~4.9" | 265 lbs | Very quiet | ~$450 | Quietest motor; premium build |
+| **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)** | 50" × 21" | ~4.7" | 220 lbs | Quiet | ~$250 | Smallest footprint; folds in half |
+| **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | 55" × 23" | ~4.5" | 265 lbs | Quiet | ~$200 | Lowest step height; high capacity |
+| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | 56" × 24" | ~4.7" | 265 lbs | Moderate | ~$270 | Widest belt (17"); solid frame |
+| **[WalkingPad R2](https://www.amazon.com/s?k=WalkingPad+R2&tag=walkingpadpicks-20)** | 58" × 24" | ~4.9" | 265 lbs | Very quiet | ~$450 | Quietest motor; premium build |
 
 ### Why Flat Pads (Not Handrail Models)
 

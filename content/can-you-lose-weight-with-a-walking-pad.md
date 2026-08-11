@@ -1,19 +1,10 @@
----
-title: "Can You Lose Weight with a Walking Pad? (Real Results)"
-slug: can-you-lose-weight-with-a-walking-pad
-meta_description: "Can you lose weight with a walking pad? Science-backed calorie data, real user results, and a proven fat-loss plan for 2026. Dr. James Liu explains the numbers."
-primary_keyword: "can you lose weight with a walking pad"
-secondary_keywords: ["walking pad weight loss", "walking pad calories burned", "lose weight walking pad", "walking pad fat loss", "under desk treadmill weight loss"]
-datePublished: "2026-03-15"
-dateModified: "2026-03-24"
-author: "Dr. James Liu"
----
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 # Can You Lose Weight with a Walking Pad? (Real Results 2026)
 
 **Yes — you can absolutely lose weight with a walking pad. Walking at 2.0–2.5 mph for 60–90 minutes daily burns an extra 200–350 calories, creating a weekly deficit large enough to lose 0.5–1 lb of fat without setting foot in a gym. The secret is NEAT: non-exercise activity thermogenesis — the calories your body burns during low-intensity movement woven into your workday.**
 
-**By Dr. James Liu, Exercise Physiologist** | Last updated: March 2026
+By Walking Pad Picks Editorial Team
 
 ![Person using walking pad at standing desk in home office for weight loss](/images/articles/can-you-lose-weight-walking-pad-hero.jpg)
 
@@ -38,7 +29,7 @@ author: "Dr. James Liu"
 
 ---
 
-<video controls width="100%" style="border-radius:8px;margin:1.5rem 0;">
+<video class="w-full rounded-lg my-6" preload="metadata" controls controls width="100%" style="border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/can-you-lose-weight-walking-pad-demo.mp4" type="video/mp4" />
 </video>
 
@@ -237,8 +228,8 @@ See our full [best walking pads 2026](/best-walking-pads-2026) guide for a broad
 <li>Price: ~$349</li>
 </ul>
 <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-<a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=theforge05-20" target="_blank" rel="noopener noreferrer nofollow" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
-<a href="https://www.amazon.com.au/s?k=WalkingPad+A1+Pro&tag=doublefury-22" target="_blank" rel="noopener noreferrer nofollow" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
+<a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
+<a href="https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
 </div>
 </div>
 
@@ -254,8 +245,8 @@ See our full [best walking pads 2026](/best-walking-pads-2026) guide for a broad
 <li>Price: ~$259</li>
 </ul>
 <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-<a href="https://www.amazon.com/s?k=Urevo+Strol1+Pro+walking+pad&tag=theforge05-20" target="_blank" rel="noopener noreferrer nofollow" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
-<a href="https://www.amazon.com.au/s?k=Urevo+Strol1+Pro+walking+pad&tag=doublefury-22" target="_blank" rel="noopener noreferrer nofollow" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
+<a href="https://www.amazon.com/s?k=Urevo+Strol1+Pro+walking+pad&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
+<a href="https://www.amazon.com/s?k=Urevo+Strol1+Pro+walking+pad&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
 </div>
 </div>
 
@@ -271,8 +262,8 @@ See our full [best walking pads 2026](/best-walking-pads-2026) guide for a broad
 <li>Price: ~$219</li>
 </ul>
 <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-<a href="https://www.amazon.com/s?k=CITYSPORTS+under+desk+treadmill&tag=theforge05-20" target="_blank" rel="noopener noreferrer nofollow" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
-<a href="https://www.amazon.com.au/s?k=CITYSPORTS+under+desk+treadmill&tag=doublefury-22" target="_blank" rel="noopener noreferrer nofollow" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
+<a href="https://www.amazon.com/s?k=CITYSPORTS+under+desk+treadmill&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
+<a href="https://www.amazon.com/s?k=CITYSPORTS+under+desk+treadmill&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
 </div>
 </div>
 
@@ -288,8 +279,8 @@ See our full [best walking pads 2026](/best-walking-pads-2026) guide for a broad
 <li>Price: ~$329</li>
 </ul>
 <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-<a href="https://www.amazon.com/s?k=Goplus+2+in+1+folding+treadmill+walking+pad&tag=theforge05-20" target="_blank" rel="noopener noreferrer nofollow" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
-<a href="https://www.amazon.com.au/s?k=Goplus+2+in+1+folding+treadmill&tag=doublefury-22" target="_blank" rel="noopener noreferrer nofollow" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
+<a href="https://www.amazon.com/s?k=Goplus+2+in+1+folding+treadmill+walking+pad&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
+<a href="https://www.amazon.com/s?k=Goplus+2+in+1+folding+treadmill&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
 </div>
 </div>
 
@@ -305,8 +296,8 @@ See our full [best walking pads 2026](/best-walking-pads-2026) guide for a broad
 <li>Price: ~$289</li>
 </ul>
 <div style="display:flex;gap:0.5rem;flex-wrap:wrap;">
-<a href="https://www.amazon.com/s?k=RHYTHM+FUN+under+desk+treadmill&tag=theforge05-20" target="_blank" rel="noopener noreferrer nofollow" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
-<a href="https://www.amazon.com.au/s?k=RHYTHM+FUN+under+desk+treadmill&tag=doublefury-22" target="_blank" rel="noopener noreferrer nofollow" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
+<a href="https://www.amazon.com/s?k=RHYTHM+FUN+under+desk+treadmill&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0d9488;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇺🇸 Check Price (US)</a>
+<a href="https://www.amazon.com/s?k=RHYTHM+FUN+under+desk+treadmill&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" style="background:#0284c7;color:#fff;padding:0.5rem 0.875rem;border-radius:6px;font-size:0.8rem;font-weight:600;text-decoration:none;">🇦🇺 Check Price (AU)</a>
 </div>
 </div>
 
@@ -452,7 +443,7 @@ This article is based on peer-reviewed exercise science research, MET-based calo
 
 ---
 
-*Dr. James Liu is an ACSM-certified Exercise Physiologist with 12 years of research experience in workplace physical activity interventions, NEAT-based weight management, and ergonomic movement integration. He has published over 30 peer-reviewed studies on sedentary behavior and metabolic health outcomes.*
+> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 ---
 
