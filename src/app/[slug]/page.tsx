@@ -251,7 +251,7 @@ function ComparisonTableWithProducts() {
                 <a
                   href={`https://www.amazon.com/s?k=${p.amazonQuery}&tag=walkingpadpicks-20`}
                   target="_blank"
-                  rel="noopener noreferrer nofollow"
+                  rel="noopener noreferrer nofollow sponsored"
                   className="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-2 rounded hover:bg-teal-700 transition-colors"
                 >
                   Check Price on Amazon
