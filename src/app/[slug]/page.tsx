@@ -9,6 +9,7 @@ import Link from "next/link";
 import { getArticle, getAllSlugs } from "@/lib/articles";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ComparisonVideo from "@/components/ComparisonVideo";
+import { getArticleVisual } from "@/lib/article-visuals";
 import {
   buildKeywords,
   buildFaqSchema,
@@ -29,16 +30,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const article = await getArticle(params.slug);
   if (!article) return { title: "Article Not Found" };
 
-  const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
-  const articleImages = [
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
-  ];
-
   const title = normalizeMetaTitle(article.title);
   const description = normalizeMetaDescription(article.description);
+  const visual = getArticleVisual(article.slug, article.title);
+  const socialImage = `https://www.walkingpadpicks.com${visual.src}`;
 
   return {
     title,
@@ -54,16 +49,14 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
-      images: isVsTreadmill
-        ? articleImages.map((url) => ({ url }))
-        : [{ url: "https://www.walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: title }],
+      images: [{ url: socialImage, width: 1536, height: 1024, alt: visual.alt }],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
       site: "@walkingpadpicks",
-      images: isVsTreadmill ? articleImages : ["https://www.walkingpadpicks.com/editorial-hero.png"],
+      images: [socialImage],
     },
   };
 }
@@ -454,6 +447,7 @@ function splitHtmlAtAny(html: string, markers: string[]): [string, string] {
 export default async function ArticlePage({ params }: PageProps) {
   const article = await getArticle(params.slug);
   if (!article) notFound();
+  const visual = getArticleVisual(article.slug, article.title);
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
   const { html: normalizedHtml, toc: generatedToc } = normalizeArticleHtml(normalizeRenderedArticleHeadings(article.htmlContent), article.title);
@@ -594,7 +588,7 @@ export default async function ArticlePage({ params }: PageProps) {
         )}
 
         <figure className="my-7 overflow-hidden rounded-2xl border border-slate-200 bg-slate-50 shadow-sm">
-          <img src="/editorial-hero.png" alt={article.title} className="aspect-[16/9] w-full object-cover" width="1536" height="864" fetchPriority="high" />
+          <img src={visual.src} alt={visual.alt} className="aspect-[3/2] w-full object-cover" width="1536" height="864" fetchPriority="high" />
         </figure>
         <AffiliateDisclosureNotice />
         <AmazonProductShowcase group={amazonProductGroup} slug={article.slug} />
@@ -619,7 +613,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Hero image */}
             <figure className="my-8">
               <Image
-                src="/editorial-hero.png"
+                src={visual.src}
                 alt="Side-by-side comparison of a slim walking pad and a larger under-desk treadmill in a modern home office with a standing desk"
                 width={1408}
                 height={768}
@@ -641,7 +635,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Infographic after comparison table */}
             <figure className="my-8">
               <Image
-                src="/editorial-hero.png"
+                src={visual.src}
                 alt="Infographic comparing walking pads and under-desk treadmills across seven categories"
                 width={2816}
                 height={1536}
@@ -659,7 +653,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
             <figure className="my-8">
               <Image
-                src="/editorial-hero.png"
+                src={visual.src}
                 alt="Folded walking pad being stored under a sofa showing compact portable design"
                 width={1408}
                 height={768}
@@ -675,7 +669,7 @@ export default async function ArticlePage({ params }: PageProps) {
 
             <figure className="my-8">
               <Image
-                src="/editorial-hero.png"
+                src={visual.src}
                 alt="Ergonomic standing desk setup with a walking pad showing proper monitor and keyboard height"
                 width={1408}
                 height={768}
@@ -691,7 +685,7 @@ export default async function ArticlePage({ params }: PageProps) {
             {/* Size comparison image */}
             <figure className="my-8">
               <Image
-                src="/editorial-hero.png"
+                src={visual.src}
                 alt="Top-down view showing the size difference between a compact walking pad and a larger under-desk treadmill"
                 width={1408}
                 height={768}
@@ -713,7 +707,7 @@ export default async function ArticlePage({ params }: PageProps) {
               {/* Lifestyle image in conclusion */}
               <figure className="my-8">
                 <Image
-                  src="/editorial-hero.png"
+                  src={visual.src}
                   alt="Person walking on a slim walking pad under a standing desk in a small apartment"
                   width={1408}
                   height={768}

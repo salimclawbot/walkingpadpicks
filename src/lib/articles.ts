@@ -114,7 +114,7 @@ const articleMeta: Record<
     dateModified: "2026-03-10",
   },
   "walking-pad-vs-exercise-bike": {
-    title: "Walking Pad vs Exercise Bike: Which Burns More? (2026)",
+    title: "Walking Pad vs Exercise Bike: Which Fits Your Goals? (2026)",
     description:
       "Walking pad vs exercise bike compared: calorie burn at every intensity, joint impact, noise, and multitasking rated. Find which fits your goals →",
     category: "Comparison",
@@ -258,7 +258,7 @@ const articleMeta: Record<
     dateModified: "2026-03-13",
   },
   "can-you-lose-weight-with-a-walking-pad": {
-    title: "Can You Lose Weight with a Walking Pad? (Real Results)",
+    title: "Can a Walking Pad Support Weight Management? (Evidence-Based Guide)",
     description:
       "Can you lose weight with a walking pad? See real walking pad weight loss results for 2026, calorie math, and proven strategies to burn fat while working →",
     category: "Weight Loss Guide",
