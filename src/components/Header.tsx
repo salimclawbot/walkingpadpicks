@@ -63,6 +63,8 @@ export default function Header() {
             className="md:hidden p-2"
             onClick={() => setIsOpen(!isOpen)}
             aria-label="Toggle menu"
+            aria-expanded={isOpen}
+            aria-controls="mobile-primary-navigation"
           >
             <svg
               width="24"
@@ -82,7 +84,7 @@ export default function Header() {
         </div>
 
         {isOpen && (
-          <nav className="md:hidden pb-4 border-t border-gray-100">
+          <nav id="mobile-primary-navigation" aria-label="Mobile primary navigation" className="md:hidden pb-4 border-t border-gray-100">
             <div className="flex flex-col gap-2 pt-4">
               {[
                 { href: "/", label: "Home" },

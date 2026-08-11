@@ -27,8 +27,8 @@ export function getAmazonProductGroup(slug: string): AmazonProductGroup | null {
   const exact = groups[slug];
   if (exact) return exact;
 
-  const allowed = /(best-|review|buying-guide|mat|storage|noise|desk-setup|under-standing-desk|folding|quietest|worth-it|vs-treadmill|vs-regular-treadmill|vs-exercise-bike)/i.test(slug);
-  const denied = /(kids|seniors|safety|calories|lose-weight|weight-loss|steps-per-hour|maintenance|motivated)/i.test(slug);
+  const allowed = /(best-|review|buying-guide|mat|storage|noise|desk-setup|desk-ergonomics|while-working|maintenance|under-standing-desk|folding|quietest|worth-it|vs-treadmill|vs-regular-treadmill|vs-exercise-bike)/i.test(slug);
+  const denied = /(kids|seniors|safety|calories|lose-weight|weight-loss|steps-per-hour|motivated)/i.test(slug);
   if (!allowed || denied) return null;
 
   return {
