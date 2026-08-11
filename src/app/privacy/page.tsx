@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://walkingpadpicks.com/editorial-hero.png",
+        url: "https://www.walkingpadpicks.com/editorial-hero.png",
         width: 1200,
         height: 630,
       },
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Privacy Policy",
     description: "Read the WalkingPadPicks privacy policy for data handling, analytics, affiliate-cookie use, and practical protections for browsing security.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 export default function PrivacyPolicyPage() {

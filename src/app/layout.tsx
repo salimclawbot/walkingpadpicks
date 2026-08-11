@@ -16,7 +16,7 @@ export const metadata: Metadata = {
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
   metadataBase: new URL("https://www.walkingpadpicks.com"),
-  alternates: { canonical: "https://walkingpadpicks.com" },
+  alternates: { canonical: "https://www.walkingpadpicks.com" },
   openGraph: {
     siteName: "WalkingPadPicks",
     type: "website",
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     title: "WalkingPadPicks - Best Walking Pad Reviews & Buyer's Guides",
     description:
       "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
-    url: "https://walkingpadpicks.com",
+    url: "https://www.walkingpadpicks.com",
     images: [{ url: "https://www.walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: "WalkingPadPicks — Best Walking Pad Reviews" }],
   },
   twitter: {

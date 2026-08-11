@@ -1,21 +1,20 @@
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
 
+const legacyRoutes: Record<string, string> = {
+  "/walking-pad-vs-elliptical": "/walking-pad-vs-exercise-bike",
+  "/best-walking-pad-300-lb-capacity": "/best-walking-pad-heavy-users",
+};
+
 export function middleware(request: NextRequest) {
-  const { pathname, search } = request.nextUrl;
+  const destination = legacyRoutes[request.nextUrl.pathname];
+  if (!destination) return NextResponse.next();
 
-  if (pathname === "/guides") {
-    return NextResponse.redirect(new URL(`/${search}`, request.url), 301);
-  }
-
-  if (pathname.startsWith("/guides/")) {
-    const targetPath = pathname.replace(/^\/guides/, "") || "/";
-    return NextResponse.redirect(new URL(`${targetPath}${search}`, request.url), 301);
-  }
-
-  return NextResponse.next();
+  const url = request.nextUrl.clone();
+  url.pathname = destination;
+  return NextResponse.redirect(url, 308);
 }
 
 export const config = {
-  matcher: ["/guides", "/guides/:path*"],
+  matcher: ["/walking-pad-vs-elliptical", "/best-walking-pad-300-lb-capacity"],
 };

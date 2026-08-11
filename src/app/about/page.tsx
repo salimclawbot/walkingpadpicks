@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://walkingpadpicks.com/editorial-hero.png",
+        url: "https://www.walkingpadpicks.com/editorial-hero.png",
         width: 1200,
         height: 630,
       },
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "About Us",
     description: "Independent WalkingPadPicks reviews help people pick walking pads for desk work through transparent testing, clear comparisons, and practical buying guidance.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 export default function AboutPage() {

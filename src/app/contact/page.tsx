@@ -15,7 +15,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://walkingpadpicks.com/editorial-hero.png",
+        url: "https://www.walkingpadpicks.com/editorial-hero.png",
         width: 1200,
         height: 630,
       },
@@ -26,7 +26,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Contact Us",
     description: "Contact WalkingPadPicks for product suggestions, corrections, affiliate policy questions, and workspace-specific pad selection guidance.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 export default function ContactPage() {

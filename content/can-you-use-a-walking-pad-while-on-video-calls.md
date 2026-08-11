@@ -25,8 +25,6 @@ twitter_card: "summary_large_image"
 ]'
 ---
 
-# Can You Use a Walking Pad While on Video Calls? (2026 Guide)
-
 **The short answer is yes — you can use a walking pad while on video calls. The longer answer is that it depends on your camera setup, the noise level of your machine, and how you frame the call. With the right equipment and a few adjustments to your setup, walking during calls is not only possible, it can make you more alert, engaged, and productive than sitting through another hour of back-to-back meetings.**
 
 *By Sarah Mercer, Remote Work Productivity Specialist · Last updated April 2026*
@@ -153,7 +151,7 @@ If your camera is positioned low enough to capture your desk surface, your walki
 4. **Use a standing desk converter** — a taller standing desk surface raises your perspective and can naturally exclude the walking pad from frame
 
 <figure>
-<img src="https://images.unsplash.com/photo-1585974731811-3a63d5b79ad4?w=1200&q=80" alt="Close up of laptop webcam with adjustable arm mount on monitor, camera pointing slightly downward toward desk surface showing a walking pad beneath" />
+<img src="/editorial-hero.png" alt="Close up of laptop webcam with adjustable arm mount on monitor, camera pointing slightly downward toward desk surface showing a walking pad beneath" />
 <figcaption>An adjustable webcam arm lets you set eye-level height precisely — the foundation of a professional walking-pad call setup.</figcaption>
 </figure>
 

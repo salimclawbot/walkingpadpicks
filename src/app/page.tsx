@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Walking Pad Guide: Best Picks (2026)",
     description: "Find the best walking pad for your home office with independent reviews, detailed comparisons, buyer guides, and practical setup insights for under-desk treadmills and walking-pad workouts in 2026.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 const articles = [

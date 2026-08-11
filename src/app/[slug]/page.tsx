@@ -30,10 +30,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
   const articleImages = [
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
-    "https://walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-hero.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-infographic.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-size-comparison.png",
+    "https://www.walkingpadpicks.com/images/walking-pad-vs-treadmill-lifestyle.png",
   ];
 
   const title = normalizeMetaTitle(article.title);
@@ -44,25 +44,25 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     description,
     keywords: buildKeywords(article.title, article.category),
     alternates: {
-      canonical: `https://walkingpadpicks.com/${article.slug}`,
+      canonical: `https://www.walkingpadpicks.com/${article.slug}`,
     },
     openGraph: {
       title,
       description,
-      url: `https://walkingpadpicks.com/${article.slug}`,
+      url: `https://www.walkingpadpicks.com/${article.slug}`,
       siteName: "WalkingPadPicks",
       type: "article",
       publishedTime: article.date,
       images: isVsTreadmill
         ? articleImages.map((url) => ({ url }))
-        : [{ url: "https://walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: title }],
+        : [{ url: "https://www.walkingpadpicks.com/editorial-hero.png", width: 1200, height: 630, alt: title }],
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
       site: "@walkingpadpicks",
-      images: isVsTreadmill ? articleImages : ["https://walkingpadpicks.com/editorial-hero.png"],
+      images: isVsTreadmill ? articleImages : ["https://www.walkingpadpicks.com/editorial-hero.png"],
     },
   };
 }
@@ -462,8 +462,8 @@ export default async function ArticlePage({ params }: PageProps) {
     "@context": "https://schema.org",
     "@type": "BreadcrumbList",
     itemListElement: [
-      { "@type": "ListItem", position: 1, name: "Home", item: "https://walkingpadpicks.com" },
-      { "@type": "ListItem", position: 2, name: article.title, item: "https://walkingpadpicks.com/" + article.slug },
+      { "@type": "ListItem", position: 1, name: "Home", item: "https://www.walkingpadpicks.com" },
+      { "@type": "ListItem", position: 2, name: article.title, item: "https://www.walkingpadpicks.com/" + article.slug },
     ],
   };
 
@@ -478,12 +478,12 @@ export default async function ArticlePage({ params }: PageProps) {
       publisher: {
         "@type": "Organization",
         name: "Walking Pad Guide",
-        logo: { "@type": "ImageObject", url: "https://walkingpadpicks.com/editorial-hero.png" },
+        logo: { "@type": "ImageObject", url: "https://www.walkingpadpicks.com/editorial-hero.png" },
       },
-      image: ["https://walkingpadpicks.com/editorial-hero.png"],
+      image: ["https://www.walkingpadpicks.com/editorial-hero.png"],
       mainEntityOfPage: {
         "@type": "WebPage",
-        "@id": `https://walkingpadpicks.com/${article.slug}`,
+        "@id": `https://www.walkingpadpicks.com/${article.slug}`,
       },
     };
 

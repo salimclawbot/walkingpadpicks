@@ -1,7 +1,5 @@
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-# Walking Pad vs Regular Treadmill for Home Use: Complete Comparison Guide
-
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-vs-regular-treadmill-home-use-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-vs-regular-treadmill-home-use-demo.mp4" type="video/mp4">
 </video>
@@ -510,7 +508,7 @@ This comparison is based on:
     "name": "Walking Pad Picks",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://walkingpadpicks.com/logo.png"
+      "url": "https://www.walkingpadpicks.com/logo.png"
     }
   }
 }

@@ -10,15 +10,13 @@ author: "Walking Pad Picks Editorial Team"
 og_title: "Walking Pad Desk Setup: Complete Ergonomics Guide"
 og_description: "Walking pad desk ergonomics guide: screen height, keyboard position, ideal walking speed for typing, posture fixes and must-have accessories. Set up right."
 og_type: "article"
-og_url: "https://walkingpadpicks.com/walking-pad-desk-ergonomics"
-og_image: "https://walkingpadpicks.com/images/og-default.jpg"
+og_url: "https://www.walkingpadpicks.com/walking-pad-desk-ergonomics"
+og_image: "https://www.walkingpadpicks.com/images/og-default.jpg"
 twitter_card: "summary_large_image"
 twitter_title: "Walking Pad Desk Setup: Complete Ergonomics Guide"
 twitter_description: "Walking pad desk ergonomics guide: screen height, keyboard position, ideal walking speed for typing, posture fixes and must-have accessories. Set up right."
-twitter_image: "https://walkingpadpicks.com/images/og-default.jpg"
+twitter_image: "https://www.walkingpadpicks.com/images/og-default.jpg"
 ---
-
-# Walking Pad Desk Setup: Complete Ergonomics Guide
 
 By Walking Pad Picks Editorial Team
 

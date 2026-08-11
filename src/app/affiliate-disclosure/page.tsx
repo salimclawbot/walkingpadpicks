@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://walkingpadpicks.com/editorial-hero.png",
+        url: "https://www.walkingpadpicks.com/editorial-hero.png",
         width: 1200,
         height: 630,
       },
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Affiliate Disclosure",
     description: "Affiliate disclosure explains how we earn commissions, keep affiliate relationships transparent, and maintain review rankings based on independent testing.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 export default function AffiliateDisclosurePage() {

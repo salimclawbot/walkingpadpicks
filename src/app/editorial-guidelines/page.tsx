@@ -5,12 +5,12 @@ export const metadata: Metadata = { title: "Editorial Guidelines | Walking Pad P
   openGraph: {
     title: "Editorial Guidelines | Walking Pad Picks",
     description: "WalkingPadPicks publishes review standards, evidence checks, and ranking rules to keep recommendations transparent and measurable.",
-    url: "https://walkingpadpicks.com/editorial-guidelines",
+    url: "https://www.walkingpadpicks.com/editorial-guidelines",
     siteName: "Walking Pad Picks",
     type: "website",
     images: [
       {
-        url: "https://walkingpadpicks.com/editorial-hero.png",
+        url: "https://www.walkingpadpicks.com/editorial-hero.png",
         width: 1200,
         height: 630,
       },
@@ -21,7 +21,7 @@ export const metadata: Metadata = { title: "Editorial Guidelines | Walking Pad P
     card: "summary_large_image",
     title: "Editorial Guidelines | Walking Pad Picks",
     description: "WalkingPadPicks publishes review standards, evidence checks, and ranking rules to keep recommendations transparent and measurable.",
-    images: ["https://walkingpadpicks.com/editorial-hero.png"],
+    images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
   }};
 
 export default function EditorialGuidelinesPage() {

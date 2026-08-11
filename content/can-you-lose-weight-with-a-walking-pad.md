@@ -1,7 +1,5 @@
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-# Can You Lose Weight with a Walking Pad? (Real Results 2026)
-
 **Yes — you can absolutely lose weight with a walking pad. Walking at 2.0–2.5 mph for 60–90 minutes daily burns an extra 200–350 calories, creating a weekly deficit large enough to lose 0.5–1 lb of fat without setting foot in a gym. The secret is NEAT: non-exercise activity thermogenesis — the calories your body burns during low-intensity movement woven into your workday.**
 
 By Walking Pad Picks Editorial Team

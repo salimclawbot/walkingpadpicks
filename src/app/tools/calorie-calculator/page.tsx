@@ -81,13 +81,13 @@ export default function CalorieCalculatorPage() {
 
       <meta property="og:title" content="Walking Pad Calorie Calculator — How Many Calories Do You Burn?" />
       <meta property="og:description" content="Calculate exactly how many calories you burn on your walking pad based on your weight, speed, and duration. Free instant results." />
-      <meta property="og:image" content="https://walkingpadpicks.com/images/calorie-calculator-og.jpg" />
-      <meta property="og:url" content="https://walkingpadpicks.com/tools/calorie-calculator" />
+      <meta property="og:image" content="https://www.walkingpadpicks.com/images/calorie-calculator-og.jpg" />
+      <meta property="og:url" content="https://www.walkingpadpicks.com/tools/calorie-calculator" />
       <meta property="og:type" content="article" />
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Walking Pad Calorie Calculator — How Many Calories Do You Burn?" />
       <meta name="twitter:description" content="Calculate exactly how many calories you burn on your walking pad based on your weight, speed, and duration. Free instant results." />
-      <link rel="canonical" href="https://walkingpadpicks.com/tools/calorie-calculator" />
+      <link rel="canonical" href="https://www.walkingpadpicks.com/tools/calorie-calculator" />
 
       <script
         type="application/ld+json"
@@ -117,7 +117,7 @@ export default function CalorieCalculatorPage() {
             publisher: {
               "@type": "Organization",
               name: "Walking Pad Picks",
-              url: "https://walkingpadpicks.com",
+              url: "https://www.walkingpadpicks.com",
             },
             description: "WalkingPadPicks offers a practical calorie-calculator tool with transparent ranking logic and clear affiliate disclosure.",
           }),
