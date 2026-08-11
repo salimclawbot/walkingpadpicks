@@ -17,9 +17,9 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">
+            <p className="text-sm font-semibold text-white uppercase tracking-wider mb-4">
               Guides
-            </h3>
+            </p>
             <ul className="space-y-2">
               {[
                 { href: "/best-walking-pads-2026", label: "Best Walking Pads 2026" },
@@ -41,9 +41,9 @@ export default function Footer() {
           </div>
 
           <div>
-            <h3 className="text-sm font-semibold text-white uppercase tracking-wider mb-4">
+            <p className="text-sm font-semibold text-white uppercase tracking-wider mb-4">
               Company
-            </h3>
+            </p>
             <ul className="space-y-2">
               {[
                 { href: "/about", label: "About Us" },

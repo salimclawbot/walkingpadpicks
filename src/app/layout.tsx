@@ -15,6 +15,13 @@ export const metadata: Metadata = {
   },
   description:
     "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
+  keywords: ["walking pads","under desk treadmills","walking pad reviews","home fitness","treadmill comparisons"],
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, "max-image-preview": "large", "max-snippet": -1, "max-video-preview": -1 },
+  },
+
   metadataBase: new URL("https://www.walkingpadpicks.com"),
   alternates: { canonical: "https://www.walkingpadpicks.com" },
   openGraph: {
@@ -33,10 +40,6 @@ export const metadata: Metadata = {
     description:
       "Find the best walking pad for your home office. Independent reviews, comparisons, and buyer's guides for under-desk treadmills and walking pads.",
     images: ["https://www.walkingpadpicks.com/editorial-hero.png"],
-  },
-  robots: {
-    index: true,
-    follow: true,
   },
 };
 

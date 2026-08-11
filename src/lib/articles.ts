@@ -323,7 +323,7 @@ const articleMeta: Record<
     date: "2026-04-07",
     dateModified: "2026-04-07",
   },
-  "walking-pad-vs-treadmill-for-home-use": { title: "Walking Pad vs Treadmill for Home Use: Which Is Better in 2026?", description: "A comprehensive guide comparing walking pads and treadmills for home use in 2026.", category: "Walking Pad Guides", date: "2026-04-09", dateModified: "2026-04-09" },
+  "walking-pad-vs-treadmill-for-home-use": { title: "Walking Pad vs Treadmill for Home Use: Which Is Better in 2026?", description: "Compare walking pads and home treadmills by speed, footprint, desk compatibility, noise, training range, storage, safety features, and total ownership cost.", category: "Walking Pad Guides", date: "2026-04-09", dateModified: "2026-04-09" },
   "how-many-steps-per-hour-walking-pad": { title: "How Many Steps Per Hour on a Walking Pad? (2026)", description: "How many steps per hour on a walking pad? This 2026 speed guide covers every mph zone with step counts backed by exercise science.", category: "Walking Pad Guides", date: "2026-04-14", dateModified: "2026-04-14" },
 };
 

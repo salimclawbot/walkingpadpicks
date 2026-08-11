@@ -1,3 +1,4 @@
+import { normalizeArticleHeadings as normalizeRenderedArticleHeadings } from "@/lib/article-copy";
 import { Metadata } from "next";
 import AmazonProductShowcase from "@/components/AmazonProductShowcase";
 import { getAmazonProductGroup } from "@/lib/amazon-product-registry";
@@ -455,7 +456,7 @@ export default async function ArticlePage({ params }: PageProps) {
   if (!article) notFound();
 
   const isVsTreadmill = params.slug === "walking-pad-vs-treadmill";
-  const { html: normalizedHtml, toc: generatedToc } = normalizeArticleHtml(article.htmlContent, article.title);
+  const { html: normalizedHtml, toc: generatedToc } = normalizeArticleHtml(normalizeRenderedArticleHeadings(article.htmlContent), article.title);
   const normalizedToc = isVsTreadmill ? vsTreadmillToc : generatedToc;
   const amazonProductGroup = getAmazonProductGroup(article.slug);
   const breadcrumbs = {
