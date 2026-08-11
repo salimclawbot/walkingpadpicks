@@ -4,8 +4,7 @@ import { breadcrumbSchema } from "@/components/Breadcrumbs";
 
 export const metadata: Metadata = {
   title: { absolute: "Best Walking Pads 2026: Specification-Based & Reviewed" },
-  description:
-    "Find the best walking pad for your home office with independent reviews, detailed comparisons, buyer guides, and practical setup insights for under-desk treadmills and walking-pad workouts in 2026.",
+  description: "Independent walking pad comparisons, setup guides, weight-limit explainers, and practical buying advice for safer, quieter under-desk walking.",
   alternates: { canonical: "https://www.walkingpadpicks.com" },
   openGraph: {
     title: "Walking Pad Guide: Best Picks (2026)",
