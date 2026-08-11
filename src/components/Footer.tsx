@@ -27,6 +27,8 @@ export default function Footer() {
                 { href: "/walking-pad-vs-treadmill", label: "Walking Pad vs Treadmill" },
                 { href: "/are-walking-pads-worth-it", label: "Are Walking Pads Worth It?" },
                 { href: "/walking-pad-while-working", label: "Walking Pad While Working" },
+                { href: "/walking-pad-vs-treadmill-home-use", label: "Walking Pad vs Treadmill at Home" },
+                { href: "/walking-pad-for-kids", label: "Walking Pads for Families" },
               ].map((link) => (
                 <li key={link.href}>
                   <Link
