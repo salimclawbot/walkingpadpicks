@@ -6,6 +6,7 @@ const legacyRoutes: Record<string, string> = {
   "/best-walking-pad-300-lb-capacity": "/best-walking-pad-heavy-users",
   "/best-walking-pad-for-apartments": "/best-walking-pad-for-small-apartments",
   "/best-walking-pad-small-apartments": "/best-walking-pad-for-small-apartments",
+  "/best-folding-walking-pad": "/best-folding-walking-pad-storage",
   "/walking-pad-buying-guide-2026": "/walking-pad-buying-guide",
 };
 

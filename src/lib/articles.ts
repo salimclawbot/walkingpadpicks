@@ -374,7 +374,13 @@ function processContent(raw: string): string {
 }
 
 export async function getArticle(slug: string): Promise<Article | null> {
-  const filePath = path.join(CONTENT_DIR, `${slug}.md`);
+  const sourceAliases: Record<string, string> = {
+    // The canonical apartment route previously contained a duplicated exercise-bike draft.
+    // Keep the public URL stable while loading the correct legacy apartment guide.
+    "best-walking-pad-for-small-apartments": "best-walking-pad-small-apartments",
+  };
+  const sourceSlug = sourceAliases[slug] ?? slug;
+  const filePath = path.join(CONTENT_DIR, `${sourceSlug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, "utf-8");
@@ -388,7 +394,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
     // Preserve legacy articles whose generated schema fields are not valid YAML.
     // New and corrected articles still use parsed front matter.
   }
-  const legacyMeta = articleMeta[slug];
+  const legacyMeta = articleMeta[sourceSlug] ?? articleMeta[slug];
   const title = String(data.title || legacyMeta?.title || slug.replace(/-/g, " "));
   const meta = {
     title,
@@ -451,6 +457,7 @@ export function getAllSlugs(): string[] {
   const consolidated = new Set([
     "best-walking-pad-for-apartments",
     "best-walking-pad-small-apartments",
+    "best-folding-walking-pad",
     "walking-pad-buying-guide-2026",
   ]);
   const contentSlugs = fs.existsSync(CONTENT_DIR)

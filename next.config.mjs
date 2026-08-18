@@ -16,12 +16,6 @@ const nextConfig = {
         destination: "/best-walking-pad-heavy-users",
         permanent: true,
       },
-      // DUPLICATE URL FIX (2026-03-23): 301 redirect old slug → canonical 2026 version
-      {
-        source: "/walking-pad-buying-guide",
-        destination: "/walking-pad-buying-guide-2026",
-        permanent: true,
-      },
     ];
   },
 };
