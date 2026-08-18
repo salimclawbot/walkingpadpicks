@@ -76,7 +76,7 @@ Search the manual for:
 - Storage orientation.
 - Cleaning and maintenance.
 
-KingSmith’s official [support page](https://www.kingsmithfitness.com/support?lang=en-us) provides model-specific manual downloads and warns that regional devices differ, so users should refer to the printed manual for specific information. That is more reliable than a generic retailer answer.
+KingSmith’s official [WalkingPad FAQ](https://asia.kingsmith.com/pages/faq) warns that a very soft mat can interfere with the machine’s sensors and that an uneven floor can cause the same problem. That reinforces the need to follow the printed manual for the exact model and region rather than relying on a generic retailer answer.
 
 One WalkingPad manual hosted by a major retailer instructs users to choose flat ground and says not to place the unit on a thick, soft cushion. Other model manuals explicitly warn against thick, soft carpet or mats because sensors may not work properly. These examples show why “my friend uses one on carpet” cannot establish compatibility for another model.
 
@@ -369,7 +369,7 @@ This guide was prepared by the Walking Pad Picks Editorial Team. We prioritized 
 
 Sources:
 
-- [KingSmith official support and model manuals](https://www.kingsmithfitness.com/support?lang=en-us)
+- [KingSmith official WalkingPad FAQ](https://asia.kingsmith.com/pages/faq)
 - [KingSmith/WalkingPad manual example: flat ground and no thick soft cushion](https://pdf.lowes.com/productdocuments/82c5416d-db5a-4b65-8501-d32418273516/60168244.pdf)
 - [CPSC treadmill standards work on rear-roller entrapment](https://www.cpsc.gov/s3fs-public/2022-05-18%20%20ASTM%20F08.30%20Treadmill%20Task%20Group%20Meeting.pdf)
 - [CPSC treadmill recall and incident context](https://www.cpsc.gov/Newsroom/News-Releases/2021/CPSC-and-Peloton-Announce-Recall-of-Tread-Plus-Treadmills-After-One-Child-Death-and-70-Incidents-Recall-of-Tread-Treadmills-Due-to-Risk-of-Injury)
