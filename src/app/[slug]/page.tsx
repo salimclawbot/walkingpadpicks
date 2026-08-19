@@ -3,6 +3,7 @@ import { Metadata } from "next";
 import AmazonProductShowcase from "@/components/AmazonProductShowcase";
 import { getAmazonProductGroup } from "@/lib/amazon-product-registry";
 import AffiliateDisclosureNotice from "@/components/AffiliateDisclosureNotice";
+import ContextualAmazonPlacements from "@/components/ContextualAmazonPlacements";
 import { notFound } from "next/navigation";
 import Image from "next/image";
 import Link from "next/link";
@@ -592,6 +593,7 @@ export default async function ArticlePage({ params }: PageProps) {
         </figure>
         <AffiliateDisclosureNotice />
         <AmazonProductShowcase group={amazonProductGroup} slug={article.slug} />
+        <ContextualAmazonPlacements group={amazonProductGroup} slug={article.slug} />
 
         {isVsTreadmill && (
           <>
