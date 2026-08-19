@@ -1,5 +1,6 @@
 import fs from "fs";
 import path from "path";
+import matter from "gray-matter";
 import { remark } from "remark";
 import html from "remark-html";
 import remarkGfm from "remark-gfm";
@@ -373,14 +374,36 @@ function processContent(raw: string): string {
 }
 
 export async function getArticle(slug: string): Promise<Article | null> {
-  const meta = articleMeta[slug];
-  if (!meta) return null;
-
-  const filePath = path.join(CONTENT_DIR, `${slug}.md`);
+  const sourceAliases: Record<string, string> = {
+    // The canonical apartment route previously contained a duplicated exercise-bike draft.
+    // Keep the public URL stable while loading the correct legacy apartment guide.
+    "best-walking-pad-for-small-apartments": "best-walking-pad-small-apartments",
+  };
+  const sourceSlug = sourceAliases[slug] ?? slug;
+  const filePath = path.join(CONTENT_DIR, `${sourceSlug}.md`);
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, "utf-8");
-  const processed = processContent(raw);
+  let data: Record<string, unknown> = {};
+  let markdown = raw;
+  try {
+    const parsed = matter(raw);
+    data = parsed.data as Record<string, unknown>;
+    markdown = parsed.content;
+  } catch {
+    // Preserve legacy articles whose generated schema fields are not valid YAML.
+    // New and corrected articles still use parsed front matter.
+  }
+  const legacyMeta = articleMeta[sourceSlug] ?? articleMeta[slug];
+  const title = String(data.title || legacyMeta?.title || slug.replace(/-/g, " "));
+  const meta = {
+    title,
+    description: String(data.description || data.meta_description || legacyMeta?.description || title),
+    category: String(data.category || legacyMeta?.category || "Guide"),
+    date: String(data.publishedAt || data.datePublished || legacyMeta?.date || "2026-03-10"),
+    dateModified: String(data.dateModified || data.publishedAt || data.datePublished || legacyMeta?.dateModified || legacyMeta?.date || "2026-03-10"),
+  };
+  const processed = processContent(markdown);
 
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(processed);
   let htmlContent = result.toString();
@@ -412,7 +435,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
   );
 
   // Extract first paragraph as excerpt
-  const excerptMatch = raw.match(/\*\*(.*?)\*\*/);
+  const excerptMatch = markdown.match(/\*\*(.*?)\*\*/);
   const excerpt = excerptMatch
     ? excerptMatch[1].replace(/\[VERIFY(?::.*?)?\]/g, "").replace(/\[INTERNAL:.*?\]/g, "").trim()
     : meta.description;
@@ -431,7 +454,16 @@ export async function getArticle(slug: string): Promise<Article | null> {
 }
 
 export function getAllSlugs(): string[] {
-  return Object.keys(articleMeta);
+  const consolidated = new Set([
+    "best-walking-pad-for-apartments",
+    "best-walking-pad-small-apartments",
+    "best-folding-walking-pad",
+    "walking-pad-buying-guide-2026",
+  ]);
+  const contentSlugs = fs.existsSync(CONTENT_DIR)
+    ? fs.readdirSync(CONTENT_DIR).filter((file) => file.endsWith(".md")).map((file) => file.replace(/\.md$/, ""))
+    : [];
+  return Array.from(new Set([...Object.keys(articleMeta), ...contentSlugs])).filter((slug) => !consolidated.has(slug));
 }
 
 export async function getAllArticles(): Promise<Article[]> {
