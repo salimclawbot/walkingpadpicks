@@ -106,18 +106,6 @@ function TableOfContents({ items }: { items: TocItem[] }) {
 
 /* ---------- Comparison Table with Product Images ---------- */
 
-interface ProductRow {
-  name: string;
-  type: "Walking Pad" | "Under-Desk Treadmill";
-  maxSpeed: string;
-  beltSize: string;
-  weight: string;
-  price: string;
-  amazonQuery: string;
-  imageSrc: string;
-  imageAlt: string;
-}
-
 function FaqSection({ items, slug }: { items: { question: string; answer: string }[]; slug: string }) {
   if (!items.length) return null;
   return (
@@ -137,120 +125,29 @@ function FaqSection({ items, slug }: { items: { question: string; answer: string
   );
 }
 
-const comparisonProducts: ProductRow[] = [
-  {
-    name: "WalkingPad C2",
-    type: "Walking Pad",
-    maxSpeed: "3.7 mph",
-    beltSize: "16\" x 40\"",
-    weight: "33 lbs",
-    price: "$249",
-    amazonQuery: "WalkingPad+C2+walking+pad",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "WalkingPad C2 walking pad product image",
-  },
-  {
-    name: "Sperax Walking Pad",
-    type: "Walking Pad",
-    maxSpeed: "4 mph",
-    beltSize: "17\" x 42\"",
-    weight: "44 lbs",
-    price: "$199",
-    amazonQuery: "Sperax+walking+pad",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "Sperax walking pad product image",
-  },
-  {
-    name: "UREVO 2-in-1",
-    type: "Walking Pad",
-    maxSpeed: "4 mph",
-    beltSize: "16.5\" x 43\"",
-    weight: "55 lbs",
-    price: "$229",
-    amazonQuery: "UREVO+2+in+1+walking+pad",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "UREVO 2-in-1 walking pad product image",
-  },
-  {
-    name: "Goplus 2-in-1",
-    type: "Under-Desk Treadmill",
-    maxSpeed: "6 mph",
-    beltSize: "17\" x 45\"",
-    weight: "60 lbs",
-    price: "$329",
-    amazonQuery: "Goplus+2+in+1+under+desk+treadmill",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "Goplus 2-in-1 under-desk treadmill product image",
-  },
-  {
-    name: "UMAY Under Desk",
-    type: "Under-Desk Treadmill",
-    maxSpeed: "6 mph",
-    beltSize: "18\" x 47\"",
-    weight: "66 lbs",
-    price: "$379",
-    amazonQuery: "UMAY+under+desk+treadmill",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "UMAY under-desk treadmill product image",
-  },
-  {
-    name: "WalkingPad R2",
-    type: "Under-Desk Treadmill",
-    maxSpeed: "7.5 mph",
-    beltSize: "18\" x 48\"",
-    weight: "72 lbs",
-    price: "$599",
-    amazonQuery: "WalkingPad+R2+treadmill",
-    imageSrc: "/editorial-hero.png",
-    imageAlt: "WalkingPad R2 treadmill product image",
-  },
-];
-
 function ComparisonTableWithProducts() {
+  const rows = [
+    ["Primary use", "Low-speed walking in a compact work area", "Walking or running where the exact model permits it"],
+    ["Space check", "Operating and storage dimensions", "Operating footprint plus safe access around the machine"],
+    ["Control check", "Reachable stop and speed controls", "Console, key and handrail configuration"],
+    ["Evidence needed", "Exact model manual, limits and current safety status", "Exact model manual, limits and current safety status"],
+  ];
   return (
     <div className="overflow-x-auto my-8">
       <table className="w-full border-collapse text-sm">
         <thead>
           <tr className="bg-teal-600 text-white">
-            <th className="p-3 text-left">Product</th>
-            <th className="p-3 text-left">Type</th>
-            <th className="p-3 text-center">Max Speed</th>
-            <th className="p-3 text-center">Belt Size</th>
-            <th className="p-3 text-center">Weight</th>
-            <th className="p-3 text-center">Price</th>
-            <th className="p-3 text-center">Link</th>
+            <th className="p-3 text-left">Decision point</th>
+            <th className="p-3 text-left">Walking pad</th>
+            <th className="p-3 text-left">Conventional treadmill</th>
           </tr>
         </thead>
         <tbody>
-          {comparisonProducts.map((p, i) => (
-            <tr key={p.name} className={i % 2 === 0 ? "bg-white" : "bg-gray-50"}>
-              <td className="p-3">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={p.imageSrc}
-                  alt={p.imageAlt}
-                  width={150}
-                  height={150}
-                  loading="lazy"
-                  referrerPolicy="no-referrer"
-                  className="rounded-lg mx-auto border border-gray-200 object-cover"
-                />
-              </td>
-              <td className="p-3 font-medium">{p.type}</td>
-              <td className="p-3 text-center">{p.maxSpeed}</td>
-              <td className="p-3 text-center">{p.beltSize}</td>
-              <td className="p-3 text-center">{p.weight}</td>
-              <td className="p-3 text-center font-semibold text-teal-700">{p.price}</td>
-              <td className="p-3 text-center">
-                <a
-                  href={`https://www.amazon.com/s?k=${p.amazonQuery}&tag=walkingpadpicks-20`}
-                  target="_blank"
-                  rel="noopener noreferrer nofollow sponsored"
-                  className="inline-block bg-teal-600 text-white text-xs font-semibold px-3 py-2 rounded hover:bg-teal-700 transition-colors"
-                >
-                  Check Price on Amazon
-                </a>
-              </td>
+          {rows.map((row, i) => (
+            <tr key={row[0]} className={i % 2 === 0 ? "bg-white" : "bg-gray-50"}>
+              <td className="p-3 font-semibold">{row[0]}</td>
+              <td className="p-3">{row[1]}</td>
+              <td className="p-3">{row[2]}</td>
             </tr>
           ))}
         </tbody>

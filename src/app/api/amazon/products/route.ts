@@ -11,6 +11,8 @@ type AmazonApiItem = {
   offersV2?: { listings?: Array<{ availability?: { message?: string } }> };
 };
 
+const BLOCKED_PRODUCT_TITLE = /\bsperax\b/i;
+
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
 
@@ -203,7 +205,10 @@ export async function GET(request: NextRequest) {
       });
       if (!response.ok) throw new Error("Amazon catalog search failed");
       const payload = await response.json();
-      products = (payload?.searchResult?.items || []).slice(0, 3).map((item: AmazonApiItem) => present(item));
+      products = (payload?.searchResult?.items || [])
+        .filter((item: AmazonApiItem) => !BLOCKED_PRODUCT_TITLE.test(item.itemInfo?.title?.displayValue || ""))
+        .slice(0, 3)
+        .map((item: AmazonApiItem) => present(item));
     }
 
     const checkedAt = new Date().toISOString();
