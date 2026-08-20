@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-storage-tips-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-storage-tips-demo.mp4" type="video/mp4">
 </video>
@@ -302,7 +304,6 @@ Closet storage adds 30–60 seconds to each use: open closet, extract pad, carry
 | **WalkingPad C2 Mini** | Foldable | Upright against wall | 25" × 21" (3.6 sq ft) | Lightest at 33 lbs; easy to fold and stand |
 | **WalkingPad R2** | Foldable | Upright against wall | 29" × 24" (4.8 sq ft) | Premium; magnetic lock holds fold securely |
 | **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | Flat | Under desk | 55" × 23" × 4.5" | Designed for slide-under storage |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | Flat (non-foldable) | Under desk or bed | 56" × 24" × 4.7" | Heavier (44 lbs); use furniture sliders |
 | **Goplus 2-in-1** | Handlebar folds | Against wall (unfolded pad, handle down) | Full pad length against wall | Handle folds — pad does not; needs floor space |
 | **REDLIRO** | Foldable | Upright against wall or in closet | 28" × 23" (4.5 sq ft) | Strap lock for upright stability |
 | **[UREVO 2T](https://www.amazon.com/s?k=UREVO+2T+Walking+Pad&tag=walkingpadpicks-20)** | Flat | Under desk or bed | 54" × 23" × 4.8" | Slim profile; slides easily |

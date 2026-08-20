@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/reduce-walking-pad-noise-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/reduce-walking-pad-noise-demo.mp4" type="video/mp4">
 </video>
@@ -263,7 +265,6 @@ The proactive approach: before your neighbor complains, mention that you use a w
 | **[WalkingPad R2](https://www.amazon.com/s?k=WalkingPad+R2&tag=walkingpadpicks-20)** | Brushless | ~38–42 dB | ✅ Quietest |
 | **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)** | Brushless | ~40–44 dB | ✅ Very quiet |
 | **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | Brushed | ~42–46 dB | ✅ Quiet |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | Brushed | ~44–48 dB | ⚠️ Moderate |
 | **[Goplus 2-in-1](https://www.amazon.com/s?k=Goplus+2+in+1+Walking+Pad&tag=walkingpadpicks-20)** | Brushed | ~46–50 dB | ⚠️ Moderate |
 | **[REDLIRO](https://www.amazon.com/s?k=REDLIRO+Walking+Treadmill&tag=walkingpadpicks-20)** | Brushed | ~46–50 dB | ⚠️ Moderate |
 | **[UREVO 2T](https://www.amazon.com/s?k=UREVO+2T+Walking+Pad&tag=walkingpadpicks-20)** | Brushed | ~44–48 dB | ⚠️ Moderate |

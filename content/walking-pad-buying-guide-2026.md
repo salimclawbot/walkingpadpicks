@@ -9,6 +9,8 @@ dateModified: "2026-03-23"
 author: "Walking Pad Picks Editorial Team"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 **Disclosure:** WalkingPadPicks may earn commissions from qualifying purchases. This does not influence our recommendations.
 
 By Walking Pad Picks Editorial Team
@@ -228,7 +230,6 @@ When your foot strikes the belt, momentary force spikes to 1.2–1.5× your body
 - LifeSpan TR1200-DT3: 300 lbs (136 kg)
 - Goplus 2-in-1 Folding Treadmill: 265 lbs
 - UMAY Under Desk Treadmill: 265 lbs
-- Sperax Walking Pad: 320 lbs (145 kg)
 
 ### What Happens When You Exceed Capacity
 
@@ -396,22 +397,6 @@ For a more comprehensive look at safe usage practices, our [walking pad safety t
   </div>
 
   <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
-    <img src="/images/articles/walking-pad-buying-guide-2026/noise-level-test.jpg" alt="Sperax Walking Pad with wide belt" style="width:100%;height:150px;object-fit:cover;border-radius:8px;margin-bottom:1rem;">
-    <h3 style="margin:0 0 0.5rem;">Sperax Walking Pad</h3>
-    <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.5rem;">Best for Heavy Users</p>
-    <p style="font-weight:700;color:#1d4ed8;margin:0 0 0.75rem;">~$350–400</p>
-    <ul style="font-size:0.85rem;padding-left:1.2rem;margin:0 0 1rem;">
-      <li>2.5 HP motor, max 6 mph</li>
-      <li>17.7" × 44" belt</li>
-      <li>320 lb capacity</li>
-      <li>LED display + remote</li>
-      <li>Wide belt for comfortable stride</li>
-    </ul>
-    <a href="https://www.amazon.com/s?k=Sperax+Walking+Pad+320+lb&tag=walkingpadpicks-20" style="display:block;background:#ff9900;color:#111;text-align:center;padding:0.6rem;border-radius:8px;text-decoration:none;font-weight:600;" rel="nofollow sponsored noopener">View on Amazon</a>
-  </div>
-
-  <div style="border:1px solid #e2e8f0;border-radius:12px;padding:1.5rem;background:#fff;">
-    <img src="/images/articles/walking-pad-buying-guide-2026/deck-size-comparison.jpg" alt="WalkingPad R2 Pro premium walking pad" style="width:100%;height:150px;object-fit:cover;border-radius:8px;margin-bottom:1rem;">
     <h3 style="margin:0 0 0.5rem;">WalkingPad R2 Pro</h3>
     <p style="color:#64748b;font-size:0.9rem;margin:0 0 0.5rem;">Best Premium Pick</p>
     <p style="font-weight:700;color:#1d4ed8;margin:0 0 0.75rem;">~$550–650</p>
@@ -533,11 +518,9 @@ For desk work, 0.5–4 mph covers all use cases. Most users settle at 1.5–2.5 
 - WalkingPad A1 Pro, C2, R2 Pro specifications from KingSmith/WalkingPad official pages
 - LifeSpan TR1200-DT3 specifications from LifeSpan Fitness official pages
 - UMAY Under Desk Treadmill specifications from manufacturer
-- Sperax Walking Pad specifications from manufacturer
 - Pricing reflects typical US retail at publication (March 2026)
 
 ---
-
 
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

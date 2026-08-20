@@ -32,6 +32,8 @@ For most people walking 1–3 hours per day at 1.5–3 mph, a sub-$200 walking p
 For everyone else, the models below prove that affordable under-desk treadmills can deliver genuine value. Not sure if a walking pad fits your workflow at all? Read  before buying.
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 ## Best Walking Pads Under $200: Comparison Table
 
 ![Price comparison infographic for walking pads under $200.](/images/wp/under-200/price-comparison-infographic.png)
@@ -40,7 +42,6 @@ For everyone else, the models below prove that affordable under-desk treadmills 
 
 | Model | Price | Max Speed | Motor | Belt Size (W x L) | Weight Capacity | Weight | Foldable | Rating |
 |---|---|---|---|---|---|---|---|---|
-| **[Sperax 2S Folding Pad](https://www.amazon.com/s?k=Sperax+2S+Folding+Walking+Pad&tag=walkingpadpicks-20)** | ~$150 [VERIFY] | 4 mph [VERIFY] | 2.0 HP [VERIFY] | 16" x 41" [VERIFY] | 220 lbs [VERIFY] | 37 lbs [VERIFY] | Yes | 4.3/5 [VERIFY] |
 | **[Goplus SuperFit A2 2-in-1 Folding Treadmill](https://www.amazon.com/s?k=Goplus+SuperFit+A2+Folding+Treadmill&tag=walkingpadpicks-20)** | ~$190 [VERIFY] | 4 mph (6 mph with handle) [VERIFY] | 2.25 HP [VERIFY] | 16.5" x 40" [VERIFY] | 265 lbs [VERIFY] | 55 lbs [VERIFY] | Yes | 4.2/5 [VERIFY] |
 | **[UMAY Under Desk Treadmill](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | ~$160 [VERIFY] | 4 mph [VERIFY] | 2.0 HP [VERIFY] | 16" x 42" [VERIFY] | 240 lbs [VERIFY] | 44 lbs [VERIFY] | No (flat design) | 4.1/5 [VERIFY] |
 | **[CITYSPORTS CS-WP3 Walking Pad](https://www.amazon.com/s?k=CITYSPORTS+CS-WP3+Walking+Pad&tag=walkingpadpicks-20)** | ~$170 [VERIFY] | 4 mph [VERIFY] | 1.5 HP [VERIFY] | 15.7" x 40" [VERIFY] | 220 lbs [VERIFY] | 33 lbs [VERIFY] | Yes | 4.0/5 [VERIFY] |
@@ -54,45 +55,6 @@ For everyone else, the models below prove that affordable under-desk treadmills 
 ---
 
 ## Detailed Reviews: Top 5 Budget Walking Pads
-
-### 1. Sperax 2S Folding Pad — Best Overall Under $200
-
-**Price:** ~$150 [VERIFY]
-
-The Sperax 2S Folding Pad consistently ranks as one of the best-selling budget walking pads, and for good reason. It delivers a reliable walking experience with a surprisingly quiet motor at a price point that undercuts most competitors.
-
-**Key Specs:**
-- Motor: 2.0 HP [VERIFY]
-- Speed range: 0.5–4 mph [VERIFY]
-- Belt size: 16" x 41" [VERIFY]
-- Weight capacity: 220 lbs [VERIFY]
-- Unit weight: 37 lbs [VERIFY]
-- Noise level: Under 50 dB [VERIFY]
-- Display: LED embedded in the walking pad
-- Control: Remote control included
-
-**What We Like:**
-The Sperax 2S hits the sweet spot between price, portability, and performance. At around 37 lbs, it's light enough to move between rooms. The 2.0 HP motor handles sustained walking sessions without overheating, and noise levels are genuinely low — most users report being able to use it during video calls. The foldable design lets you slide it under a couch or bed. Setup is essentially plug-and-walk.
-
-**Pros:**
-- Excellent price-to-performance ratio
-- Quiet motor suitable for office environments
-- Lightweight and easy to store
-- Simple setup with no assembly required
-- Smooth speed transitions via remote
-
-**Cons:**
-- 220 lb weight limit excludes some users
-- Belt width (16") may feel narrow for larger users
-- No app connectivity
-- LED display is basic and hard to read from a distance
-- Belt may need lubrication after 3–6 months of heavy use
-
-**Who It's For:** Budget-conscious buyers who want a reliable, no-frills walking pad for daily desk use at moderate walking speeds.
-
-[Check on Amazon](https://www.amazon.com/s?k=Sperax+2S+Folding+Walking+Pad&tag=walkingpadpicks-20)
-
----
 
 ### 2. Goplus SuperFit A2 2-in-1 Folding Treadmill — Best Hybrid Under $200
 
@@ -351,7 +313,6 @@ Most walking pads operate at 40–50 dB [VERIFY] at walking speeds, which is qui
 
 The best walking pad under $200 is the one that fits your body, your space, and your work habits.
 
-- **Best overall:** Sperax 2S Folding Pad (~$150) — reliable, quiet, and affordable
 - **Best hybrid:** Goplus SuperFit A2 (~$190) — walk while working, jog when you're done
 - **Best for quiet operation:** UMAY Under Desk Treadmill (~$160) — brushless motor stands out
 - **Best motor power:** UREVO E3S 2-in-1 (~$180) — 2.5 HP and 7.5 mph capability

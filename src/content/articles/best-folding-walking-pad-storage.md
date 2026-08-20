@@ -8,6 +8,8 @@ dateModified: "2026-03-25"
 category: "Walking Pads"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 *This post contains affiliate links. We may earn a commission at no extra cost to you.*
 
 **By Sarah Mitchell, Certified Ergonomics Consultant** | Last updated March 2026
@@ -45,7 +47,6 @@ When folded, the variance between models is dramatic:
 | Urevo 2-in-1 | 90cm | 14cm | 28kg | Under-sofa |
 | NordicTrack T 6.5 Si | 95cm | 80cm | 50kg | Upright in corner |
 | Goplus 2-in-1 | 90cm | 15cm | 29kg | Under-bed |
-| Sperax Walking Treadmill | 92cm | 15cm | 27kg | Under-bed |
 
 The difference between a 13cm and 80cm folded height is enormous for apartment dwellers. A 13cm height can slide under most beds (standard beds clear 20–30cm from floor to frame). An 80cm folded height essentially requires a dedicated corner or closet space.
 
@@ -98,17 +99,6 @@ The difference between a 13cm and 80cm folded height is enormous for apartment d
     </div>
   </div>
   <div class="product-card">
-    <img src="/images/products/sperax.png" alt="Sperax Walking Pad foldable treadmill storage" />
-    <div class="product-card-info">
-      <h4>Sperax Walking Treadmill</h4>
-      <p><strong>Folded size:</strong> 92 × 57 × 15cm</p>
-      <p><strong>Weight:</strong> 27kg</p>
-      <p><strong>Max speed:</strong> 8 km/h</p>
-      <a href="https://www.amazon.com/s?k=Sperax+Folding+Walking+Pad+Treadmill&tag=walkingpadpicks-20" class="amazon-btn" target="_blank" rel="noopener noreferrer nofollow sponsored">Check on Amazon →</a>
-    </div>
-  </div>
-  <div class="product-card">
-    <img src="/images/products/walkingpad-r2.png" alt="WalkingPad R2 foldable running walking treadmill" />
     <div class="product-card-info">
       <h4>WalkingPad R2 (Running + Walking)</h4>
       <p><strong>Folded size:</strong> 95 × 60 × 15cm</p>
@@ -246,7 +236,6 @@ Modern folding walking pads run at 60–68 dB — comparable to a normal convers
 1. **American College of Sports Medicine**. (2022). Physical Activity Guidelines and Home Exercise Equipment. ACSM Guidelines.
 2. **Consumer Product Safety Commission**. Treadmill and Walking Pad safety standards and weight capacity testing protocols.
 3. **WalkingPad official specifications** (2025 model range). Accessed via product documentation.
-4. **Urevo, Goplus, Sperax technical specification sheets** (2025). Manufacturer documentation.
 5. **Independent user reviews**: Aggregated from verified Amazon purchasers (minimum 50 reviews per model, rating 4.0+).
 6. **Physical Activity Research Centre**. (2021). "Sedentary behaviour interventions in workplace settings." Journal of Occupational Health.
 
@@ -307,22 +296,6 @@ The Goplus has established itself as the go-to recommendation for budget shopper
 **What you keep:** The core function — a walking pad that folds flat and stores under a bed.
 
 **Who it's for:** Users who want the under-bed storage format without spending $600+.
-
----
-
-### 4. Sperax Walking Treadmill — Best for Quiet Operation
-
-The Sperax is notable for its brushless magnetic motor, which runs significantly quieter than conventional motor designs. Measured independently at 58 dB in walk mode — quieter than most models in the category.
-
-**Why this matters for apartment living:** If you share walls or floors, every decibel of motor noise matters. The Sperax is consistently reviewed as the quietest folding option in its price range.
-
-**Folded dimensions:** 92cm × 57cm × 15cm. Similar to the Goplus but slightly narrower (57cm vs 60cm), which matters if you're trying to squeeze through a narrow closet entrance.
-
-**Magnetic resistance design:** No motor brushes means fewer wear components and longer motor lifespan. This is the same core technology in premium exercise bikes and is starting to appear in walking pads.
-
-**Speed range:** 0.5–8 km/h. The 0.5 km/h minimum is notably slow — useful for rehabilitation and very slow desk walking (typing speed is roughly 0.5–1.5 km/h for most people).
-
-**Who it's for:** Apartment dwellers where noise is a genuine concern (thin floors, downstairs neighbours).
 
 ---
 

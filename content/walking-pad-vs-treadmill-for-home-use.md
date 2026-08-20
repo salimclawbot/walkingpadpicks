@@ -12,6 +12,8 @@ meta_description: "Walking pad vs treadmill for home use in 2026. Compare size, 
 image: "/images/articles/walking-pad-vs-treadmill-hero.jpg"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 **The choice between a walking pad and a traditional treadmill for home use comes down to your actual goal: if you want to add daily movement while working from home, a walking pad is the smarter, space-saving pick. If you're training for runs or want a dedicated cardio machine, a treadmill delivers the power and features you need — at the cost of significantly more space and noise.**
 
 ---
@@ -42,7 +44,6 @@ image: "/images/articles/walking-pad-vs-treadmill-hero.jpg"
 
 A walking pad — also called an under desk treadmill or mini treadmill — is a low-profile, compact walking machine designed primarily for use while standing at a desk or performing light daily activities. Most walking pads are between 4 and 6 inches tall, with a flat running belt that sits close to the ground. They typically lack handlebars, large console displays, and incline settings, prioritizing portability and quiet operation over performance features.
 
-Walking pads first gained popularity in Asia, particularly in Japan and China, where small living spaces made traditional fitness equipment impractical. The concept migrated westward as remote work became more common, and today they're a staple in home office setups worldwide. Brands like WalkingPad (KingSmith), UREVO, and Sperax dominate the market, offering models that range from basic walk-only units to dual-mode machines that support light jogging.
 
 The defining characteristic of a walking pad is its form factor. Because it's designed to slide under a desk, sit in a living room corner, or fold into a closet, it solves the single biggest barrier to home cardio equipment: space. For people who live in apartments, condos, or smaller homes, a walking pad may be the only viable cardio option that doesn't require a dedicated gym room.
 
@@ -137,7 +138,6 @@ Walking pads are substantially less expensive than traditional treadmills across
 
 **Walking Pad Pricing:**
 - Budget models ($150–$200): Basic walk-only pads with simple remotes and no app connectivity. Adequate for occasional use.
-- Mid-range ($250–$400): The sweet spot. Quiet motors, app connectivity, solid build quality. WalkingPad X21, UREVO 2S, Sperax.
 - Premium ($400–$500): Enhanced features, wider belts, higher weight capacities, better motors.
 
 **Traditional Treadmill Pricing:**

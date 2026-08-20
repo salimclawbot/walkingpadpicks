@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-for-kids-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-for-kids-demo.mp4" type="video/mp4">
 </video>
@@ -218,14 +220,12 @@ Print these and tape them to the wall next to the walking pad:
 | **[Goplus 2-in-1](https://www.amazon.com/s?k=Goplus+2+in+1+Walking+Pad&tag=walkingpadpicks-20)** | ✅ | ✅ | 0.5 mph | 16" | ~$210 | Handrail for balance support; best safety feature set |
 | **[REDLIRO Folding](https://www.amazon.com/s?k=REDLIRO+Folding+Treadmill&tag=walkingpadpicks-20)** | ✅ | ✅ | 0.5 mph | 16.5" | ~$250 | Foldable handrail; cushioned deck |
 | **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.6 mph | 16" | ~$200 | No safety key — less suitable for younger children |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.5 mph | 17" | ~$270 | Widest belt; no safety key |
 | **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)** | ❌ | ✅ | 0.5 mph | 16" | ~$250 | Compact; no safety key |
 
 ### Best Choice for Households with Children
 
 The **Goplus 2-in-1** is the most child-appropriate walking pad because it has all three critical safety features: safety key clip, auto-stop sensor, and a handrail for balance support. The handrail is particularly valuable for children, who benefit from the same balance support that makes it ideal for seniors. See our [best walking pad for seniors](/best-walking-pad-seniors) guide for detailed safety feature analysis.
 
-For households where a child may occasionally use the parent's walking pad, the safety key is the non-negotiable feature. Models without a safety key (UMAY, Sperax, WalkingPad) require extra caution — the adult must hold the remote and be ready to hit stop instantly.
 
 ---
 

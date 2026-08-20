@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 **Trying to decide between a walking pad and a regular treadmill for your home? Walking pads are compact, quiet, and budget-friendly — ideal for under-desk walking while you work. Regular treadmills deliver higher speeds, incline training, and sturdier builds for serious cardio. This guide compares size, noise, cost, fitness outcomes, and durability so you can pick the right machine for your space and goals.**
 
 *By Jamie Walker, Fitness Equipment Reviewer · Last updated March 2026*
@@ -231,16 +233,6 @@ For a complete [walking pad desk setup with two monitors](/walking-pad-desk-setu
 <p>Speed: 0.5–3.7 mph · Weight: 33 lbs · Belt: 16.5" × 41"</p>
 <p>Ultra-slim foldable design at just 5.3" tall. Quiet motor under 45 dB. 220 lb capacity. Perfect for small apartments and under-desk use.</p>
 <a href="https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
-</div>
-</div>
-
-<div class="product-card">
-<div class="product-card-info">
-<h4>Sperax Walking Pad</h4>
-<p><strong>Best Budget Pick</strong></p>
-<p>Speed: 0.5–4 mph · Weight: 38 lbs · Belt: 16" × 42"</p>
-<p>Excellent value under $200. LED display, remote control, and a surprisingly smooth belt for the price. 265 lb weight capacity.</p>
-<a href="https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20" class="amazon-btn" rel="nofollow sponsored noopener">Check Price on Amazon →</a>
 </div>
 </div>
 

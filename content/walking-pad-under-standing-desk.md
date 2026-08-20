@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-under-standing-desk-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-under-standing-desk-demo.mp4" type="video/mp4">
 </video>
@@ -96,7 +98,6 @@ Save both presets so you can switch between standing and walking without manual 
 |------------|:-----------------:|:-----------:|:----------:|:---------:|:-----:|-------------|
 | **[WalkingPad C2 Mini](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)** | 50" × 21" | ~4.7" | 220 lbs | Quiet | ~$250 | Smallest footprint; folds in half |
 | **[UMAY Under Desk](https://www.amazon.com/s?k=UMAY+Under+Desk+Treadmill&tag=walkingpadpicks-20)** | 55" × 23" | ~4.5" | 265 lbs | Quiet | ~$200 | Lowest step height; high capacity |
-| **[Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)** | 56" × 24" | ~4.7" | 265 lbs | Moderate | ~$270 | Widest belt (17"); solid frame |
 | **[WalkingPad R2](https://www.amazon.com/s?k=WalkingPad+R2&tag=walkingpadpicks-20)** | 58" × 24" | ~4.9" | 265 lbs | Very quiet | ~$450 | Quietest motor; premium build |
 
 ### Why Flat Pads (Not Handrail Models)
@@ -331,7 +332,6 @@ Yes — at 1.0–1.5 mph, most people type at 95–98% normal accuracy after 1�
 Strongly recommended. Protects flooring, reduces vibration (40–60%), and dampens noise. A $20–40 treadmill mat is the single best accessory investment.
 
 ### Which walking pads fit best?
-Flat, low-profile models without handrails: WalkingPad C2 Mini (smallest), UMAY (lowest step), Sperax (widest belt), WalkingPad R2 (quietest, premium). Avoid permanent handrail models for under-desk use.
 
 ### How do I handle cables safely?
 Route walking pad power cable along desk leg to wall outlet. Use under-desk cable tray for monitor and charger cables. Switch to wireless keyboard, mouse, and headset. Never run cables across the floor near the walking area.

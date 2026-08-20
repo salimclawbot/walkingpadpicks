@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-maintenance-guide-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-maintenance-guide-demo.mp4" type="video/mp4">
 </video>
@@ -387,7 +389,6 @@ This guide covers walking pad maintenance based on treadmill engineering princip
 - Motor bearing life: heat is the primary failure mechanism; clean ventilation extends bearing life
 
 **Manufacturer References:**
-- Maintenance intervals from WalkingPad, UMAY, Sperax, Goplus, and REDLIRO product manuals
 - Belt tension specifications: 2–3 inch center lift is the standard range across manufacturers
 - Lubrication quantity: 15–30 ml per application is the typical manufacturer recommendation
 

@@ -9,6 +9,8 @@ dateModified: "2026-03-17"
 author: "Walking Pad Picks Editorial Team"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/quietest-walking-pads-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/quietest-walking-pads-demo.mp4" type="video/mp4">
 </video>
@@ -153,7 +155,6 @@ Motor vibration transfers through the frame to the floor. The frame acts as a sp
 | **WalkingPad R2** | ~$450 | 38–42 dB | 265 lbs | 17.3" × 47" | Quietest overall |
 | **WalkingPad C2 Mini** | ~$250 | 40–44 dB | 220 lbs | 16" × 47" | Quietest budget |
 | **UREVO 2T** | ~$190 | 41–45 dB | 240 lbs | 16.5" × 43" | Quietest under $200 |
-| **Sperax Walking Pad** | ~$270 | 42–46 dB | 265 lbs | 17" × 44" | Quiet with high capacity |
 | **Goplus 2-in-1** | ~$210 | 44–48 dB | 265 lbs | 16" × 40" | Quiet at low speeds only |
 
 !Five quietest walking pads in 2026 with decibel ratings shown at 2 mph
@@ -185,14 +186,6 @@ The UREVO 2T is a noise surprise at its price. At ~$190, it runs 41–45 dB at 2
 **Noise profile:** Impressively quiet at 1.0–2.0 mph. Competitive with pads costing 30–50% more. Gets louder above 2.5 mph but remains within reasonable apartment territory. Good value-for-noise at any price.
 
 [Check Price on Amazon →](https://www.amazon.com/s?k=UREVO+2-in-1+Treadmill+Walking+Pad&tag=walkingpadpicks-20)
-
-### 4. Sperax Walking Pad — Quiet with High Capacity
-
-The Sperax's 265 lb capacity means the motor is not straining for most users — a motor running within its comfortable range is a quiet motor. At 2 mph with a 180 lb user, it produces 42–46 dB. The solid one-piece frame eliminates hinge rattle.
-
-**Noise profile:** Quiet for its capacity class. Heavier users (200+ lbs) benefit most — the motor headroom keeps noise lower than budget pads that strain near their limit. For weight considerations, see our [walking pad weight limit](/walking-pad-weight-limit) guide.
-
-[Check Price on Amazon →](https://www.amazon.com/s?k=Sperax+Walking+Pad+Under+Desk&tag=walkingpadpicks-20)
 
 ### 5. Goplus 2-in-1 — Quiet at Low Speeds Only
 

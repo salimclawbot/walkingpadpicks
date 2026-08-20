@@ -1,6 +1,8 @@
 ---
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 **Walking pads and regular treadmills serve different purposes for home fitness. Walking pads are compact, quiet, and designed for under-desk walking at 1.5–4.0 mph — ideal for apartments and remote workers. Regular treadmills offer running speeds up to 12 mph, incline training, and longer durability — but require dedicated space and produce more noise. This guide compares both across space, noise, cost, fitness goals, and real-world usability so you can choose the right machine for your home.**
 
 *By Sarah M., Fitness Equipment Reviewer · Last updated: March 2026*
@@ -278,21 +280,6 @@ If you are specifically comparing for weight loss, see our detailed [walking pad
 </div>
 
 <div class="product-card">
-<img src="/images/articles/walking-pad-vs-treadmill-home-use-desk-walking.jpg" alt="Sperax walking pad under desk" />
-<div class="product-card-info">
-<h4>2. Sperax Walking Pad — Best Value</h4>
-<p><strong>Speed:</strong> 0.5–4.0 mph</p>
-<p><strong>Belt:</strong> 17" × 42"</p>
-<p><strong>Weight:</strong> 44 lbs</p>
-<p><strong>Capacity:</strong> 265 lbs</p>
-<p><strong>Price:</strong> ~$199</p>
-<p>Higher weight capacity and wider belt than the C2 at a lower price. Excellent build quality for the money. Slightly heavier, but still easy to store under a bed or sofa.</p>
-<a href="https://www.amazon.com/s?k=Sperax+walking+pad&tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored" class="amazon-btn">Check Price on Amazon →</a>
-</div>
-</div>
-
-<div class="product-card">
-<img src="/images/articles/walking-pad-vs-treadmill-home-use-apartment.jpg" alt="UREVO 2-in-1 walking pad" />
 <div class="product-card-info">
 <h4>3. UREVO 2-in-1 — Best for Apartments</h4>
 <p><strong>Speed:</strong> 0.6–4.0 mph</p>

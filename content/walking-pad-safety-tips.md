@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-safety-tips-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-safety-tips-demo.mp4" type="video/mp4">
 </video>
@@ -64,7 +66,6 @@ Every walking pad has at least one emergency stop method. Find it, test it, and 
 | Type | How It Works | Activation | Response Time | Found On |
 |------|-------------|-----------|:------------:|----------|
 | **Safety key (magnetic clip)** | Magnetic key attached to a cord clips to your clothing; pulling it off the pad kills power | Automatic when you move too far from the pad | Instant (< 0.5 sec) | Pads with handlebars ([Goplus 2-in-1](https://www.amazon.com/s?k=Goplus+2+in+1+Walking+Pad&tag=walkingpadpicks-20), traditional treadmills) |
-| **Auto-stop sensor** | Infrared or pressure sensor at the belt rear detects when you step off | Automatic when both feet leave the belt | 2–3 seconds | Most flat walking pads ([WalkingPad](https://www.amazon.com/s?k=WalkingPad&tag=walkingpadpicks-20), [UREVO](https://www.amazon.com/s?k=UREVO+Walking+Pad&tag=walkingpadpicks-20), [Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)) |
 | **Remote control stop** | Press the large button on the handheld remote | Manual — requires you to press the button | 1–2 seconds | All walking pads with remotes |
 | **Foot-off deceleration** | Belt slows when sensors detect reduced foot pressure | Semi-automatic | 3–5 seconds to full stop | Some premium pads with foot-sensing |
 | **Power button on pad** | Press the main power button on the pad body | Manual — requires bending down | 1–2 seconds | All walking pads |

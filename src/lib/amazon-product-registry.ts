@@ -24,6 +24,15 @@ const groups: Record<string, AmazonProductGroup> = {
 };
 
 export function getAmazonProductGroup(slug: string): AmazonProductGroup | null {
+  const safetyHold = new Set([
+    "incline-walking-pad-buying-guide",
+    "walking-pad-hardwood-floor-guide",
+    "walking-pad-low-clearance-desk-guide",
+    "walking-pad-remote-vs-app-controls",
+    "walking-pad-shared-office-guide",
+  ]);
+  if (safetyHold.has(slug)) return null;
+
   const exact = groups[slug];
   if (exact) return exact;
 
