@@ -7,6 +7,8 @@ slug: "how-to-stay-motivated-walking-pad"
 keywords: ["walking pad motivation", "how to use walking pad daily", "walking pad habit", "stay motivated walking pad"]
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 By Walking Pad Picks Editorial Team
 
 ![Person happily walking on an under-desk walking pad in a bright home office, casual clothes, laptop on standing desk, step counter app on phone](/images/articles/how-to-stay-motivated-walking-pad-hero.jpg)
@@ -47,7 +49,6 @@ If you find that tracking your walking pad sessions in an app is helping your co
 </nav>
 
 ---
-
 
 
 ---
@@ -182,7 +183,6 @@ Digital tracking serves two motivational functions: it provides data for goal-se
 
 - **Primary tracker:** Apple Health (iOS) or Google Fit (Android) for automatic step counting via your phone or smartwatch.
 - **Streak app:** Streaks (iOS) or Loop Habit Tracker (Android) for visual habit tracking with streak counts.
-- **Walking pad companion app:** If your pad has one ([WalkingPad](https://www.amazon.com/s?k=WalkingPad&tag=walkingpadpicks-20), [UREVO](https://www.amazon.com/s?k=UREVO+Walking+Pad&tag=walkingpadpicks-20), [Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)), use it for session-specific data like distance, time, and speed.
 
 The key is choosing one primary metric to care about — daily streak count — and letting everything else be supplementary data. Too many metrics create decision fatigue and dilute focus.
 
@@ -382,7 +382,6 @@ This is the danger zone — the novelty is fading. Lean on your systems.
 ## Tracking Your Progress: Best Apps and Tools
 
 If you find that tracking your walking pad sessions in an app is helping your consistency, [habittrackerspot.com has a comprehensive guide to the best habit tracker apps and journals](https://www.habittrackerspot.com/) — combining step tracking with a broader habit stack can dramatically improve long-term adherence.
-
 
 
 The tools you use to track walking pad progress should serve two purposes: provide data for informed goal-setting and create visual feedback loops that reinforce the habit. Here are the best options, organized by category.

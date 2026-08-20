@@ -17,6 +17,8 @@ meta_description: "Discover the 5 best folding walking pads for easy storage in 
 viewport: "width=device-width, initial-scale=1"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 **The best folding walking pads in 2026 fold in half in under 10 seconds, collapse to fit under a bed, sofa, or behind a closet door, and weigh 35–55 lbs so one person can move and store them without help.**
 
 *By James Whitfield, Fitness Equipment Reviewer | Last updated: March 26, 2026*
@@ -45,7 +47,6 @@ viewport: "width=device-width, initial-scale=1"
 - [UREVO Foldi Mini Review](#urevo-foldi-mini-review)
 - [Goplus 2-in-1 Folding Treadmill Review](#goplus-2in1-review)
 - [Mobvoi Home Treadmill 1S Review](#mobvoi-home-treadmill-review)
-- [Sperax Walking Pad PB517 Review](#sperax-pb517-review)
 - [How to Choose the Right Folding Walking Pad](#how-to-choose)
 - [Storage Tips: Getting the Most Out of a Small Space](#storage-tips)
 - [Frequently Asked Questions](#faq)
@@ -182,7 +183,6 @@ If you're planning to store under a bed or sofa, confirm the exact folded height
 
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:1.25rem;background:#f9fafb;">
 <div style="display:flex;justify-content:space-between;align-items:baseline;margin-bottom:0.5rem;">
-<strong style="font-size:1.1rem;color:#0f766e;">#5 Sperax Walking Pad PB517</strong>
 <span style="font-weight:700;color:#0f766e;font-size:1.1rem;">~$229</span>
 </div>
 <div style="display:grid;grid-template-columns:1fr 1fr;gap:0.4rem 1rem;font-size:0.9rem;margin-bottom:0.75rem;">
@@ -377,15 +377,6 @@ The Mobvoi 1S is the right choice if aesthetics and app integration genuinely ma
 
 ---
 
-## 5. Sperax Walking Pad PB517 — Best Budget Folding Option {#sperax-pb517-review}
-
-<figure>
-  <img src="/images/sperax-pb517-under-desk.jpg" alt="Sperax Walking Pad PB517 being used under a standing desk with the user working on a laptop" loading="lazy" />
-  <figcaption>Sperax Walking Pad PB517 being used under a standing desk with the user working on a laptop</figcaption>
-</figure>
-
-**At around $229, the Sperax PB517 is the most affordable genuinely foldable walking pad on the market that doesn't immediately feel cheap when you step on it.** It ships with a remote control for hands-free speed adjustment, it folds to a 33-inch length that fits under most platform beds, and it supports up to 250 lbs — solid specs for the price.
-
 ### Key Specs
 
 - **Folded dimensions:** 33 × 20 × 5 inches
@@ -411,9 +402,6 @@ The belt (15.7 inches wide) is one of the narrower options here. For users under
 
 ### Who It's For
 
-The Sperax PB517 is the right choice for budget-conscious buyers who want real foldability, a weight capacity that covers most adults, and hands-free remote control — all under $250. It's not the most refined machine on the list, but it delivers on every core storage requirement.
-
-<a href="https://www.amazon.com/dp/B09NV77W4G/?tag=walkingpadpicks-20" target="_blank" rel="noopener noreferrer nofollow sponsored">→ Check the Sperax PB517 price on Amazon</a>
 
 ---
 
@@ -432,11 +420,9 @@ With five solid options on the table, the right choice usually comes down to fou
 
 Measure the space before you buy. Under a platform bed, you need the folded height (when laid flat) plus 1–2 inches of clearance. Under a sofa, same math. In an upright closet position, you need the folded length to fit within the vertical clearance of your shelving.
 
-The models that fold to 5 inches flat (WalkingPad C2, Sperax PB517) are the best options for low-clearance under-furniture storage. If you have generous clearance (10+ inches), any model on this list works.
 
 ### 2. What Is Your Body Weight?
 
-If you're over 220 lbs, eliminate the WalkingPad C2 and Mobvoi 1S immediately — their 220 lb limit leaves no safety margin. The UREVO Foldi Mini (265 lbs), Goplus 2-in-1 (265 lbs), and Sperax PB517 (250 lbs) are the safe options for heavier users.
 
 For a deeper look at weight capacity considerations, our [walking pad weight limit guide](/walking-pad-weight-limit) breaks down what these numbers mean in practice and why staying below the stated maximum matters for both safety and machine longevity.
 
@@ -450,12 +436,10 @@ If you want to jog even occasionally, only the Goplus 2-in-1 goes fast enough (7
 
 The honest budget advice:
 
-- **Under $250:** Sperax PB517 — gets you real foldability and decent specs without compromising on weight capacity.
 - **$250–$350:** UREVO Foldi Mini — a genuine step up in compactness and weight capacity.
 - **$300–$380:** Goplus 2-in-1 — the only choice if you want jogging capability.
 - **$380–$450+:** WalkingPad C2 or Mobvoi 1S — premium build quality and fold experience.
 
-Don't buy above your budget to chase features you won't use. If you're walking at 2 mph while answering emails, the $229 Sperax will serve you just as well as the $449 Mobvoi for that specific use case.
 
 ---
 
@@ -489,11 +473,9 @@ Most folding walking pads use a central hinge that allows the belt deck to fold 
 
 ### Can a folding walking pad support heavier users? {#faq-heavier-users}
 
-It depends on the model. The WalkingPad C2 and Mobvoi 1S cap at 220 lbs — not suitable for users near or above that weight. The UREVO Foldi Mini and Goplus 2-in-1 both support 265 lbs, and the Sperax PB517 supports 250 lbs. For users over 250 lbs, the UREVO Foldi Mini and Goplus 2-in-1 are the recommended options from this list.
 
 ### How quiet are folding walking pads during use? {#faq-noise}
 
-At typical desk-walking speeds of 1.5–2.5 mph, the models on this list operate between 40–50 dB — roughly the volume of a quiet conversation or a running refrigerator. The WalkingPad C2 and Mobvoi 1S are the quietest, both around 40–42 dB. The Sperax PB517 and Goplus 2-in-1 run slightly louder. None of these machines will disturb a video call at walking speed.
 
 ### Do folding walking pads need lubrication? {#faq-lubrication}
 

@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/walking-pad-weight-limit-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/walking-pad-weight-limit-demo.mp4" type="video/mp4">
 </video>
@@ -34,7 +36,6 @@ A walking pad weight limit is not a suggestion — it is an engineering constrai
 | **WalkingPad R2** | 242 lbs (110 kg) | 1.25 HP | 0.5–6.2 mph | 17.3" × 47.2" | ✅ Yes | ~$450 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+R2&tag=walkingpadpicks-20) |
 | **WalkingPad X21** | 242 lbs (110 kg) | 1.0 HP | 0.5–7.5 mph | 18.5" × 47.6" | ✅ Yes | ~$500 | [Check on Amazon](https://www.amazon.com/s?k=WalkingPad+X21&tag=walkingpadpicks-20) |
 | **Goplus 2-in-1** | 265 lbs (120 kg) | 2.25 HP | 0.6–7.5 mph | 16.5" × 44" | ❌ No | ~$250 | [Check on Amazon](https://www.amazon.com/s?k=Goplus+2+in+1+treadmill&tag=walkingpadpicks-20) |
-| **Sperax Walking Pad** | 270 lbs (122 kg) | 2.0 HP | 0.6–6.0 mph | 17" × 42" | ✅ Yes | ~$300 | [Check on Amazon](https://www.amazon.com/s?k=Sperax+walking+pad&tag=walkingpadpicks-20) |
 | **UREVO 2-in-1** | 265 lbs (120 kg) | 2.5 HP | 0.6–7.5 mph | 16.5" × 46" | ❌ No | ~$280 | [Check on Amazon](https://www.amazon.com/s?k=UREVO+walking+pad&tag=walkingpadpicks-20) |
 | **REDLIRO Under Desk** | 220 lbs (100 kg) | 2.0 HP | 0.5–6.0 mph | 16" × 42" | ❌ No | ~$200 | [Check on Amazon](https://www.amazon.com/s?k=REDLIRO+walking+pad&tag=walkingpadpicks-20) |
 | **UMAY Under Desk** | 275 lbs (125 kg) | 2.5 HP | 0.6–6.0 mph | 17" × 44" | ✅ Yes | ~$320 | [Check on Amazon](https://www.amazon.com/s?k=UMAY+walking+pad&tag=walkingpadpicks-20) |
@@ -65,15 +66,12 @@ This is where weight limits start to filter out options. The REDLIRO drops out a
 **Key considerations at this weight:**
 - Avoid the REDLIRO entirely — even at exactly 220 lbs, you have zero safety margin
 - The WalkingPad R2 and X21 (242 lb limit) work for users up to approximately 220 lbs with adequate margin
-- The Goplus, UREVO, and Sperax (265–270 lb limits) are the safest picks for users in the 230–245 lb range
 
 **Recommended picks:**
-- **Best under 250 lbs:** Sperax Walking Pad — 270 lb limit gives 20+ lbs of margin for a 250 lb user
 - **Best under 240 lbs:** UREVO 2-in-1 — strong motor (2.5 HP) and 265 lb limit
 
 ### 265–300 lbs (120–136 kg) — Limited Options
 
-Options narrow significantly above 265 lbs. Only the UMAY (275 lb) and Sperax (270 lb) technically accommodate users at the low end of this range, but with minimal safety margin.
 
 **The honest assessment:** If you weigh between 265 and 300 lbs, the walking pad market does not serve you well. The highest-capacity models on this list max out at 275 lbs. You have two realistic options:
 
@@ -174,8 +172,6 @@ This is not theoretical — here is what actually fails:
 | Your Weight | Minimum Capacity Target (20% margin) | Recommended Models |
 |:-----------:|:-------------------------------------:|-------------------|
 | Under 180 lbs | 216 lbs | Any model on this list |
-| 180–200 lbs | 240 lbs | WalkingPad R2/X21, Goplus, Sperax, UREVO, UMAY, XTERRA |
-| 200–220 lbs | 264 lbs | Goplus, Sperax, UREVO, UMAY |
 | 220–230 lbs | 276 lbs | UMAY (borderline), or consider full treadmill |
 | 230+ lbs | 276+ lbs | Full treadmill recommended (Sole, NordicTrack, Horizon) |
 
@@ -246,7 +242,6 @@ A full treadmill is the safer choice. Walking pads in the 265–275 lb capacity 
 ---
 
 
-
 ---
 
 ## Sources and Methodology
@@ -257,7 +252,6 @@ This guide compares manufacturer-stated weight capacities for 8 popular walking 
 - OSHA: Walking-Working Surfaces — [osha.gov/walking-working-surfaces](https://www.osha.gov/walking-working-surfaces)
 - American College of Sports Medicine: Guidelines for Exercise Testing and Prescription
 - Consumer Product Safety Commission: Exercise Equipment Safety — [cpsc.gov](https://www.cpsc.gov/)
-- Manufacturer product specifications from WalkingPad, Goplus, Sperax, UREVO, REDLIRO, UMAY, XTERRA Fitness
 
 The 20% safety margin recommendation is based on fitness equipment industry best practices and accounts for dynamic impact forces during walking (approximately 1.2–1.3x body weight per stride as documented in biomechanical research).
 

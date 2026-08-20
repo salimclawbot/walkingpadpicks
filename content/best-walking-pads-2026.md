@@ -10,11 +10,12 @@
 
 | Rank | Brand & Model | Price Range | Max Speed | Belt Size | Weight Capacity | Best For |
 |
-------|--------------|-------------|-----------|-----------|----------------|----------|
+----
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+--|--------------|-------------|-----------|-----------|----------------|----------|
 | 1 | WalkingPad X21 [VERIFY] | $399–$449 | 7.5 mph | 17" × 48" | 265 lbs | Overall best |
 | 2 | Goplus 2-in-1 Folding Treadmill | $249–$299 | 6.0 mph | 16" × 44" | 265 lbs | Budget pick |
 | 3 | UREVO 2S [VERIFY] | $199–$249 | 4.0 mph | 16" × 42" | 240 lbs | Small spaces |
-| 4 | Sperax Walking Pad [VERIFY] | $299–$349 | 6.0 mph | 17" × 46" | 280 lbs | Heavy-duty use |
 | 5 | WalkingPad A1 Pro | $349–$399 | 4.0 mph | 16.5" × 47" | 230 lbs | Quiet operation |
 | 6 | UMAY Under Desk Treadmill [VERIFY] | $199–$229 | 4.0 mph | 16" × 42" | 240 lbs | Under $250 |
 | 7 | Egofit Walker M1 [VERIFY] | $349–$399 | 3.7 mph | 16" × 44" | 220 lbs | Walking only |
@@ -120,36 +121,6 @@ The UREVO 2S uses a simple remote control for speed adjustments. There's no app,
 - Lower weight capacity than competitors
 
 [Check Price on Amazon](https://www.amazon.com/s?k=UREVO+2S+Walking+Pad&tag=walkingpadpicks-20)
-
----
-
-### 4. Sperax Walking Pad — Best for Higher Weight Capacities
-
-**Price:** $299–$349 [VERIFY]
-**Max Speed:** 6.0 mph
-**Belt Size:** 17" × 46"
-**Weight Capacity:** 280 lbs
-**Foldable:** Yes
-
-The Sperax [VERIFY] stands out for its 280 lb weight capacity — among the highest in the walking pad category. If you're a larger user or simply want extra structural confidence, this is the model to consider.
-
-The 17-inch-wide belt and 46-inch length provide a comfortable walking surface. The motor handles speeds up to 6.0 mph, giving you flexibility for both walking and light jogging. Build quality feels reassuringly solid without being excessively heavy.
-
-An LED display embedded in the unit shows real-time stats, and the included remote lets you adjust speed without breaking stride. The folding mechanism works smoothly, though the unit is heavier than smaller alternatives (~60 lbs [VERIFY]).
-
-**Pros:**
-- Industry-leading 280 lb weight capacity
-- Wide, comfortable belt
-- Sturdy build quality
-- Speeds up to 6.0 mph
-- Good app with workout tracking [VERIFY]
-
-**Cons:**
-- Heavier than most walking pads
-- Takes up more floor space
-- Slightly louder than ultra-compact models
-
-[Check Price on Amazon](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)
 
 ---
 

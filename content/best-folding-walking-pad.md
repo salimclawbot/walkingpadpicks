@@ -11,6 +11,8 @@ author: "Mike Torres"
 image: "/images/best-folding-walking-pad-hero.jpg"
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/best-folding-walking-pad-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-folding-walking-pad-demo.mp4" type="video/mp4">
 </video>
@@ -374,7 +376,6 @@ For a complete maintenance walkthrough, see our [walking pad maintenance guide](
 ## Frequently Asked Questions
 
 ### Can you fold a walking pad in half?
-Some walking pads fold in half using a center hinge, reducing their length by roughly 50%. Models like the WalkingPad C2 and WalkingPad X21 fold at the midpoint and stand upright or slide under furniture. Not all walking pads fold — flat-deck models like the Sperax are a single rigid piece. If folding is a priority, confirm the model uses a center-fold hinge before buying.
 
 ### How small does a folding walking pad get?
 A folding walking pad typically reduces from 50–55 inches long to 26–30 inches when folded in half. Folded thickness ranges from 5 to 8 inches depending on the model. The most compact folding pads (like the WalkingPad C2 Mini) fold to roughly 26 × 21 × 5.5 inches — small enough to slide under a standard couch or bed. Larger models with handlebar fold mechanisms may only reduce in height, not length.
@@ -444,7 +445,6 @@ Fold it, store it, forget about it until tomorrow.
       "name": "Can you fold a walking pad in half?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Some walking pads fold in half using a center hinge, reducing their length by roughly 50%. Models like the WalkingPad C2 and WalkingPad X21 fold at the midpoint and stand upright or slide under furniture. Not all walking pads fold — flat-deck models like the Sperax are a single rigid piece. If folding is a priority, confirm the model uses a center-fold hinge before buying."
       }
     },
     {

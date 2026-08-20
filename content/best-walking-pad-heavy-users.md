@@ -7,7 +7,8 @@ slug: best-walking-pad-heavy-users
 primaryKeyword: best walking pad for heavy users
 ---
 
-**The best walking pad for heavy users in 2026 is the WalkingPad R2 Pro, which supports up to 350 lbs with a powerful 2.5 HP motor, an extra-wide 20-inch belt, and a reinforced steel frame built for daily use by plus-size walkers. For users needing even higher capacity, the Urevo Spacewalk E1 handles up to 380 lbs with a 3.0 HP motor, while budget-conscious shoppers will find the Sperax Walking Pad at under $300 a solid performer rated for 320 lbs.**
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 
 ## Table of Contents
 
@@ -42,7 +43,6 @@ All machines were tested at their maximum rated speed and at typical walking spe
 |-------------|-------------|-----------------|-------------|------------|-----------|--------------------|----- |------|
 | **WalkingPad R2 Pro** | $499 | 350 lbs | 2.5 HP peak | 20" | 7.5 mph | 57" x 24" | Excellent build, powerful motor, foldable, wide belt | Premium price, heavier unit (72 lbs) |
 | **Urevo Spacewalk E1** | $449 | 380 lbs | 3.0 HP peak | 20" | 8.0 mph | 60" x 26" | Highest capacity, strongest motor, very stable | Large footprint, not easily stored, 85 lbs unit weight |
-| **Sperax Walking Pad** | $279 | 320 lbs | 2.25 HP peak | 17.5" | 6.0 mph | 55" x 22" | Affordable, compact, remote control included | Narrower belt, lower max speed, motor can strain at top capacity |
 | **GoYouth Heavy-Duty Under Desk** | $389 | 330 lbs | 2.5 HP peak | 18" | 6.0 mph | 54" x 22" | Ultra-slim profile (5" height), strong motor for under-desk | Walking only (no running), belt width modest |
 | **REDLIRO Wide Belt** | $359 | 340 lbs | 2.5 HP peak | 21.5" | 7.0 mph | 58" x 27" | Widest belt in class, good cushioning, transport wheels | Bulkier design, no folding, basic display |
 | **Goplus MaxStride 400** | $529 | 400 lbs | 3.5 HP peak | 22" | 8.0 mph | 62" x 28" | Highest capacity available, industrial-grade motor, 22" belt | Heaviest unit (95 lbs), largest footprint, premium price |
@@ -84,22 +84,6 @@ The display panel is large and easy to read, showing speed, time, distance, and 
 [Check on Amazon](https://www.amazon.com/s?k=Urevo+Spacewalk+E1&tag=walkingpadpicks-20)
 
 ![Close-up of the Urevo Spacewalk E1 showing its reinforced steel frame and wide belt surface](/images/urevo-spacewalk-e1-frame-detail.jpg)
-
-### 3. Sperax Walking Pad — Best Budget Option
-
-The Sperax Walking Pad proves that heavy users don't need to spend $500+ to get a functional, reliable walking pad. At $279, it undercuts the premium options significantly while still delivering a 320 lb weight capacity and a 2.25 HP peak motor.
-
-For users in the 250–290 lb range, the Sperax provides adequate capacity with a reasonable safety margin. The motor handles sustained walking at 2.5–3.0 mph without audible strain at these weights. However, during testing with our 310 lb tester, we noticed the motor working harder — higher operating temperature and occasional slight belt speed fluctuations at speeds above 4.0 mph. This suggests the Sperax is best suited for moderate-paced walking rather than brisk power-walking at its upper capacity limit.
-
-The **17.5-inch belt width** is the primary limitation for larger users. While functional, it's noticeably narrower than the 20"+ belts on premium models. Users with wider stances or larger shoe sizes (13+) may find themselves walking more carefully to stay centred on the belt. During testing, our larger-framed testers adapted within a few sessions but consistently noted the width difference when switching to wider-belted models.
-
-On the positive side, the Sperax is compact (55" x 22") and lightweight enough (48 lbs) to slide under a bed or couch for storage. The included remote control is basic but functional, and the LED display shows essential metrics. The Sperax also features a dual-mode design — walk mode at lower speeds uses an automatic speed control that adjusts based on your position on the belt, while manual mode gives you full control via remote.
-
-Build quality is acceptable for the price. The frame is steel with a thinner deck than premium options, resulting in slightly more perceptible flex. The cushioning is adequate but less sophisticated — you may want to supplement with cushioned walking shoes for joint protection.
-
-**Best for**: Heavy users (250–290 lbs) on a budget who need a functional walking pad for moderate-paced daily walking.
-
-[Check on Amazon](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)
 
 ### 4. GoYouth Heavy-Duty Under Desk Treadmill — Best for Under-Desk Use
 
@@ -264,7 +248,6 @@ Yes, walking pads specifically engineered for heavy users can safely support 300
 
 ### How much space do I need for a walking pad rated for heavy users?
 
-Heavy-duty walking pads are generally larger than standard models due to their wider belts and reinforced frames. Plan for a footprint of approximately 55–62 inches long by 22–28 inches wide for the machine itself. You'll also need at least 36 inches of clear space behind the machine for safe dismounting, and 6–12 inches on each side for stability and access. In total, you're looking at a dedicated space of roughly 8–9 feet long by 3–4 feet wide. For under-desk use, ensure your standing desk width accommodates the walking pad's width plus a few inches on each side. Ceiling height is rarely an issue since walking pads have low profiles (4–8 inches tall), adding minimal height to the user. If space is a primary concern, the WalkingPad R2 Pro folds in half, reducing its storage footprint to approximately 30" x 24" — though at 72 lbs, you'll want to store it against a wall or in a closet rather than lifting it into elevated storage. The Sperax Walking Pad is the most compact option at 55" x 22" and 48 lbs, making it viable for sliding under a bed or couch.
 
 ### Will a walking pad be too loud for use during video calls or in an apartment?
 
@@ -290,7 +273,6 @@ Warranty coverage varies significantly by manufacturer and is a critical conside
 
 1. WalkingPad (KingSmith). "R2 Pro Foldable Treadmill — Technical Specifications." WalkingPad.com, 2026.
 2. Urevo. "Spacewalk E1 Heavy-Duty Walking Treadmill — Product Documentation." Urevo.com, 2025.
-3. Sperax. "Under Desk Walking Pad — Product Specifications." Amazon.com, 2025.
 4. American Council on Exercise. "Ground Reaction Forces During Walking and Running." ACEfitness.org, 2024.
 5. Browning, R.C., and Kram, R. "Effects of obesity on the biomechanics of walking at different speeds." Medicine & Science in Sports & Exercise, vol. 39, no. 9, 2007, pp. 1632–1641.
 6. REDLIRO. "Wide Belt Walking Treadmill — Product Specifications." Amazon.com, 2025.

@@ -16,10 +16,11 @@ keywords: ["walking pad for shared office", "office walking pad", "shared under 
 
 # Walking Pad for a Shared Office: Buying Guide
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 **Quick answer:** the best shared-office walking pad is the one that satisfies the measured constraints of the real setup, not the option with the longest feature list. For teams considering noise, storage, access and documented operating rules, compare user adjustment, storage ownership, noise context, then verify cleaning process, control handoff, incident reporting. Use current primary-source specifications, keep health or performance promises separate from product facts, and plan a reversible trial with clear return criteria.
 
 > **Affiliate disclosure:** Walking Pad Picks may earn a commission from qualifying purchases made through clearly marked Amazon links. Retailer links are shopping paths, not proof that a product is suitable. We did not hands-on test or clinically evaluate products for this article.
-
 
 
 ## Table of contents
@@ -73,7 +74,6 @@ We reviewed current institutional guidance, official standards or primary suppor
 
 For **user adjustment**, the [CPSC recall search](https://www.cpsc.gov/Recalls) supplies a reference point for the tradeoff comparison. It is not a product endorsement, and its scope is not extended to claims it does not make.
 
-For **storage ownership**, the [CPSC walking-pad safety warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) supplies an institutional boundary and verification path. It is not a product endorsement, and its scope is not extended to claims it does not make.
 
 For **noise context**, the [OSHA walking-working surfaces](https://www.osha.gov/walking-working-surfaces) supplies a reference point for the tradeoff comparison. It is not a product endorsement, and its scope is not extended to claims it does not make.
 
@@ -160,7 +160,6 @@ Participation should be optional. Do not create step contests, weight-loss claim
 
 If a user reports a fall, abrupt speed change, smoke, overheating, electrical odor or damaged part, stop use and isolate the machine according to workplace procedure. Record the exact model, serial, time and observed facts without asking someone to recreate the event. Check the manufacturer and CPSC before any return to service.
 
-A safety search is a dated check, not a lifetime guarantee. Search the exact brand and model in the [CPSC recall database](https://www.cpsc.gov/Recalls), review current [CPSC warnings](https://www.cpsc.gov/Warnings), and check [SaferProducts.gov](https://www.saferproducts.gov/) before purchase and periodically after it arrives. On April 16, 2026, CPSC warned consumers to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills because of reported fall, burn and fire hazards. Those models are excluded from this guide. Follow any stop-use instruction immediately.
 
 ## Shared-office edge cases
 
@@ -229,7 +228,6 @@ No. A shared-office walking pad can change a practical feature or workflow, but 
 ## Sources and update method
 
 - [CPSC recall search](https://www.cpsc.gov/Recalls)
-- [CPSC walking-pad safety warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards)
 - [OSHA walking-working surfaces](https://www.osha.gov/walking-working-surfaces)
 - [OSHA computer workstation guidance](https://www.osha.gov/etools/computer-workstations/)
 - [CPSC product-safety reporting](https://www.saferproducts.gov/)

@@ -28,6 +28,8 @@ The average one-bedroom apartment in the US is 750 square feet. A walking pad th
 
 ---
 
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
+
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 1. **User position** — 3 feet from the motor at walking height
@@ -135,29 +137,6 @@ The UREVO 2F features a removable handlebar that transforms it from a standing w
 
 <div style="border:1px solid #e5e7eb;border-radius:12px;padding:1.5rem;background:#f9fafb;">
 
-### Sperax Walking Pad — Best for Higher Weight Capacities
-
-![Sperax walking pad on an anti-vibration mat in an apartment living room](/images/articles/walking-pad-apartments-sperax.png)
-
-**Price:** ~$280 | **Noise:** 48 dB | **Weight Limit:** 320 lbs | **Folded:** 33" x 20.5" x 5.5"
-
-> **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
-
-The reinforced steel frame and thicker running belt support higher loads without the flexing or creaking that plagues cheaper options under heavy use. The 17-inch belt width provides comfortable walking room, and the fold-in-half design keeps storage manageable.
-
-**Speed Range:** 0.5–4.0 mph | **Belt Width:** 17" | **Unit Weight:** 55 lbs | **Motor:** 2.5 HP peak
-
-**Pros:** Highest weight capacity (320 lbs), reinforced frame, no flex or creak under load, competitive noise levels
-**Cons:** Heaviest unit at 55 lbs, louder than the C2 and R2 Pro, higher electricity draw
-
-**Best for:** Apartment dwellers between 200–320 lbs who need a sturdy walking pad that will not flex under their weight. For more options in this category, see our [best walking pad for heavy users](/best-walking-pad-heavy-users) guide.
-
-[Check Price on Amazon](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)
-
-</div>
-
-<div style="border:1px solid #e5e7eb;border-radius:12px;padding:1.5rem;background:#f9fafb;">
-
 ### Goplus Folding Treadmill — Best Budget Option
 
 ![Goplus folding walking pad stored upright beside apartment closet](/images/articles/walking-pad-apartments-goplus.png)
@@ -196,7 +175,6 @@ At 50 dB, it is the loudest model here, but still well below conversational volu
 | **WalkingPad C2** | 42 dB | 45 dB | 44 dB | 32 dB |
 | **WalkingPad R2 Pro** | 40 dB | 43 dB | 42 dB | 30 dB |
 | **UREVO 2F** | 44 dB | 47 dB | 46 dB | 35 dB |
-| **Sperax** | 45 dB | 48 dB | 47 dB | 36 dB |
 | **Goplus** | 47 dB | 50 dB | 49 dB | 38 dB |
 
 *All readings at 3.0 mph, user position (3 feet from motor). Below-floor readings taken with a 3/4-inch rubber anti-vibration mat.*
@@ -211,7 +189,6 @@ Without a mat, below-floor readings jump by 8–12 dB across all models. That is
 
 ### Impact Vibration Results
 
-Impact vibration (measured via accelerometer) showed a different pattern than airborne noise. The WalkingPad C2 and R2 Pro, with their multi-layer shock-absorbing decks, produced 40–50% less floor vibration than the Goplus and UREVO 2F. The Sperax fell in the middle, with its heavier frame providing some natural dampening despite the stronger motor.
 
 User weight significantly affected impact vibration. A 200 lb user produced roughly 60% more floor vibration than a 150 lb user on the same walking pad at the same speed. This is why heavier users should prioritize models with shock-absorbing decks and always use an anti-vibration mat. For a broader look at noise reduction strategies, see our guide on [how to reduce walking pad noise](/reduce-walking-pad-noise).
 
@@ -227,7 +204,6 @@ In a studio, the walking pad needs to disappear completely when not in use. Your
 
 **Under the couch.** Non-folding models like the UREVO 2F (4.7 inches tall) slide under most standard sofas. Measure your sofa clearance before buying — you need at least 5 inches. The popular IKEA FRIHETEN sofa bed has exactly 5.1 inches of clearance, which fits the UREVO 2F with minimal room to spare.
 
-**Upright behind a door.** Folding models like the WalkingPad C2 and Sperax stand upright at just over 5 inches deep when folded. Lean them against a wall behind a bedroom or closet door. Use a non-slip furniture pad on the floor to prevent sliding.
 
 **Under the bed.** If your bed frame has at least 6 inches of clearance, any folded walking pad on this list will fit underneath. Use felt pads on the feet to prevent scratching when sliding it in and out.
 
@@ -413,7 +389,6 @@ This guide evaluates walking pads specifically for apartment use based on noise 
 - We may earn a commission on purchases at no additional cost to you; affiliate relationships do not influence our recommendations
 
 ---
-
 
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.

@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
@@ -152,13 +154,11 @@ Here is how the A1 Pro compares:
 |-------|----------------|-------------|
 | WalkingPad A1 Pro | 230 lbs | $349–$399 |
 | WalkingPad X21 | 265 lbs | $399–$449 |
-| Sperax Walking Pad | 280 lbs | $299–$349 |
 | Goplus 2-in-1 | 265 lbs | $249–$299 |
 | UREVO 2S | 240 lbs | $199–$249 |
 
 At 230 lbs, the A1 Pro sits at the bottom of this comparison. If you are near or above this limit, using a walking pad at or near its capacity can strain the motor, accelerate belt wear, and create a less stable feel.
 
-For users above 230 lbs, the [Sperax Walking Pad](/best-walking-pads-2026) is a strong alternative with a 280 lb capacity and a comparable price to the A1 Pro. The [WalkingPad X21](/best-walking-pads-2026) at 265 lbs is another option that offers more versatility.
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
@@ -215,7 +215,6 @@ Noise levels are comparable at low speeds, but the UREVO's motor is more noticea
 | Walk and light jog (6+ mph) | WalkingPad X21 |
 | Budget without sacrificing quality | Goplus 2-in-1 |
 | Ultra-low-profile, no folding needed | UREVO 2S |
-| Higher weight capacity needed | Sperax Walking Pad |
 | Office with multiple people | WalkingPad A1 Pro |
 
 ---
@@ -255,7 +254,6 @@ Noise levels are comparable at low speeds, but the UREVO's motor is more noticea
 
 ### What is the weight capacity of the WalkingPad A1 Pro?
 
-The WalkingPad A1 Pro has a stated weight capacity of 230 lbs (104 kg), which is lower than most competitors. Users near or above this limit should consider alternatives like the Sperax (280 lbs) or WalkingPad X21 (265 lbs).
 
 ### Can you jog on a WalkingPad A1 Pro?
 
@@ -283,7 +281,6 @@ This article draws on the following sources and research methods:
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
-3. **Comparative specification data** — specifications for competing models (WalkingPad X21, Goplus 2-in-1, UREVO 2S, Sperax) were sourced from manufacturer listings on Amazon and brand websites as of Q1 2026.
 
 4. **Aggregate owner review analysis** — owner reviews were sourced from Amazon (WalkingPad A1 Pro listing), Reddit (r/HomeGym, r/Treadmills), and WalkingPad community forums. Themes reported represent consistent patterns across 50+ verified owner accounts.
 

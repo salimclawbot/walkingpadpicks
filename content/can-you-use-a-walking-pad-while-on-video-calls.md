@@ -20,10 +20,11 @@ twitter_card: "summary_large_image"
   {"@type":"Question","name":"Is the noise from a walking pad picked up by my mic during video calls?","acceptedAnswer":{"@type":"Answer","text":"Some noise is picked up, but it varies significantly by model. Near-silent models like the WalkingPad A1 Pro (40-45 dB at walking speed) produce less noise than a quiet conversation. Cheaper walking pads (55-65 dB) will be noticeable. A directional microphone or headset eliminates the issue."}},
   {"@type":"Question","name":"What walking pad speed is best for video calls?","acceptedAnswer":{"@type":"Answer","text":"1.5-2.5 mph is the sweet spot for video calls. At these speeds, you can speak clearly, type without significant errors, and stay within most cameras framing. Above 3 mph, your gait becomes too pronounced for comfortable camera work."}},
   {"@type":"Question","name":"Can you type while walking on a walking pad during calls?","acceptedAnswer":{"@type":"Answer","text":"Yes — at speeds of 2 mph or below, most people can type at 80-95% of their normal speed with minor adaptations. Above 2.5 mph, typing accuracy drops noticeably. The key is using a stable surface (the desk itself) and keeping your elbows close to your body."}},
-  {"@type":"Question","name":"Which walking pad is best for video calls?","acceptedAnswer":{"@type":"Answer","text":"The WalkingPad A1 Pro is the best choice for video calls due to its 40-45 dB operating noise at walking speed — near-silent during calls. Other strong options include the WalkingPad X21 (quieter than average) and Sperax Walking Pad (good balance of noise and price)."}},
   {"@type":"Question","name":"Does walking during video calls affect your professionalism?","acceptedAnswer":{"@type":"Answer","text":"Not if done thoughtfully. Most colleagues appreciate seeing someone move during calls, and research shows walking meetings boost creativity by 60%. The key is maintaining eye contact, speaking clearly, and keeping movements smooth and minimal rather than erratic."}}
 ]'
 ---
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 
 **The short answer is yes — you can use a walking pad while on video calls. The longer answer is that it depends on your camera setup, the noise level of your machine, and how you frame the call. With the right equipment and a few adjustments to your setup, walking during calls is not only possible, it can make you more alert, engaged, and productive than sitting through another hour of back-to-back meetings.**
 
@@ -332,17 +333,6 @@ The [WalkingPad X21](/best-walking-pads-2026) runs slightly louder than the A1 P
 - Handlebars: None ✅
 - Weight capacity: 265 lbs ✅
 
-### Sperax Walking Pad — Best Budget Option
-
-The Sperax lands in the 50-55 dB range at walking speeds — more audible than the A1 Pro but still workable with a headset mic. It has a 280 lb capacity (higher than both KingSmith models) and sells at a lower price point. If budget is a constraint and you have a good headset, the Sperax is a viable call companion.
-
-**Key specs for call use:**
-- Noise: 50-55 dB at call-appropriate speeds ⚠️
-- Speed range: 0.5-4.0 mph ✅
-- Folding: Yes ✅
-- Handlebars: None ✅
-- Weight capacity: 280 lbs ✅
-
 ### Goplus 2-in-1 — Best If You Want Handlebars for Stability
 
 The Goplus includes fold-down handlebars, which some users prefer for extra stability when walking at speed. It runs at 52-58 dB — noticeable on calls, but manageable with a headset. The handlebars fold away when you want a walking pad-only experience. If you have balance concerns or simply prefer handrail support, the Goplus is a practical option.
@@ -358,7 +348,6 @@ The Goplus includes fold-down handlebars, which some users prefer for extra stab
 
 ## Comparison: Walking Pad Features for Video Call Use {#comparison-table}
 
-| Feature | WalkingPad A1 Pro | WalkingPad X21 | Sperax | Goplus 2-in-1 |
 |---|---|---|---|---|
 | **Noise at 2 mph** | 40-45 dB ✅ | 48-53 dB ⚠️ | 50-55 dB ⚠️ | 52-58 dB ⚠️ |
 | **Max speed** | 4.0 mph | 7.5 mph | 4.0 mph | 6.0 mph |
@@ -368,7 +357,6 @@ The Goplus includes fold-down handlebars, which some users prefer for extra stab
 | **Bluetooth app** | Yes | Yes | No | No |
 | **Call noise rating** | Excellent | Good | Acceptable | Acceptable |
 | **Price range** | $349-399 | $399-449 | $299-349 | $249-299 |
-| **Amazon link** | [Check price](https://www.amazon.com/s?k=WalkingPad+A1+Pro&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=WalkingPad+X21&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20) | [Check price](https://www.amazon.com/s?k=Goplus+2-in-1+Treadmill&tag=walkingpadpicks-20) |
 
 ---
 
@@ -396,7 +384,6 @@ Yes — at speeds of 2 mph or below, most people can type at 80-95% of their nor
 
 ### Which walking pad is best for video calls?
 
-The WalkingPad A1 Pro is the best choice for video calls due to its 40-45 dB operating noise at walking speed — near-silent during calls. Other strong options include the WalkingPad X21 (quieter than average) and Sperax Walking Pad (good balance of noise and price).
 
 ### Does walking during video calls affect your professionalism?
 

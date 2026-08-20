@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 <video class="w-full rounded-lg my-6" preload="metadata" controls muted poster="/images/articles/best-budget-walking-pads-video-thumb.jpg" style="width:100%;border-radius:8px;margin:1.5rem 0;">
   <source src="/videos/best-budget-walking-pads-demo.mp4" type="video/mp4">
 </video>
@@ -49,7 +51,6 @@ This is the honest trade. If those limitations align with your use case — walk
 | Walking Pad | Price | Max Speed | Belt Size | Weight Limit | Weight | Foldable | Noise (at 2 mph) | Best For |
 |------------|:-----:|:---------:|:---------:|:------------:|:------:|:--------:|:----------------:|----------|
 | **WalkingPad C2 Mini** | ~$250 | 3.7 mph | 16" × 47" | 220 lbs | 33 lbs | ✅ Folds in half | Quiet | Best overall |
-| **Sperax Walking Pad** | ~$270 | 3.8 mph | 17" × 44" | 265 lbs | 44 lbs | ❌ No | Quiet | Highest weight capacity |
 | **Goplus 2-in-1** | ~$210 | 4.0 mph | 16" × 40" | 265 lbs | 55 lbs | ✅ Handlebar folds | Moderate | Handlebar option |
 | **UREVO 2T** | ~$190 | 3.5 mph | 16.5" × 43" | 240 lbs | 38 lbs | ❌ No | Quiet | Best under $200 |
 | **REDLIRO Under Desk** | ~$180 | 3.8 mph | 15.5" × 42" | 220 lbs | 36 lbs | ❌ No | Moderate | Cheapest functional pick |
@@ -95,41 +96,6 @@ The 220 lb weight limit is the main limitation. If you weigh over 190 lbs, the 3
 [Search for WalkingPad C2 Mini on Amazon](https://www.amazon.com/s?k=WalkingPad+C2+Mini&tag=walkingpadpicks-20)
 
 **Best for:** Small apartment dwellers, first-time walking pad buyers, and anyone who needs compact storage. The default recommendation for most budget buyers.
-
----
-
-### 2. Sperax Walking Pad — Best Weight Capacity Under $300
-
-<!-- [IMAGE PLACEHOLDER: Sperax Walking Pad, alt="Sperax Walking Pad showing 17-inch wide belt"] -->
-
-**Why it stands out:** The Sperax offers the highest weight capacity (265 lbs) and the widest belt (17 inches) in this budget range. For users who weigh 200–235 lbs, this is the budget pick that provides adequate safety margin — the 265 lb rating gives 30+ lbs of buffer for dynamic walking forces.
-
-The 17-inch belt is a full inch wider than the C2 Mini. That inch matters — it is the difference between your feet landing comfortably within the belt edges and occasionally brushing the side rails. For shoe sizes above US 11, the extra width provides noticeably more comfortable walking.
-
-The tradeoff is no folding: the Sperax is a solid one-piece unit at 44 inches long and 44 lbs. It slides under a desk or couch but does not compact for closet storage.
-
-**Pros:**
-- 265 lb weight capacity — highest in this list
-- 17-inch belt width — widest in the budget category
-- 3.8 mph max speed — slightly faster than C2 Mini
-- Quiet at walking speeds — suitable for office and apartment
-- Solid frame construction — no hinge weak point
-- LED speed display — clear, readable
-- Remote control included
-- ~$270 — competitive for the capacity and belt size
-
-**Cons:**
-- Not foldable — requires dedicated floor or under-desk space
-- 44 lbs — heavier than foldable options
-- 44-inch belt length — shorter than the C2 Mini (47")
-- No app connectivity (depending on model variant)
-- Plastic end caps less durable than aluminum
-- No incline
-- Narrower brand recognition than WalkingPad
-
-[Search for Sperax Walking Pad on Amazon](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20)
-
-**Best for:** Users weighing 200–235 lbs, users with larger shoe sizes (US 11+), and setups where the pad stays in place permanently. For weight limit details, see our [walking pad weight limit](/walking-pad-weight-limit) guide.
 
 ---
 
@@ -420,7 +386,6 @@ Budget walking pads last 2–4 years with daily use. With basic maintenance, you
 ## Frequently Asked Questions
 
 ### What is the best walking pad under $300?
-The WalkingPad C2 Mini (~$250) is the best overall. It folds for compact storage, runs up to 3.7 mph, supports 220 lbs, and is quiet at walking speeds. The Sperax (~$270) is better for heavier users (265 lb capacity, 17-inch belt).
 
 ### Are cheap walking pads worth it?
 Yes — for walking at 1.0–3.0 mph under a desk. The core function is identical to premium pads. Budget pads last 2–4 years vs 5–8 for premium, have narrower belts, and get louder at higher speeds. For testing the walking pad lifestyle, budget is a smart entry point.

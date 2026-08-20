@@ -1,3 +1,5 @@
+
+> **Current product-safety notice:** CPSC warned consumers on April 16, 2026 to stop using specified Sperax Pro, Q1, RM-01 and RM-02 walking pads and treadmills. We removed older recommendations and shopping links for that brand while exact models are re-audited. Check the [official CPSC warning](https://www.cpsc.gov/Warnings/2026/CPSC-Warns-Consumers-to-Stop-Using-Sperax-Walking-Pads-and-Treadmills-Immediately-Due-to-Risk-of-Serious-Injury-from-Fall-Burn-and-Fire-Hazards) and follow its stop-use instructions.
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
 By Walking Pad Picks Editorial Team
@@ -219,8 +221,6 @@ Over 5 years, budget costs 76% of premium. Over 3 years, budget costs 49–82% o
 
 
 <figure>
-  <img src="/images/wp/cheap-walking-pads/budget-walking-pad-brands-comparison.png" alt="Three top budget walking pad brands side by side: WalkingPad C2, UREVO 2T, and Sperax, all under $300" width="1024" height="1024" loading="lazy" />
-  <figcaption>The three budget brands that consistently overdeliver at their price points: WalkingPad C2, UREVO 2T, and Sperax.</figcaption>
 </figure>
 
 ### 1. WalkingPad (Xiaomi Ecosystem)
@@ -238,16 +238,6 @@ Over 5 years, budget costs 76% of premium. Over 3 years, budget costs 49–82% o
 **What to expect:** Quiet operation at walking speeds. Clean, simple design. Adequate belt quality. Basic but reliable. No app or smart features — just a motor, belt, and remote. This simplicity is an advantage: fewer features means fewer things to break.
 
 **Best model under $200:** UREVO 2T (~$190).
-
-### 3. Sperax
-
-**Why they overdeliver:** [Sperax](https://www.amazon.com/s?k=Sperax+Walking+Pad&tag=walkingpadpicks-20) offers the highest weight capacity (265 lbs) at budget prices. For users between 200–235 lbs who are priced out of premium pads, Sperax provides a safe operating margin that other budget brands do not. The 17-inch belt is also the widest at this price point.
-
-**What to expect:** Solid weight support. Wider belt for larger users. Reliable motor at walking speeds. Heavier unit (44 lbs) because the frame is built to handle the weight rating. Not foldable — the robust frame is one-piece.
-
-**Best model under $300:** Sperax Walking Pad (~$270).
-
----
 
 ## The Price Floor: Where Cheap Becomes Too Cheap
 ![Are Cheap Walking Pads Worth It? Budget Picks Tested: tips image for The Price Floor: Where Cheap Becomes Too Cheap](/images/articles/cheap-walking-pads-worth-it-tips.jpg)
@@ -370,7 +360,6 @@ Floor mat ($20–40), belt lubricant ($8–15 every 6–12 months), and potentia
 Around $150 is the floor. Below that, motor overheating, belt slippage, and build quality issues make the pad unreliable for daily use. The UREVO 2T (~$190) and REDLIRO (~$180) are the cheapest we recommend.
 
 ### Which budget brands are reliable?
-WalkingPad (Xiaomi ecosystem — best build quality), UREVO (quietest motors at the price), and Sperax (highest weight capacity at budget price). Avoid unbranded single-product Amazon sellers.
 
 > **Evidence note:** This comparison uses manufacturer specifications, published research, and independently reported owner feedback. We have not independently verified laboratory measurements, clinical outcomes, or long-term-use claims.
 
